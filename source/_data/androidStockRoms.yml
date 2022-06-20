@@ -1,0 +1,64 @@
+- name: LineageOS
+  url: https://download.lineageos.org/
+  img: /images/logos/lineageos.png
+  description: 下载 LineageOS
+- name: 魔趣 ROM
+  url: https://download.mokeedev.com/
+  img: /images/logos/mokee.png
+  description: 本地化的类原生系统
+- name: PixelExperience
+  url: https://download.pixelexperience.org/
+  img: /images/logos/pixel.png
+  description: 还原 Google Pixel 设备体验的类原生系统
+- name: Resurrection Remix
+  url: https://get.resurrectionremix.com
+  img: /images/logos/rr.png
+  description: 下载 Resurrection Remix
+- name: crDroid
+  url: https://crdroid.net/downloads
+  img: /images/logos/crdroid.png
+  description: 下载 crDroid
+- name: dotOS
+  url: http://www.droidontime.com/devices
+  img: /images/logos/dotos.png
+  description: 下载 dotOS
+- name: PixelOS
+  url: https://pixelos.vercel.app/download
+  img: /images/logos/pixelos.png
+  description: 基于 PixelExperience 的类原生系统
+- name: Havoc OS
+  url: https://havoc-os.com/download
+  img: /images/logos/havocos.png
+  description: 印度产类原生 ROM
+- name: AOSP Extended
+  url: https://downloads.aospextended.com/
+  img: /images/logos/aex.png
+  description: 下载 AOSP Extended
+- name: ProtonAOSP
+  url: https://protonaosp.org/
+  img: /images/logos/protonaosp.png
+  description: 下载 ProtonAOSP
+- name: AICP
+  url: https://dwnld.aicp-rom.com/
+  img: /images/logos/aicp.png
+  description: 下载 AICP
+- name: AOSiP
+  url: https://aosip.dev/
+  img: /images/logos/aosip.png
+  description: 下载 AOSiP
+- name: ArrowOS
+  url: https://arrowos.net/download
+  img: /images/logos/arrowos.png
+  description: 下载 ArrowOS
+- name: DerpFest
+  url: https://derpfest.org/
+  img: /images/logos/derpfest.png
+  description: 下载「猫头鹰」类原生系统
+- name: BlissRoms
+  url: https://downloads.blissroms.org/
+  img: /images/logos/blissroms.png
+  description: 下载 BlissRoms
+- name: Evolution X
+  url: https://evolution-x.org/download
+  img: /images/logos/evolutionx.png
+  description: 下载 Evolution X

@@ -1,0 +1,40 @@
+- name: 网易 UU 加速器
+  url: https://uu.163.com/
+  img: /images/logos/uu.png
+  description: 多平台游戏加速器
+- name: Steamcommunity302
+  url: https://www.dogfight360.com/blog/686/
+  img: /images/logos/steamcommunity.png
+  description: 解决 Steam Community 访问问题
+- name: MCSManager
+  url: https://github.com/Suwings/MCSManager/
+  img: /images/logos/minecraft.png
+  description: 开箱即用，多实例，轻量级的 Minecraft 服务端管理面板
+- name: HMCL
+  url: http://hmcl.huangyuhui.net/
+  img: /images/logos/minecraft.png
+  description: 第三方 Minecraft 启动器
+- name: Clickteam Fusion
+  url: https://www.clickteam.com/clickteam-fusion-2-5
+  img: /images/logos/ctf.png
+  description: 易用的游戏制作软件
+- name: GameMaker Studio 2
+  url: https://www.yoyogames.com/gamemaker
+  img: /images/logos/gms2.png
+  description: 强大的游戏制作软件
+- name: Unity
+  url: https://unity.com/cn
+  img: /images/logos/unity.png
+  description: 使用广泛的游戏引擎
+- name: OpenIV
+  url: https://openiv.com/
+  img: /images/logos/openiv.png
+  description: R 星游戏 Mod 工具
+- name: GTA5-Mods
+  url: https://zh.gta5-mods.com/
+  img: /images/logos/5mods.png
+  description: GTA V 模组下载
+- name: 植僵工具箱
+  url: https://pvz.lmintlcx.com/
+  img: /images/logos/pvz.png
+  description: 植物大战僵尸全版本辅助工具

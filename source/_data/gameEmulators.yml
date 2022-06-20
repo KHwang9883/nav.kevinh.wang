@@ -1,0 +1,52 @@
+- name: Dolphin
+  url: https://cn.dolphin-emu.org/download/
+  img: /images/logos/dolphin.png
+  description: Wii/GameCube 模拟器
+- name: DeSmuME
+  url: http://desmume.org/download/
+  img: /images/logos/desmume.png
+  description: NDS 模拟器
+- name: Citra
+  url: https://citra-emu.org/download/
+  img: /images/logos/citra.png
+  description: 3DS 模拟器
+- name: Cemu
+  url: http://cemu.info
+  img: /images/logos/cemu.png
+  description: Wii U 模拟器
+- name: yuzu
+  url: https://yuzu-emu.org/downloads/
+  img: /images/logos/yuzu.png
+  description: Nintendo Switch 模拟器
+- name: Ryujinx
+  url: https://ryujinx.org/download
+  img: /images/logos/ryujinx.png
+  description: Nintendo Switch 模拟器
+- name: RetroArch
+  url: http://www.retroarch.com/
+  img: /images/logos/retroarch.png
+  description: 多平台开源模拟器
+- name: FCEUX
+  url: http://fceux.com/web/download.html
+  img: /images/logos/fceux.png
+  description: Famicom 模拟器
+- name: Snes9X
+  url: https://www.snes9x.com/downloads.php
+  img: /images/logos/snes9x.png
+  description: SNES 模拟器
+- name: VisualBoyAdvance-M
+  url: https://github.com/visualboyadvance-m/visualboyadvance-m
+  img: /images/logos/vbam.png
+  description: GameBoy 模拟器
+- name: Project64
+  url: https://www.pj64-emu.com/windows-downloads
+  img: /images/logos/pj64.png
+  description: N64 模拟器
+- name: Ruffle
+  url: https://ruffle.rs/
+  img: /images/logos/ruffle.png
+  description: Flash Player 模拟器
+- name: DOSBox
+  url: https://www.dosbox.com/
+  img: /images/logos/dosbox.png
+  description: DOS 模拟器

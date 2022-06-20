@@ -1,0 +1,64 @@
+- name: 火绒安全
+  url: https://www.huorong.cn
+  img: /images/logos/huorong.png
+  description: 国内屈指可数的靠谱杀软
+- name: Microsoft Defender
+  url: https://www.microsoft.com/zh-cn/windows/comprehensive-security
+  img: /images/logos/windows11.png
+  description: Windows 自带防护软件，可不装其他杀软
+- name: CCleaner
+  url: https://www.ccleaner.com/
+  img: /images/logos/ccleaner.png
+  description: 还算不错的系统清理工具
+- name: Dism++
+  url: http://www.chuyu.me/zh-Hans/
+  img: /images/logos/dismpp.png
+  description: 全新的 Windows 实用工具
+- name: DiskGenius
+  url: https://www.diskgenius.cn/download.php
+  img: /images/logos/diskgenius.png
+  description: 操作需谨慎
+- name: 傲梅分区助手
+  url: https://www.disktool.cn/download.html
+  img: /images/logos/pa.png
+  description: 磁盘管理备选
+- name: Geek Uninstaller
+  url: https://geekuninstaller.com/
+  img: /images/logos/geek.png
+  description: 极客软件卸载工具
+- name: 软件屏蔽器
+  url: https://github.com/the1812/Malware-Patch
+  img: /images/logos/mwp.png
+  description: 阻止安装不受欢迎的流氓软件
+- name: SoftCnKiller
+  url: https://free.lanzoux.com/b0cpu1guf
+  img: /images/logos/softcnkiller.png
+  description: 清理已安装的流氓软件
+- name: balenaEtcher
+  url: https://www.balena.io/etcher/
+  img: /images/logos/etcher.png
+  description: 给 U 盘/SD 卡烧录镜像
+- name: Rufus
+  url: https://rufus.ie/
+  img: /images/logos/rufus.png
+  description: 创建 USB 启动盘
+- name: Ventoy
+  url: https://www.ventoy.net/cn/index.html
+  img: /images/logos/ventoy.png
+  description: 通过 U 盘中的镜像文件启动，而无需反复格式化
+- name: 微 PE 工具箱
+  url: http://www.wepe.com.cn/download.html
+  img: /images/logos/wepe.png
+  description: 干净、好用的 Windows PE 工具箱
+- name: FirPE
+  url: https://firpe.cn/page-247
+  img: /images/logos/firpe.png
+  description: 支持大量插件的 Windows PE 维护系统
+- name: 图吧工具箱
+  url: http://www.tbtool.cn/
+  img: /images/logos/tbtool.png
+  description: 最纯净的硬件工具箱
+- name: 卡硬工具箱
+  url: http://www.kbtool.cn/
+  img: /images/logos/kbtool.png
+  description: 集百家之长，掌握主机的每个角落

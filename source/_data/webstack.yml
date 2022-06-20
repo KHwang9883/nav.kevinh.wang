@@ -1,0 +1,153 @@
+favicon: /favicon.ico
+banner: /images/banner.png
+
+logo:
+  expanded: /images/logo2x.png
+  collapsed: /images/logocollapsed2x.png
+  dark: /images/logodark2x.png
+
+flag:
+  - name: 中文
+    default: true
+    icon: flag-cn
+    index: /index.html
+
+search: false
+
+githubCorner: ''
+
+expandAll: false
+menu:
+  - name: 操作系统
+    icon: fab fa-microsoft
+    config: operatingSystems
+  - name: PC 软件
+    icon: fab fa-app-store
+    submenu:
+      - name: 系统增强
+        icon: fas fa-tools
+        config: sysTools
+      - name: 上网通讯
+        icon: fab fa-internet-explorer
+        config: socialApps
+      - name: 生产力
+        icon: fas fa-briefcase
+        config: workApps
+      - name: 开发工具
+        icon: fab fa-dev
+        config: developmentTools
+      - name: 影音媒体
+        icon: far fa-play-circle
+        config: mediaApps
+      - name: 安全维护
+        icon: fas fa-shield-alt
+        config: maintainTools
+  - name: 游戏相关
+    icon: fas fa-gamepad
+    submenu:
+      - name: 游戏平台
+        icon: fas fa-gamepad
+        config: gamePlatforms
+      - name: 常玩游戏
+        icon: fas fa-gamepad
+        config: gameApps
+      - name: 游戏工具
+        icon: fas fa-dice
+        config: gameTools
+      - name: 模拟器
+        icon: fab fa-xbox
+        config: gameEmulators
+  - name: 常用网站
+    icon: fas fa-globe
+    submenu:
+      - name: 工具资源
+        icon: fas fa-dice-d6
+        config: toolSites
+      - name: 信息资料
+        icon: fas fa-file-alt
+        config: references
+      - name: 论坛百科
+        icon: fab fa-forumbee
+        config: forumsWikis
+      - name: 建站运维
+        icon: fas fa-box
+        config: webEnvironment
+  - name: 手机工具
+    icon: fas fa-mobile
+    submenu:
+      - name: 安卓应用
+        icon: fab fa-google-play
+        config: androidApps
+      - name: 安卓玩机
+        icon: fas fa-tools
+        config: androidTools
+      - name: 定制ROM
+        icon: fab fa-android
+        config: androidRoms
+      - name: 类原生ROM
+        icon: fab fa-android
+        config: androidStockRoms
+      - name: iOS工具
+        icon: fab fa-apple
+        config: iOSTools
+  - name: 最后更新：2022-06-10
+    icon: far fa-calendar
+
+about:
+  url: /about/
+  icon: far fa-heart
+  name: 关于本站
+
+aboutPage:
+  website:
+    head: 关于本站
+    html: '<blockquote><p>本站是 Kevin Huang 的个人导航站，站点使用 Hexo 主题 <a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>。</p><br /><p>本站列出的全部软件和操作系统本人都亲自使用或体验过。标有「私货」的均为本人参与或有直接关联的项目/网站。</p><br /><p>部分灵感/图标来源于<a href="https://sonic.volf.club/">狼导 - 音速装机</a>。</p><br /><p>我创建了一个 <a href="https://winstall.app/packs/eOfCPORvO">winstall 合集</a>，内含本导航收录的大部分 PC 软件。</blockquote>'
+  webmaster:
+    head: 关于站长
+    name: Kevin Huang
+    url: https://kevinh.wang/
+    img: /images/logos/blog.png
+    description: 一个不太靠谱的「三无人士」
+    html: ''
+
+since: 2020
+
+busuanzi:
+  enable: true
+  position: sidebar # 'footer','sidebar'
+  pv: 本站访问量$pv
+  uv: 本站访客数$uv
+
+custom:
+  head: |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
+    <style type="text/css">.img-circle {border-radius:0 !important}</style>
+  body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
+    <!-- 直接添加html内容即可 -->
+    <!-- 可设置多行 -->
+
+js:
+  header: /js/header.js
+  footer: /js/footer.js
+  jquery: /js/jquery-1.11.1.min.js
+  bootstrap: /js/bootstrap.min.js
+  TweenMax: /js/TweenMax.min.js
+  resizeable: /js/resizeable.min.js
+  joinable: /js/joinable.js
+  xenonApi: /js/xenon-api.min.js
+  xenonToggles: /js/xenon-toggles.min.js
+  xenonCustom: /js/xenon-custom.min.js
+  lozad: /js/lozad.min.js
+  html5shiv: /js/html5shiv.min.js
+  respond: /js/respond.min.js
+  busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
+
+css:
+  hclonely: /css/hclonely.css
+  fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
+  linecons: /css/fonts/linecons/css/linecons.min.css
+  fontawesome: /css/fonts/fontawesome/css/all.min.css
+  bootstrap: /css/bootstrap.min.css
+  xenonCore: /css/xenon-core.min.css
+  xenonComponents: /css/xenon-components.min.css
+  xenonSkins: /css/xenon-skins.min.css
+  nav: /css/nav.min.css

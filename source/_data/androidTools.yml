@@ -1,0 +1,84 @@
+- name: Android Platform Tools
+  url: https://developer.android.google.cn/studio/releases/platform-tools
+  img: /images/logos/android.png
+  description: adb/fastboot 等工具官方下载
+- name: Magisk
+  url: https://github.com/topjohnwu/Magisk
+  img: /images/logos/magisk.png
+  description: Android 的魔法面具
+- name: LSPosed
+  url: https://github.com/LSPosed/LSPosed
+  img: /images/logos/lsposed.png
+  description: 适用于 Android 8.1+ 的 Xposed 框架 (Riru/Zygisk)
+- name: Shizuku
+  url: https://shizuku.rikka.app/
+  img: /images/logos/shizuku.png
+  description: 通过 adb/root 权限直接使用系统 API
+- name: 爱玩机工具箱
+  url: https://www.coolapk.com/apk/com.byyoung.setting
+  img: /images/logos/aiwanji.png
+  description: 解锁玩机新姿势
+- name: 搞机助手·R
+  url: https://github.com/liuran001/GJZS
+  img: /images/logos/gjzs.png
+  description: 为玩机爱好者提供一些便利功能
+- name: 晨钟网络科技
+  url: https://jamcz.com/
+  img: /images/logos/jamcz.png
+  description: 实用玩机工具、玩机教程
+- name: 秋之盒
+  url: https://www.atmb.top/
+  img: /images/logos/autumnbox.png
+  description: Android 玩机工具集 | 请支持项目作者
+- name: MIUI+
+  url: https://plus.miui.com/
+  img: /images/logos/miuiplus.png
+  description: 小米手机与电脑互联协作
+- name: MiFlash
+  url: http://www.miui.com/shuaji-393.html
+  img: /images/logos/xiaomi.png
+  description: 小米线刷工具
+- name: MiFlashUnlock
+  url: http://www.miui.com/unlock/download.html
+  img: /images/logos/xiaomi.png
+  description: 小米解锁工具
+- name: 小米助手
+  url: http://zhushou.xiaomi.com/
+  img: /images/logos/xiaomi.png
+  description: 小米手机备份/Recovery 刷机
+- name: HiSuite 华为手机助手
+  url: https://consumer.huawei.com/cn/support/hisuite/
+  img: /images/logos/hisuite.png
+  description: 华为智能终端管理工具
+- name: vivo 互传
+  url: http://es.vivo.com.cn/
+  img: /images/logos/huchuan.png
+  description: vivo 手机分享文件、一键换机、PC 助手
+- name: Lenovo One
+  url: https://one.lenovo.com/download.html
+  img: /images/logos/lenovoone.png
+  description: 联想电脑、手机、平板互联协作
+- name: Lenovo Bootloader 解锁
+  url: https://www.zui.com/iunlock
+  img: /images/logos/lenovo.png
+  description: 联想手机、平板解锁 Bootloader
+- name: Flyme Root 授权
+  url: https://mroot.flyme.cn/
+  img: /images/logos/flyme.png
+  description: 魅族手机获取 Root 权限
+- name: Uperf
+  url: https://github.com/yc9559/uperf
+  img: /images/logos/github.png
+  description: Android 用户态性能控制器，通常称作「yc 调度」
+- name: TWRP Recovery
+  url: https://twrp.me/
+  img: /images/logos/twrp.png
+  description: 下载 TWRP Recovery
+- name: OrangeFox Recovery
+  url: https://orangefox.download/zh-CN
+  img: /images/logos/orangefox.png
+  description: 下载橙狐 Recovery
+- name: SkyHawk Recovery
+  url: https://skyhawkrecovery.github.io
+  img: /images/logos/shrp.png
+  description: 下载 SHRP Recovery

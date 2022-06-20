@@ -1,0 +1,52 @@
+- name: Visual Studio
+  url: https://visualstudio.microsoft.com/zh-hans/vs/
+  img: /images/logos/visualstudio.png
+  description: 地表最硬 IDE
+- name: Visual Studio Code
+  url: https://code.visualstudio.com/
+  img: /images/logos/vscode.png
+  description: 个人常用编辑器
+- name: Windows Terminal
+  url: https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701
+  img: /images/logos/terminal.png
+  description: 新版 Windows 终端
+- name: Android Studio
+  url: https://developer.android.com/studio?hl=zh-cn
+  img: /images/logos/androidstudio.png
+  description: 官方 Android IDE
+- name: GitHub Desktop
+  url: https://desktop.github.com/
+  img: /images/logos/githubdesktop.png
+  description: 官方 GitHub 用户端
+- name: Git
+  url: https://git-scm.com/
+  img: /images/logos/git.png
+  description: 开源版本控制系统
+- name: WinSCP
+  url: https://winscp.net/eng/download.php
+  img: /images/logos/winscp.png
+  description: 可视化管理远程主机文件
+- name: PuTTY
+  url: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+  img: /images/logos/putty.png
+  description: SSH 连接远程主机
+- name: Node.js
+  url: https://nodejs.org/zh-cn/
+  img: /images/logos/nodejs.png
+  description: Javascript 运行时
+- name: fnm
+  url: https://github.com/Schniz/fnm
+  img: /images/logos/nodejs.png
+  description: Node.js 版本管理
+- name: Python
+  url: https://www.python.org/downloads/
+  img: /images/logos/python.png
+  description: 流行的编程语言
+- name: Java
+  url: https://java.com/zh-CN/download/
+  img: /images/logos/java.png
+  description: 下载 Java 8
+- name: Microsoft Build of OpenJDK
+  url: https://docs.microsoft.com/zh-cn/java/openjdk/download
+  img: /images/logos/java.png
+  description: 微软 OpenJDK 构建

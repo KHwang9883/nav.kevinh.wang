@@ -1,0 +1,92 @@
+- name: Microsoft Office
+  url: https://www.office.com/
+  img: /images/logos/office.png
+  description: 首选办公软件
+- name: 腾讯文档
+  url: https://docs.qq.com/home/download
+  img: /images/logos/tdocs.png
+  description: 支持协作的办公软件
+- name: 百度网盘
+  url: https://pan.baidu.com/download
+  img: /images/logos/baidupan.png
+  description: 用户量大的网盘
+- name: 阿里云盘
+  url: https://www.aliyundrive.com/
+  img: /images/logos/aliyundrive.png
+  description: 大容量网盘
+- name: PowerToys
+  url: https://github.com/microsoft/PowerToys/releases
+  img: /images/logos/powertoys.png
+  description: 微软生产力增强工具
+- name: Adobe Creative Cloud
+  url: https://www.adobe.com/cn/creativecloud/catalog/desktop.html
+  img: /images/logos/adobe.png
+  description: Adobe 生产力软件
+- name: GIMP
+  url: https://www.gimp.org/
+  img: /images/logos/gimp.png
+  description: 开源修图软件
+- name: paint.net
+  url: https://www.dotpdn.com/downloads/pdn.html
+  img: /images/logos/pdn.png
+  description: 免费画图软件
+- name: DaVinci Resolve
+  url: https://www.blackmagicdesign.com/cn/products/davinciresolve/
+  img: /images/logos/davinci.png
+  description: 免费剪辑工具
+- name: OBS Studio
+  url: https://obsproject.com/zh-cn/download
+  img: /images/logos/obs.png
+  description: 视频录制 & 直播
+- name: 哔哩哔哩直播姬
+  url: https://live.bilibili.com/liveHime
+  img: /images/logos/livehime.png
+  description: B 站直播用户端
+- name: uTools
+  url: https://www.u.tools/
+  img: /images/logos/utools.png
+  description: 你的生产力工具集
+- name: Snipaste
+  url: https://zh.snipaste.com/
+  img: /images/logos/snipaste.png
+  description: 简单但强大的截图工具
+- name: ScreenToGif
+  url: https://www.screentogif.com/downloads
+  img: /images/logos/stg.png
+  description: 录屏或视频转 Gif
+- name: File Converter
+  url: https://file-converter.org/
+  img: /images/logos/converter.png
+  description: 右键菜单转换文件格式
+- name: MediaCoder
+  url: https://www.mediacoderhq.com/
+  img: /images/logos/mcoder.png
+  description: 不止是音视频转码器
+- name: 小丸工具箱
+  url: https://maruko.appinn.me/
+  img: /images/logos/maruko.png
+  description: 视频压制神器
+- name: OpenMPT
+  url: https://openmpt.org/
+  img: /images/logos/openmpt.png
+  description: 开源的模块音乐编辑器
+- name: 菲菲更名宝贝 之 得意非凡
+  url: http://www.ffhome.com/works/1406.html
+  img: /images/logos/feifei.png
+  description: 强大的批量重命名工具
+- name: Syncthing
+  url: https://syncthing.net/
+  img: /images/logos/syncthing.png
+  description: 多设备文件同步
+- name: 万彩办公大师
+  url: http://www.wofficebox.com/
+  img: /images/logos/officebox.png
+  description: 办公必备的小工具百宝箱
+- name: LANDrop
+  url: https://landrop.app/
+  img: /images/logos/landrop.png
+  description: 跨平台局域网文件传输工具
+- name: 深蓝词库转换
+  url: https://github.com/studyzy/imewlconverter
+  img: /images/logos/imewlconverter.png
+  description: 一款开源的输入法词库转换程序

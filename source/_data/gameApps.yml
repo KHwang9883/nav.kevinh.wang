@@ -1,0 +1,16 @@
+- name: Minecraft
+  url: https://www.minecraft.net/zh-hans/get-minecraft
+  img: /images/logos/minecraft.png
+  description: 流行像素风游戏
+- name: 跑跑卡丁车
+  url: https://popkart.tiancity.com/homepage/download/
+  img: /images/logos/kartrider.png
+  description: 童年回忆赛车在线游戏
+- name: osu!
+  url: https://osu.ppy.sh/home/download
+  img: /images/logos/osu.png
+  description: 棒到不行的免费音游
+- name: 植物僵尸相关下载
+  url: http://lonelystar.org/download.htm
+  img: /images/logos/pvz.png
+  description: 植物大战僵尸资源

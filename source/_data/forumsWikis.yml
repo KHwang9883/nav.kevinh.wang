@@ -1,0 +1,48 @@
+- name: 我的世界中文论坛
+  url: https://www.mcbbs.net/
+  img: /images/logos/minecraft.png
+  description: 国内最大的 Minecraft 论坛
+- name: 其乐 Keylol
+  url: https://keylol.com/
+  img: /images/logos/keylol.png
+  description: 驱动正版游戏的引擎
+- name: 远景论坛
+  url: http://bbs.pcbeta.com/
+  img: /images/logos/pcbeta.png
+  description: 微软极客社区 & 国内最大的 Hackintosh 论坛
+- name: Mario Forever 社区
+  url: https://www.marioforever.net/
+  img: /images/logos/mforever.png
+  description: 「私货」Mario Forever 爱好者的家园
+- name: 全球主机交流论坛
+  url: https://www.hostloc.com/forum.php
+  img: /images/logos/hostloc.png
+  description: 全球 IDC 主机交流
+- name: XDA-Developers
+  url: https://www.xda-developers.com/
+  img: /images/logos/xda.png
+  description: XDA 论坛
+- name: 萌娘百科
+  url: https://zh.moegirl.org.cn/
+  img: /images/logos/moegirl.png
+  description: 万物皆可萌的百科全书
+- name: ArchWiki
+  url: https://wiki.archlinux.org/
+  img: /images/logos/archlinux.png
+  description: 详细的在线 Arch GNU/Linux 文档库
+- name: 中文 Minecraft Wiki
+  url: https://minecraft.fandom.com/zh/wiki/
+  img: /images/logos/minecraft.png
+  description: 最详细的官方我的世界百科
+- name: 中文 Terraria Wiki
+  url: https://terraria.fandom.com/zh/wiki/
+  img: /images/logos/terrariawiki.png
+  description: 最详细的中文泰拉瑞亚百科
+- name: Wikipedia
+  url: https://en.wikipedia.org/
+  img: /images/logos/wikipedia.png
+  description: 英文维基百科
+- name: The iPhone Wiki
+  url: https://www.theiphonewiki.com/
+  img: /images/logos/apple.png
+  description: iDevices 信息库

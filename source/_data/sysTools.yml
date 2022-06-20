@@ -1,0 +1,56 @@
+- name: WinGet
+  url: https://docs.microsoft.com/zh-cn/windows/package-manager/winget/
+  img: /images/logos/windows11.png
+  description: 一条命令即可安装 Windows 程序
+- name: 7-Zip
+  url: https://www.7-zip.org/
+  img: /images/logos/7zip.png
+  description: 开源压缩软件
+- name: Everything
+  url: https://www.voidtools.com/zh-cn/downloads/
+  img: /images/logos/everything.png
+  description: 文件查找利器
+- name: Motrix
+  url: https://motrix.app/zh-CN/
+  img: /images/logos/motrix.png
+  description: 一款全能的下载工具，基本可以替代迅雷
+- name: QTTabBar
+  url: http://qttabbar.wikidot.com/
+  img: /images/logos/qttabbar.png
+  description: 资源管理器增强
+- name: TranslucentTB
+  url: https://github.com/TranslucentTB/TranslucentTB
+  img: /images/logos/translucenttb.png
+  description: 使任务栏透明
+- name: MacType
+  url: https://www.mactype.net/
+  img: /images/logos/mactype.png
+  description: 优化 Windows 字体渲染
+- name: HiPC
+  url: https://hipc.cn/
+  img: /images/logos/hipc.png
+  description: 用手机，远程监视与控制 PC
+- name: VMware Workstation Player
+  url: https://www.vmware.com/cn/products/workstation-player/workstation-player-evaluation.html
+  img: /images/logos/vmwareplayer.png
+  description: Vmware 免费虚拟机
+- name: VirtualBox
+  url: https://www.virtualbox.org/wiki/Downloads
+  img: /images/logos/virtualbox.png
+  description: Oracle 开源虚拟机
+- name: WSA 工具箱
+  url: https://www.microsoft.com/store/productId/9PPSP2MKVTGT
+  img: /images/logos/android.png
+  description: 在 Windows 安卓子系统中安装 APK、管理 APP、查看进程以及传输文件
+- name: MagiskOnWSA
+  url: https://github.com/LSPosed/MagiskOnWSA/
+  img: /images/logos/android.png
+  description: 在 Windows 安卓子系统中集成 Magisk & GApps
+- name: WizTree1
+  url: https://diskanalyzer.com/download
+  img: /images/logos/wiztree.png
+  description: 轻松查找大文件
+- name: spacedesk
+  url: https://www.spacedesk.net/
+  img: /images/logos/spacedesk.png
+  description: 使你的其他设备变身 Windows PC 的扩展显示器

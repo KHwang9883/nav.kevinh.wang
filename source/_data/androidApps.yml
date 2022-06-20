@@ -1,0 +1,60 @@
+- name: Termux
+  url: https://termux.com/
+  img: /images/logos/termux.png
+  description: 终端模拟器 + Linux 环境
+- name: JuiceSSH
+  url: https://play.google.com/store/apps/details?id=com.sonelli.juicessh
+  img: /images/logos/juicessh.png
+  description: Android SSH 用户端
+- name: LibChecker
+  url: https://github.com/zhaobozhen/LibChecker
+  img: /images/logos/libchecker.png
+  description: 查看本机 Android 应用架构与第三方库
+- name: MT 管理器
+  url: https://www.coolapk.com/apk/bin.mt.plus
+  img: /images/logos/mt.png
+  description: 文件管理器 + APK 逆向工具
+- name: 一个木函
+  url: https://www.woobx.cn/
+  img: /images/logos/woodbox.png
+  description: 多功能效率工具箱
+- name: 锤子便签
+  url: https://www.smartisan.com/apps/#/notes
+  img: /images/logos/smartisannotes.png
+  description: 可能是史上最漂亮的便签应用
+- name: Discuz Hub
+  url: https://discuzhub.kidozh.com/
+  img: /images/logos/discuzhub.png
+  description: 轻量的 Discuz! 安卓应用
+- name: Linux Deploy
+  url: https://github.com/meefik/linuxdeploy
+  img: /images/logos/github.png
+  description: 在已 root 的 Android 设备上部署 GNU/Linux
+- name: APKMirror
+  url: https://www.apkmirror.com/
+  img: /images/logos/apkmirror.png
+  description: 第三方 Android 应用市场
+- name: APKPure
+  url: https://apkpure.com/
+  img: /images/logos/apkpure.png
+  description: 第三方 Android 应用市场
+- name: APKCombo
+  url: https://apkcombo.com/zh/
+  img: /images/logos/apkcombo.png
+  description: 第三方 Android 应用市场
+- name: Aurora Store
+  url: https://auroraoss.com/download/
+  img: /images/logos/aurorastore.png
+  description: 开源第三方 Google Play 商店用户端
+- name: F-Droid
+  url: https://f-droid.org/
+  img: /images/logos/fdroid.png
+  description: Android 自由软件分发平台
+- name: 白眼
+  url: https://epcdiy.org
+  img: /images/logos/byakugan.png
+  description: 山寨机跑分、甄别工具
+- name: Google Camera Ports Download
+  url: https://www.celsoazevedo.com/files/android/google-camera/
+  img: /images/logos/gcam.png
+  description: Google 相机机型适配

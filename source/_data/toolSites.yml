@@ -1,0 +1,48 @@
+- name: winstall
+  url: https://winstall.app/
+  img: /images/logos/winstall.png
+  description: 生成 WinGet 一键安装脚本
+- name: LDTools
+  url: https://ldtstore.com.cn/ldtools/
+  img: /images/logos/laodi.png
+  description: 硬件玩家专属的工具网站
+- name: 蓝奏云
+  url: https://pc.woozooo.com/
+  img: /images/logos/lanzou.png
+  description: 免费高速云盘
+- name: 猫啃
+  url: https://www.maoken.com/
+  img: /images/logos/maoken.png
+  description: 免费商用字体下载
+- name: Freedgo
+  url: https://www.freedgo.com/
+  img: /images/logos/freedgo.png
+  description: 强大的在线绘图工具
+- name: 硕鼠
+  url: https://www.flvcd.com/
+  img: /images/logos/bigrat.png
+  description: 下载视频网站上的视频
+- name: 历史价格查询
+  url: http://www.lsjgcx.com/
+  img: /images/logos/price.png
+  description: 查询商品历史价格走势
+- name: 太美工具网
+  url: https://tiomg.org/
+  img: /images/logos/tiomg.png
+  description: 免费在线软件工具包
+- name: 密码生成器
+  url: https://suijimimashengcheng.bmcx.com/
+  img: /images/logos/passwdgenerator.png
+  description: 生成随机密码
+- name: Smash Custom Music
+  url: https://smashcustommusic.net/
+  img: /images/logos/smash.png
+  description: 游戏音乐资源站
+- name: The Spriters Resource
+  url: https://www.spriters-resource.com/
+  img: /images/logos/spritersresource.png
+  description: 游戏素材资源站
+- name: excel2wiki
+  url: https://excel2wiki.toolforge.org/
+  img: /images/logos/excel2wiki.png
+  description: Excel 转 Wikitext 格式
