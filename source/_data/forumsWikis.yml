@@ -14,10 +14,6 @@
   url: https://www.right.com.cn/forum/
   img: /images/logos/ensan.jpg
   description: 无线爱好者汇聚之地
-- name: Mario Forever 社区
-  url: https://www.marioforever.net/
-  img: /images/logos/mforever.png
-  description: 「私货」Mario Forever 爱好者的家园
 - name: 全球主机交流论坛
   url: https://www.hostloc.com/forum.php
   img: /images/logos/hostloc.png
@@ -26,6 +22,14 @@
   url: https://www.xda-developers.com/
   img: /images/logos/xda.png
   description: XDA 门户 & 论坛
+- name: Mario Forever 社区
+  url: https://www.marioforever.net/
+  img: /images/logos/mforever.png
+  description: 「私货」Mario Forever 爱好者的家园
+- name: SMBX World 中文社区
+  url: https://smbx.world/
+  img: /images/logos/smbxworld.png
+  description: 「私货」中文 SMBX 玩家与创作家的世界
 - name: 萌娘百科
   url: https://zh.moegirl.org.cn/
   img: /images/logos/moegirl.png
