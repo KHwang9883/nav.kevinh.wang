@@ -10,6 +10,10 @@
   url: http://bbs.pcbeta.com/
   img: /images/logos/pcbeta.png
   description: 微软极客社区 & 国内最大的 Hackintosh 论坛
+- name: 恩山无线论坛
+  url: https://www.right.com.cn/forum/
+  img: /images/logos/ensan.jpg
+  description: 无线爱好者汇聚之地
 - name: Mario Forever 社区
   url: https://www.marioforever.net/
   img: /images/logos/mforever.png
@@ -21,7 +25,7 @@
 - name: XDA-Developers
   url: https://www.xda-developers.com/
   img: /images/logos/xda.png
-  description: XDA 论坛
+  description: XDA 门户 & 论坛
 - name: 萌娘百科
   url: https://zh.moegirl.org.cn/
   img: /images/logos/moegirl.png
