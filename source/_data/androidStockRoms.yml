@@ -10,10 +10,10 @@
   url: https://download.pixelexperience.org/
   img: /images/logos/pixel.png
   description: 还原 Google Pixel 设备体验的类原生系统
-- name: Resurrection Remix
-  url: https://get.resurrectionremix.com
-  img: /images/logos/rr.png
-  description: 下载 Resurrection Remix
+- name: PixelExtended
+  url: https://pixelextended.ninja/
+  img: /images/logos/pixelext.png
+  description: 基于 PixelExperience 的类原生系统
 - name: crDroid
   url: https://crdroid.net/downloads
   img: /images/logos/crdroid.png
@@ -22,14 +22,14 @@
   url: http://www.droidontime.com/devices
   img: /images/logos/dotos.png
   description: 下载 dotOS
-- name: PixelOS
-  url: https://pixelos.vercel.app/download
-  img: /images/logos/pixelos.png
-  description: 基于 PixelExperience 的类原生系统
 - name: Havoc OS
   url: https://havoc-os.com/download
   img: /images/logos/havocos.png
   description: 印度产类原生 ROM
+- name: PixelOS
+  url: https://pixelos.vercel.app/download
+  img: /images/logos/pixelos.png
+  description: 基于 PixelExperience 的类原生系统
 - name: AOSP Extended
   url: https://downloads.aospextended.com/
   img: /images/logos/aex.png
@@ -58,6 +58,10 @@
   url: https://derpfest.org/devices.html
   img: /images/logos/derpfest.png
   description: 下载「猫头鹰」类原生系统
+- name: Resurrection Remix
+  url: https://get.resurrectionremix.com
+  img: /images/logos/rr.png
+  description: 下载 Resurrection Remix
 - name: BlissRoms
   url: https://downloads.blissroms.org/
   img: /images/logos/blissroms.png
