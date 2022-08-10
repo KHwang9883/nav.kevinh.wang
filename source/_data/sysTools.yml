@@ -46,7 +46,7 @@
   url: https://github.com/LSPosed/MagiskOnWSA/
   img: /images/logos/android.png
   description: 在 Windows 安卓子系统中集成 Magisk & GApps
-- name: WizTree1
+- name: WizTree
   url: https://diskanalyzer.com/download
   img: /images/logos/wiztree.png
   description: 轻松查找大文件

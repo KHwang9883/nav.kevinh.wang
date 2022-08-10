@@ -42,6 +42,10 @@
   url: https://live.bilibili.com/liveHime
   img: /images/logos/livehime.png
   description: B 站直播用户端
+- name: Parsec
+  url: https://parsec.app/
+  img: /images/logos/parsec.png
+  description: 强大的远程桌面
 - name: uTools
   url: https://www.u.tools/
   img: /images/logos/utools.png
