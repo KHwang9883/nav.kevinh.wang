@@ -17,7 +17,7 @@
 - name: Debian
   url: https://www.debian.org/
   img: /images/logos/debian.png
-  description: 自由的操作系统，为本站 VPS 所采用
+  description: 自由的操作系统，为本人 VPS 所采用
 - name: Ubuntu
   url: https://ubuntu.com/download
   img: /images/logos/ubuntu.png
@@ -33,7 +33,7 @@
 - name: deepin
   url: https://www.deepin.org/zh/download/
   img: /images/logos/deepin.png
-  description: 基于 Debian 的国产 GNU/Linux 发行版
+  description: 国产 GNU/Linux 发行版
 - name: Raspberry Pi OS
   url: https://www.raspberrypi.org/software/operating-systems/
   img: /images/logos/raspi.png
