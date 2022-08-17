@@ -34,6 +34,10 @@
   url: https://www.xiaoheihe.cn/
   img: /images/logos/xhh.png
   description: 高能玩家聚集地
+- name: Moonlight
+  url: https://moonlight-stream.org/
+  img: /images/logos/moonlight.png
+  description: 开源 NVIDIA 游戏串流客户端
 - name: OpenIV
   url: https://openiv.com/
   img: /images/logos/openiv.png
