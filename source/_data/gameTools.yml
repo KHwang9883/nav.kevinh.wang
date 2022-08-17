@@ -26,6 +26,14 @@
   url: https://unity.com/cn
   img: /images/logos/unity.png
   description: 使用广泛的游戏引擎
+- name: Godot
+  url: https://godotengine.org/
+  img: /images/logos/godot.png
+  description: 开源 2D & 3D 游戏引擎
+- name: 小黑盒
+  url: https://www.xiaoheihe.cn/
+  img: /images/logos/xhh.png
+  description: 高能玩家聚集地
 - name: OpenIV
   url: https://openiv.com/
   img: /images/logos/openiv.png

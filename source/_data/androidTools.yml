@@ -30,10 +30,10 @@
   url: https://www.atmb.top/
   img: /images/logos/autumnbox.png
   description: Android 玩机工具集 | 请支持项目作者
-- name: MIUI+
-  url: https://plus.miui.com/
-  img: /images/logos/miuiplus.png
-  description: 小米手机与电脑互联协作
+- name: Swift Backup
+  url: https://swiftapps.org/
+  img: /images/logos/swiftbackup.png
+  description: Android 手机通用备份 App
 - name: MiFlash
   url: http://www.miui.com/shuaji-393.html
   img: /images/logos/xiaomi.png

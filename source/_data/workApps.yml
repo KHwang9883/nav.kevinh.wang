@@ -82,6 +82,10 @@
   url: https://syncthing.net/
   img: /images/logos/syncthing.png
   description: 多设备文件同步
+- name: B 站录播姬
+  url: https://rec.danmuji.org/
+  img: /images/logos/lubo.png
+  description: 方便好用、免费开源的 B 站直播录制工具
 - name: 万彩办公大师
   url: http://www.wofficebox.com/
   img: /images/logos/officebox.png

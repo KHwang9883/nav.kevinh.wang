@@ -14,6 +14,10 @@
   url: https://www.apple.com.cn/itunes/
   img: /images/logos/itunes.png
   description: Apple Music
+- name: 哔哩哔哩
+  url: https://app.bilibili.com/
+  img: /images/logos/bili.png
+  description: B 站官方客户端
 - name: PotPlayer
   url: http://potplayer.daum.net/?lang=zh_CN
   img: /images/logos/potplayer.png
