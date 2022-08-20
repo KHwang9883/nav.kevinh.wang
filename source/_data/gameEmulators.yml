@@ -26,10 +26,14 @@
   url: http://www.retroarch.com/
   img: /images/logos/retroarch.png
   description: 多平台开源模拟器
+- name: Mesen
+  url: https://www.mesen.ca/
+  img: /images/logos/mesen.png
+  description: 高精确 NES/SNES 模拟器
 - name: FCEUX
   url: http://fceux.com/web/download.html
   img: /images/logos/fceux.png
-  description: Famicom 模拟器
+  description: Famicom/NES 模拟器
 - name: Snes9X
   url: https://www.snes9x.com/downloads.php
   img: /images/logos/snes9x.png
