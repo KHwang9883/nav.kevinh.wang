@@ -54,3 +54,7 @@
   url: https://www.spacedesk.net/
   img: /images/logos/spacedesk.png
   description: 使你的其他设备变身 Windows PC 的扩展显示器
+- name: IObit Unlocker
+  url: https://www.iobit.com/en/iobit-unlocker.php
+  img: /images/logos/iobitunlocker.png
+  description: 解除文件/文件夹占用的小工具

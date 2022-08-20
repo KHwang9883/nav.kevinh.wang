@@ -86,6 +86,10 @@
   url: https://rec.danmuji.org/
   img: /images/logos/lubo.png
   description: 方便好用、免费开源的 B 站直播录制工具
+- name: Fraps
+  url: https://www.fraps.com/download.php
+  img: /images/logos/fraps.png
+  description: 显示游戏帧数并录制 AVI
 - name: 万彩办公大师
   url: http://www.wofficebox.com/
   img: /images/logos/officebox.png
