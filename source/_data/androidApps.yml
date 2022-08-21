@@ -22,10 +22,10 @@
   url: https://www.smartisan.com/apps/#/notes
   img: /images/logos/smartisannotes.png
   description: 可能是史上最漂亮的便签应用
-- name: Discuz Hub
-  url: https://discuzhub.kidozh.com/
-  img: /images/logos/discuzhub.png
-  description: 轻量的 Discuz! 安卓应用
+- name: Swift Backup
+  url: https://swiftapps.org/
+  img: /images/logos/swiftbackup.png
+  description: Android 手机通用备份 App
 - name: Linux Deploy
   url: https://github.com/meefik/linuxdeploy
   img: /images/logos/github.png
@@ -54,6 +54,10 @@
   url: https://epcdiy.org
   img: /images/logos/byakugan.png
   description: 山寨机跑分、甄别工具
+- name: Discuz Hub
+  url: https://discuzhub.kidozh.com/
+  img: /images/logos/discuzhub.png
+  description: 轻量的 Discuz! 安卓应用
 - name: Google Camera Ports Download
   url: https://www.celsoazevedo.com/files/android/google-camera/
   img: /images/logos/gcam.png
