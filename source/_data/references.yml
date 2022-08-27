@@ -38,6 +38,10 @@
   url: https://github.com/mzlogin/chinese-copywriting-guidelines
   img: /images/logos/github.png
   description: 增强排版气质
+- name: endoflife.date
+  url: https://endoflife.date/
+  img: /images/logos/github.png
+  description: 查询软件生命周期
 - name: MobileModels
   url: https://github.com/KHwang9883/MobileModels
   img: /images/logos/github.png
