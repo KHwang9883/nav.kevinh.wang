@@ -42,6 +42,14 @@
   url: https://wiki.archlinux.org/
   img: /images/logos/archlinux.png
   description: 详细的在线 Arch GNU/Linux 文档库
+- name: BetaWiki
+  url: https://betawiki.net/
+  img: /images/logos/betawiki.png
+  description: 记录操作系统和应用程序的历史和演变的百科全书
+- name: Free Software Directory
+  url: https://directory.fsf.org/
+  img: /images/logos/gnu.png
+  description: 自由软件目录大全
 - name: 中文 Minecraft Wiki
   url: https://minecraft.fandom.com/zh/wiki/
   img: /images/logos/minecraft.png
@@ -50,6 +58,14 @@
   url: https://terraria.fandom.com/zh/wiki/
   img: /images/logos/terrariawiki.png
   description: 最详细的中文泰拉瑞亚百科
+- name: Super Mario Wiki
+  url: https://www.mariowiki.com/
+  img: /images/logos/mariowiki.png
+  description: 《超级马力欧》系列游戏英文百科
+- name: GameWiki
+  url: http://wiki.nesbbs.com/
+  img: /images/logos/gamewiki.png
+  description: 致力于挖掘和研究电子游戏内容的百科
 - name: Wikipedia
   url: https://en.wikipedia.org/
   img: /images/logos/wikipedia.png
