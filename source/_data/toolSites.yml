@@ -34,6 +34,10 @@
   url: http://www.lsjgcx.com/
   img: /images/logos/price.png
   description: 查询商品历史价格走势
+- name: IP 查询 (ipw.cn)
+  url: https://ipw.cn/
+  img: /images/logos/ipw.png
+  description: IPv6 检测
 - name: 太美工具网
   url: https://tiomg.org/
   img: /images/logos/tiomg.png
