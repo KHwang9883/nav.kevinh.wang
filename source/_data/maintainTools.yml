@@ -5,11 +5,11 @@
 - name: Microsoft Defender
   url: https://www.microsoft.com/zh-cn/windows/comprehensive-security
   img: /images/logos/windows11.png
-  description: Windows 自带防护软件，可不装其他杀软
+  description: Windows 自带防护软件，可不装其他杀毒软件
 - name: CCleaner
   url: https://www.ccleaner.com/
   img: /images/logos/ccleaner.png
-  description: 还算不错的系统清理工具
+  description: 知名的系统清理工具
 - name: Dism++
   url: http://www.chuyu.me/zh-Hans/
   img: /images/logos/dismpp.png
@@ -17,11 +17,11 @@
 - name: DiskGenius
   url: https://www.diskgenius.cn/download.php
   img: /images/logos/diskgenius.png
-  description: 操作需谨慎
+  description: 磁盘管理软件，操作需谨慎
 - name: 傲梅分区助手
   url: https://www.disktool.cn/download.html
   img: /images/logos/pa.png
-  description: 磁盘管理备选
+  description: 磁盘管理备选，操作需谨慎
 - name: Geek Uninstaller
   url: https://geekuninstaller.com/
   img: /images/logos/geek.png

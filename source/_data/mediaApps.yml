@@ -25,7 +25,7 @@
 - name: VLC media player
   url: https://www.videolan.org/vlc/
   img: /images/logos/vlc.png
-  description: 开源播放器
+  description: 开源多媒体播放器
 - name: Listen1
   url: https://listen1.github.io/listen1/
   img: /images/logos/listen1.png

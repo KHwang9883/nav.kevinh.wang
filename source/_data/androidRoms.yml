@@ -9,7 +9,7 @@
 - name: MIUI 历史版本
   url: https://miuiver.com/
   img: /images/logos/miui.png
-  description: 各机型 MIUI 历史版本分类索引
+  description: 各机型 MIUI 版本分类索引，需注册
 - name: MIUI 官方 ROM 仓库
   url: https://roms.miuier.com/
   img: /images/logos/miui.png
@@ -29,11 +29,11 @@
 - name: 一加系统官网下载
   url: https://www.oneplus.com/cn/support/softwareupgrade
   img: /images/logos/oneplus.png
-  description: HydrogenOS / ColorOS / OxygenOS
+  description: ColorOS / HydrogenOS / OxygenOS
 - name: realme UI 官网下载
   url: https://www.realme.com/support/software-update
   img: /images/logos/realme.png
-  description: realme 手机搭载的系统
+  description: 真我手机搭载的系统
 - name: OriginOS 官网下载
   url: https://www.vivo.com/upgrade/index
   img: /images/logos/originos.png

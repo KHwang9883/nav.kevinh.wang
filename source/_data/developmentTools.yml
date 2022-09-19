@@ -5,7 +5,7 @@
 - name: Visual Studio Code
   url: https://code.visualstudio.com/
   img: /images/logos/vscode.png
-  description: 个人常用编辑器
+  description: 强大的代码编辑器
 - name: Windows Terminal
   url: https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701
   img: /images/logos/terminal.png
@@ -17,7 +17,7 @@
 - name: GitHub Desktop
   url: https://desktop.github.com/
   img: /images/logos/githubdesktop.png
-  description: 官方 GitHub 用户端
+  description: 官方 GitHub 桌面用户端
 - name: Git
   url: https://git-scm.com/
   img: /images/logos/git.png

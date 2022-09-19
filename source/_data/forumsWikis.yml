@@ -66,10 +66,6 @@
   url: http://wiki.nesbbs.com/
   img: /images/logos/gamewiki.png
   description: 致力于挖掘和研究电子游戏内容的百科
-- name: Wikipedia
-  url: https://en.wikipedia.org/
-  img: /images/logos/wikipedia.png
-  description: 英文维基百科
 - name: The iPhone Wiki
   url: https://www.theiphonewiki.com/
   img: /images/logos/apple.png

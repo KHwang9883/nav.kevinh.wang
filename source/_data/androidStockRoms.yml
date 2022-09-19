@@ -2,10 +2,6 @@
   url: https://download.lineageos.org/
   img: /images/logos/lineageos.png
   description: 下载 LineageOS
-- name: 魔趣 ROM
-  url: https://download.mokeedev.com/
-  img: /images/logos/mokee.png
-  description: 本地化的类原生系统
 - name: PixelExperience
   url: https://download.pixelexperience.org/
   img: /images/logos/pixel.png
@@ -22,14 +18,18 @@
   url: http://www.droidontime.com/devices
   img: /images/logos/dotos.png
   description: 下载 dotOS
-- name: Havoc OS
-  url: https://havoc-os.com/download
-  img: /images/logos/havocos.png
-  description: 印度产类原生 ROM
-- name: PixelOS
-  url: https://pixelos.net/download
-  img: /images/logos/pixelos.png
-  description: 基于 PixelExperience 的类原生系统
+- name: KaleidoscopeOS
+  url: https://kaleidoscope.ink/download.html
+  img: /images/logos/kaleidoscope.png
+  description: 下载「万花筒」类原生系统
+- name: ArrowOS
+  url: https://arrowos.net/download
+  img: /images/logos/arrowos.png
+  description: 下载 ArrowOS
+- name: DerpFest
+  url: https://derpfest.org/devices.html
+  img: /images/logos/derpfest.png
+  description: 下载「猫头鹰」类原生系统
 - name: AOSP Extended
   url: https://downloads.aospextended.com/
   img: /images/logos/aex.png
@@ -46,18 +46,18 @@
   url: https://aosip.dev/
   img: /images/logos/aosip.png
   description: 下载 AOSiP
-- name: KaleidoscopeOS
-  url: https://kaleidoscope.ink/download.html
-  img: /images/logos/kaleidoscope.png
-  description: 下载「万花筒」类原生系统
-- name: ArrowOS
-  url: https://arrowos.net/download
-  img: /images/logos/arrowos.png
-  description: 下载 ArrowOS
-- name: DerpFest
-  url: https://derpfest.org/devices.html
-  img: /images/logos/derpfest.png
-  description: 下载「猫头鹰」类原生系统
+- name: PixelOS
+  url: https://pixelos.net/download
+  img: /images/logos/pixelos.png
+  description: 基于 PixelExperience 的类原生系统
+- name: Havoc OS
+  url: https://havoc-os.com/download
+  img: /images/logos/havocos.png
+  description: 印度产类原生 ROM
+- name: 魔趣 ROM
+  url: https://download.mokeedev.com/
+  img: /images/logos/mokee.png
+  description: 本地化的类原生系统
 - name: Resurrection Remix
   url: https://get.resurrectionremix.com
   img: /images/logos/rr.png
