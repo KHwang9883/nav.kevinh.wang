@@ -26,6 +26,14 @@
   url: https://artlist.io/
   img: /images/logos/artlist.jpg
   description: 找音乐素材
+- name: Sakura Frp
+  url: https://www.natfrp.com/
+  img: /images/logos/sakurafrp.png
+  description: 免费内网穿透
+- name: 青柠起始页
+  url: https://limestart.cn/
+  img: /images/logos/limestart.png
+  description: 简洁、美观、实用的浏览器起始页
 - name: 硕鼠
   url: https://www.flvcd.com/
   img: /images/logos/bigrat.png

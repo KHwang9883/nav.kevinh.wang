@@ -33,7 +33,7 @@
 - name: VMware Workstation Player
   url: https://www.vmware.com/cn/products/workstation-player/workstation-player-evaluation.html
   img: /images/logos/vmwareplayer.png
-  description: Vmware 免费虚拟机
+  description: VMware 免费虚拟机
 - name: VirtualBox
   url: https://www.virtualbox.org/wiki/Downloads
   img: /images/logos/virtualbox.png

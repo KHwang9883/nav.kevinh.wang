@@ -57,7 +57,7 @@
 - name: F-Droid
   url: https://f-droid.org/
   img: /images/logos/fdroid.png
-  description: Android 自由软件分发平台
+  description: Android 自由/开源软件分发平台
 - name: 白眼
   url: https://epcdiy.org
   img: /images/logos/byakugan.png
