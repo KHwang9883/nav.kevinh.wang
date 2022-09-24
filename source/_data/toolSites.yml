@@ -54,6 +54,10 @@
   url: https://suijimimashengcheng.bmcx.com/
   img: /images/logos/passwdgenerator.png
   description: 生成随机密码
+- name: UFO Test
+  url: https://testufo.com/
+  img: /images/logos/ufotest.png
+  description: 检测显示器刷新率
 - name: Smash Custom Music
   url: https://smashcustommusic.net/
   img: /images/logos/smash.png
