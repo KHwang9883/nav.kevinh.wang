@@ -14,6 +14,10 @@
   url: https://motrix.app/zh-CN/
   img: /images/logos/motrix.png
   description: 一款全能的下载工具，基本可以替代迅雷
+- name: Honeyview
+  url: http://cn.bandisoft.com/honeyview/
+  img: /images/logos/honeyview.png
+  description: 支持众多格式的看图软件
 - name: QTTabBar
   url: http://qttabbar.wikidot.com/
   img: /images/logos/qttabbar.png
