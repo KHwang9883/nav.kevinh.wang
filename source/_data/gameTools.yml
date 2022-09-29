@@ -6,6 +6,10 @@
   url: https://www.dogfight360.com/blog/686/
   img: /images/logos/steamcommunity.png
   description: 解决 Steam Community 访问问题
+- name: Watt Toolkit (原名 Steam++)
+  url: http://steampp.net/
+  img: /images/logos/steampp.png
+  description: 开源跨平台游戏工具箱
 - name: MCSManager
   url: https://github.com/Suwings/MCSManager/
   img: /images/logos/minecraft.png
