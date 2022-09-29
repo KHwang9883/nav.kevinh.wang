@@ -46,6 +46,10 @@
   url: https://ipw.cn/
   img: /images/logos/ipw.png
   description: IPv6 检测
+- name: ImagesTool
+  url: https://imagestool.com/zh_CN/
+  img: /images/logos/imagestool.png
+  description: 图片处理工具合集网站
 - name: 太美工具网
   url: https://tiomg.org/
   img: /images/logos/tiomg.png
