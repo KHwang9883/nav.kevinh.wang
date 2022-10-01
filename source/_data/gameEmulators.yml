@@ -29,7 +29,7 @@
 - name: Mesen
   url: https://www.mesen.ca/
   img: /images/logos/mesen.png
-  description: 高精确 NES/SNES 模拟器
+  description: 高精确 NES/SNES/GameBoy 模拟器
 - name: FCEUX
   url: http://fceux.com/web/download.html
   img: /images/logos/fceux.png

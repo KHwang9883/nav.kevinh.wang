@@ -30,10 +30,6 @@
   url: https://derpfest.org/devices.html
   img: /images/logos/derpfest.png
   description: 下载「猫头鹰」类原生系统
-- name: AOSP Extended
-  url: https://downloads.aospextended.com/
-  img: /images/logos/aex.png
-  description: 下载 AOSP Extended
 - name: ProtonAOSP
   url: https://protonaosp.org/
   img: /images/logos/protonaosp.png
@@ -42,10 +38,6 @@
   url: https://dwnld.aicp-rom.com/
   img: /images/logos/aicp.png
   description: 下载 AICP
-- name: AOSiP
-  url: https://aosip.dev/
-  img: /images/logos/aosip.png
-  description: 下载 AOSiP
 - name: PixelOS
   url: https://pixelos.net/download
   img: /images/logos/pixelos.png
@@ -61,7 +53,7 @@
 - name: Resurrection Remix
   url: https://get.resurrectionremix.com
   img: /images/logos/rr.png
-  description: 下载 Resurrection Remix
+  description: 下载 Resurrection Remix (已停更)
 - name: BlissRoms
   url: https://downloads.blissroms.org/
   img: /images/logos/blissroms.png
