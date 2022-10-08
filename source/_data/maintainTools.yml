@@ -11,7 +11,7 @@
   img: /images/logos/ccleaner.png
   description: 知名的系统清理工具
 - name: Dism++
-  url: http://www.chuyu.me/zh-Hans/
+  url: https://github.com/Chuyu-Team/Dism-Multi-language
   img: /images/logos/dismpp.png
   description: 全新的 Windows 实用工具
 - name: DiskGenius
