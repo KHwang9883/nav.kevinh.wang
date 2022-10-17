@@ -58,6 +58,10 @@
   url: https://f-droid.org/
   img: /images/logos/fdroid.png
   description: Android 自由/开源软件分发平台
+- name: KDE Connect
+  url: https://kdeconnect.kde.org/download.html
+  img: /images/logos/kdeconnect.png
+  description: 开源的跨平台协同工具
 - name: 白眼
   url: https://epcdiy.org
   img: /images/logos/byakugan.png
