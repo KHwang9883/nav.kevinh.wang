@@ -46,8 +46,8 @@
   url: http://typecho.org/download
   img: /images/logos/typecho.png
   description: 轻量级 PHP 博客程序
-- name: Alist
-  url: https://github.com/Xhofe/alist
+- name: AList
+  url: https://github.com/alist-org/alist
   img: /images/logos/alist.png
   description: 支持多存储的文件列表程序
 - name: Gitea

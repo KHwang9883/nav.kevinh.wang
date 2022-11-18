@@ -42,6 +42,10 @@
   url: https://live.bilibili.com/liveHime
   img: /images/logos/livehime.png
   description: B 站直播用户端
+- name: 必剪
+  url: https://bcut.bilibili.cn/
+  img: /images/logos/bcut.png
+  description: B 站出品的视频剪辑软件
 - name: Parsec
   url: https://parsec.app/
   img: /images/logos/parsec.png

@@ -1,7 +1,7 @@
 - name: 火绒安全
   url: https://www.huorong.cn
   img: /images/logos/huorong.png
-  description: 国内屈指可数的靠谱杀软
+  description: 国内屈指可数的不骚扰用户的杀软
 - name: Microsoft Defender
   url: https://www.microsoft.com/zh-cn/windows/comprehensive-security
   img: /images/logos/windows11.png
