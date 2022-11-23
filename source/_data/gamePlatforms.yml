@@ -18,10 +18,6 @@
   url: https://www.wegame.com.cn/client
   img: /images/logos/wegame.png
   description: 腾讯游戏平台
-- name: 暴雪战网
-  url: https://cn.blizzard.com/zh-cn/download
-  img: /images/logos/battlenet.png
-  description: 只玩守望先锋
 - name: Ubisoft Connect
   url: https://zh-cn.ubisoft.com/uplay
   img: /images/logos/uplay.png
