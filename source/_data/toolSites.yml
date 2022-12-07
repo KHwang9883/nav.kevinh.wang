@@ -26,6 +26,10 @@
   url: https://artlist.io/
   img: /images/logos/artlist.jpg
   description: 找音乐素材
+- name: 路过图床
+  url: https://imgse.com/
+  img: /images/logos/imgtu.png
+  description: 高速稳定的图片上传和外链服务
 - name: Sakura Frp
   url: https://www.natfrp.com/
   img: /images/logos/sakurafrp.png
