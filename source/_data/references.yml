@@ -50,6 +50,10 @@
   url: https://shumeipai.nxez.com/
   img: /images/logos/raspi.png
   description: 树莓派教程、DIY 资讯
+- name: 半导小芯
+  url: http://www.semiee.com/
+  img: /images/logos/semiee.png
+  description: 芯片查询工具
 - name: OpenCore Install Guide
   url: https://dortania.github.io/OpenCore-Install-Guide/
   img: /images/logos/opencore.png
