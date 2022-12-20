@@ -34,7 +34,3 @@
   url: https://github.com/lyswhut/lx-music-desktop
   img: /images/logos/lx.png
   description: 下载无损歌曲
-- name: UnblockMusic
-  url: https://github.com/unlock-music/unlock-music
-  img: /images/logos/unblock.png
-  description: 在浏览器中解锁加密的音乐文件
