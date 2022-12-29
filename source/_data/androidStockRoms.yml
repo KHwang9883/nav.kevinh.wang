@@ -50,10 +50,6 @@
   url: https://download.mokeedev.com/
   img: /images/logos/mokee.png
   description: 本地化的类原生系统
-- name: Resurrection Remix
-  url: https://get.resurrectionremix.com
-  img: /images/logos/rr.png
-  description: 下载 Resurrection Remix (已停更)
 - name: BlissRoms
   url: https://downloads.blissroms.org/
   img: /images/logos/blissroms.png
