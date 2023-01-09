@@ -13,7 +13,7 @@
 - name: MIUI 官方 ROM 仓库
   url: https://roms.miuier.com/
   img: /images/logos/miui.png
-  description: 另一个 MIUI 版本库，没有前面那几个全
+  description: 另一个 MIUI 版本库
 - name: Xiaomi.EU
   url: https://xiaomi.eu/community/
   img: /images/logos/xiaomi.png
