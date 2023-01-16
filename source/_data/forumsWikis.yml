@@ -10,6 +10,10 @@
   url: http://bbs.pcbeta.com/
   img: /images/logos/pcbeta.png
   description: 微软极客社区 & 国内最大的 Hackintosh 论坛
+- name: 柚坛社区
+  url: https://www.uotan.cn/
+  img: /images/logos/uotan.png
+  description: 第三方玩机社区
 - name: 恩山无线论坛
   url: https://www.right.com.cn/forum/
   img: /images/logos/ensan.jpg
@@ -18,10 +22,6 @@
   url: https://www.hostloc.com/forum.php
   img: /images/logos/hostloc.png
   description: 全球 IDC 主机交流
-- name: XDA-Developers
-  url: https://www.xda-developers.com/
-  img: /images/logos/xda.png
-  description: XDA 门户 & 论坛
 - name: Mario Forever 社区
   url: https://www.marioforever.net/
   img: /images/logos/mforever.png
@@ -34,6 +34,10 @@
   url: https://bbs.oldmanemu.net/
   img: /images/logos/oldman.jpg
   description: 掌机主机游戏资源汇总下载
+- name: XDA-Developers
+  url: https://www.xda-developers.com/
+  img: /images/logos/xda.png
+  description: XDA 门户 & 论坛
 - name: 萌娘百科
   url: https://zh.moegirl.org.cn/
   img: /images/logos/moegirl.png
