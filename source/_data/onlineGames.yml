@@ -2,7 +2,19 @@
   url: https://www.sanguosha.com/
   img: /images/logos/sanguosha.png
   description: 策略桌游
+- name: Gartic.io
+  url: https://gartic.io/
+  img: /images/logos/gartic.png
+  description: 你画我猜
 - name: Gartic Phone
   url: https://garticphone.com/
   img: /images/logos/garticphone.png
   description: 传话游戏
+- name: 4399 小游戏
+  url: https://www.4399.com/
+  img: /images/logos/4399.png
+  description: 4399 小游戏
+- name: 7k7k 小游戏
+  url: http://www.7k7k.com/
+  img: /images/logos/7k7k.png
+  description: 7k7k 小游戏
