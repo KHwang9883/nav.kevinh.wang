@@ -38,6 +38,10 @@
   url: https://www.snes9x.com/downloads.php
   img: /images/logos/snes9x.png
   description: SNES 模拟器
+- name: mGBA
+  url: https://mgba.io/
+  img: /images/logos/mgba.png
+  description: GameBoy 模拟器
 - name: VisualBoyAdvance-M
   url: https://github.com/visualboyadvance-m/visualboyadvance-m
   img: /images/logos/vbam.png
