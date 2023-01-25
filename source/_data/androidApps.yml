@@ -14,6 +14,10 @@
   url: https://www.coolapk.com/apk/bin.mt.plus
   img: /images/logos/mt.png
   description: 文件管理器 + APK 逆向工具
+- name: Via
+  url: https://viayoo.com/zh-cn/
+  img: /images/logos/via.png
+  description: 轻量、简约的 Android 浏览器
 - name: 一个木函
   url: https://www.woobx.cn/
   img: /images/logos/woodbox.png
@@ -26,10 +30,10 @@
   url: https://swiftapps.org/
   img: /images/logos/swiftbackup.png
   description: Android 手机通用备份 App
-- name: Linux Deploy
-  url: https://github.com/meefik/linuxdeploy
-  img: /images/logos/github.png
-  description: 在已 root 的 Android 设备上部署 GNU/Linux
+- name: App 分享
+  url: https://appshare.muge.info/
+  img: /images/logos/appshare.png
+  description: 第三方 APP 分享平台
 - name: APKMirror
   url: https://www.apkmirror.com/
   img: /images/logos/apkmirror.png
@@ -46,10 +50,6 @@
   url: https://auroraoss.com/download/
   img: /images/logos/aurorastore.png
   description: 开源第三方 Google Play 商店用户端
-- name: App 分享
-  url: https://appshare.muge.info/
-  img: /images/logos/appshare.png
-  description: 第三方 APP 分享平台
 - name: 9Apps
   url: https://www.9apps.com/
   img: /images/logos/9apps.png
@@ -58,6 +58,10 @@
   url: https://f-droid.org/
   img: /images/logos/fdroid.png
   description: Android 自由/开源软件分发平台
+- name: Linux Deploy
+  url: https://github.com/meefik/linuxdeploy
+  img: /images/logos/github.png
+  description: 在已 root 的 Android 设备上部署 GNU/Linux
 - name: KDE Connect
   url: https://kdeconnect.kde.org/download.html
   img: /images/logos/kdeconnect.png
