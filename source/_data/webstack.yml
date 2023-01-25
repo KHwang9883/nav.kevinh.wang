@@ -57,6 +57,9 @@ menu:
       - name: 模拟器
         icon: fab fa-xbox
         config: gameEmulators
+      - name: 网页游戏
+        icon: fab fa-hive
+        config: onlineGames
   - name: 常用网站
     icon: fas fa-globe
     submenu:

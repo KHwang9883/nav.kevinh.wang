@@ -1,0 +1,8 @@
+- name: 三国杀
+  url: https://www.sanguosha.com/
+  img: /images/logos/sanguosha.png
+  description: 策略桌游
+- name: Gartic Phone
+  url: https://garticphone.com/
+  img: /images/logos/garticphone.png
+  description: 传话游戏
