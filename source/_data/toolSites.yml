@@ -22,6 +22,14 @@
   url: https://www.freedgo.com/
   img: /images/logos/freedgo.png
   description: 强大的在线绘图工具
+- name: 问卷星
+  url: https://www.wjx.cn/
+  img: /images/logos/wjx.png
+  description: 一站式调研工具
+- name: 腾讯问卷
+  url: https://wj.qq.com/
+  img: /images/logos/wjqq.png
+  description: 免费好用的问卷调查系统
 - name: Artlist
   url: https://artlist.io/
   img: /images/logos/artlist.jpg
