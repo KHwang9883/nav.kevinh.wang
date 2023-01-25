@@ -58,6 +58,10 @@
   url: https://f-droid.org/
   img: /images/logos/fdroid.png
   description: Android 自由/开源软件分发平台
+- name: 雪豹速清
+  url: http://icoolby.com/
+  img: /images/logos/icoolby.png
+  description: 智能文件分类、一键清理垃圾
 - name: Linux Deploy
   url: https://github.com/meefik/linuxdeploy
   img: /images/logos/github.png
