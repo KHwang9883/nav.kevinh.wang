@@ -26,6 +26,10 @@
   url: https://www.coolapk.com/apk/com.omarea.vtools
   img: /images/logos/scene.png
   description: 性能监测与调节
+- name: scrcpy
+  url: https://github.com/Genymobile/scrcpy
+  img: /images/logos/scrcpy.png
+  description: 将 Android 设备画面投屏到电脑
 - name: 晨钟网络科技
   url: https://jamcz.com/
   img: /images/logos/jamcz.png
