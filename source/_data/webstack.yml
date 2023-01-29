@@ -34,7 +34,7 @@ menu:
         icon: fas fa-briefcase
         config: workApps
       - name: 编程开发
-        icon: fab fa-dev
+        icon: fas fa-code
         config: developmentTools
       - name: 影音媒体
         icon: far fa-play-circle
@@ -51,15 +51,18 @@ menu:
       - name: 常玩游戏
         icon: fas fa-gamepad
         config: gameApps
+      - name: 网页游戏
+        icon: fas fa-globe
+        config: onlineGames
       - name: 游戏工具
         icon: fas fa-dice
         config: gameTools
       - name: 模拟器
         icon: fab fa-xbox
         config: gameEmulators
-      - name: 网页游戏
-        icon: fas fa-globe
-        config: onlineGames
+      - name: 游戏开发
+        icon: fab fa-dev
+        config: gameDev
   - name: 常用网站
     icon: fas fa-globe
     submenu:
@@ -93,7 +96,7 @@ menu:
       - name: iOS工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2023-01-29
+  - name: 最后更新：2023-01-30
     icon: far fa-calendar
 
 about:
