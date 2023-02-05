@@ -30,6 +30,10 @@
   url: https://github.com/mzlogin/awesome-adb
   img: /images/logos/awesomeadb.png
   description: ADB 用法大全
+- name: archlinux 简明指南
+  url: https://arch.icekylin.online/
+  img: /images/logos/archlinux.png
+  description: Arch Linux 安装和使用指引
 - name: 提问的智慧
   url: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
   img: /images/logos/github.png
