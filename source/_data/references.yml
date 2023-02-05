@@ -14,10 +14,6 @@
   url: https://tvlabs.cn/
   img: /images/logos/tvlabs.png
   description: 专业智能电视参数查询网
-- name: Topbook
-  url: https://topbook.cc
-  img: /images/logos/topbook.png
-  description: 高效生活视频书
 - name: Windows Apps That Amaze Us
   url: https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/
   img: /images/logos/winapps.png
@@ -32,7 +28,7 @@
   description: ADB 用法大全
 - name: archlinux 简明指南
   url: https://arch.icekylin.online/
-  img: /images/logos/archlinux.png
+  img: /images/logos/archlinux2.png
   description: Arch Linux 安装和使用指引
 - name: 提问的智慧
   url: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
@@ -50,6 +46,10 @@
   url: https://github.com/KHwang9883/MobileModels
   img: /images/logos/github.png
   description: 「私货」手机品牌型号汇总
+- name: Topbook
+  url: https://topbook.cc
+  img: /images/logos/topbook.png
+  description: 高效生活视频书
 - name: 树莓派实验室
   url: https://shumeipai.nxez.com/
   img: /images/logos/raspi.png
