@@ -3,7 +3,7 @@
   img: /images/logos/tim.png
   description: 不错的 QQ 替代品
 - name: QQ
-  url: https://im.qq.com/download/
+  url: https://im.qq.com/
   img: /images/logos/qq.png
   description: 即时通讯软件
 - name: 微信
