@@ -30,6 +30,10 @@
   url: https://swiftapps.org/
   img: /images/logos/swiftbackup.png
   description: Android 手机通用备份 App
+- name: 数据备份
+  url: https://github.com/XayahSuSuSu/Android-DataBackup
+  img: /images/logos/databackup.png
+  description: 支持多用户/双开应用备份
 - name: App 分享
   url: https://appshare.muge.info/
   img: /images/logos/appshare.png
