@@ -62,6 +62,10 @@
   url: https://www.iobit.com/en/iobit-unlocker.php
   img: /images/logos/iobitunlocker.png
   description: 解除文件/文件夹占用的小工具
+- name: Tai
+  url: https://github.com/Planshit/Tai
+  img: /images/logos/tai.png
+  description: 统计 Windows 电脑软件使用时长和网站浏览时长
 - name: 菲菲更名宝贝 之 得意非凡
   url: http://www.ffhome.com/works/1406.html
   img: /images/logos/feifei.png
