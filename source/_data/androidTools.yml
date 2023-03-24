@@ -30,6 +30,10 @@
   url: https://github.com/Genymobile/scrcpy
   img: /images/logos/scrcpy.png
   description: 将 Android 设备画面投屏到电脑
+- name: 甲壳虫 ADB 助手
+  url: https://www.coolapk.com/apk/com.didjdk.adbhelper
+  img: /images/logos/adbhelper.png
+  description: 在手机上进行 ADB 调试
 - name: 晨钟网络科技
   url: https://jamcz.com/
   img: /images/logos/jamcz.png

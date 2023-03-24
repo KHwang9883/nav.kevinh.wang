@@ -98,6 +98,10 @@
   url: http://www.wofficebox.com/
   img: /images/logos/officebox.png
   description: 办公必备的小工具百宝箱
+- name: Tailscale
+  url: https://tailscale.com/download/
+  img: /images/logos/tailscale.png
+  description: 免费内网穿透组网
 - name: LANDrop
   url: https://landrop.app/
   img: /images/logos/landrop.png

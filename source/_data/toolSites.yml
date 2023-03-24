@@ -86,6 +86,10 @@
   url: https://www.spriters-resource.com/
   img: /images/logos/spritersresource.png
   description: 游戏素材资源站
+- name: TierMaker
+  url: https://tiermaker.com/
+  img: /images/logos/tiermaker.png
+  description: 在线排名制作工具
 - name: excel2wiki
   url: https://excel2wiki.toolforge.org/
   img: /images/logos/excel2wiki.png
