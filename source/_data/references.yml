@@ -54,6 +54,10 @@
   url: https://shumeipai.nxez.com/
   img: /images/logos/raspi.png
   description: 树莓派教程、DIY 资讯
+- name: 游研社
+  url: https://www.yystv.cn/
+  img: /images/logos/yys.png
+  description: 看懂游戏 研究快乐
 - name: indienova
   url: https://indienova.com/
   img: /images/logos/indienova.png
