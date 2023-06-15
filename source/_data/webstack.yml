@@ -87,13 +87,13 @@ menu:
       - name: 安卓玩机
         icon: fas fa-tools
         config: androidTools
-      - name: 定制ROM
+      - name: 定制 ROM
         icon: fab fa-android
         config: androidRoms
-      - name: 类原生ROM
+      - name: 类原生 ROM
         icon: fab fa-android
         config: androidStockRoms
-      - name: iOS工具
+      - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
   - name: 最后更新：2023-06-16
