@@ -42,6 +42,10 @@
   url: https://limestart.cn/
   img: /images/logos/limestart.png
   description: 简洁、美观、实用的浏览器起始页
+- name: VirusTotal
+  url: https://www.virustotal.com/
+  img: /images/logos/virustotal.png
+  description: 可疑文件分析
 - name: 硕鼠
   url: https://www.flvcd.com/
   img: /images/logos/bigrat.png
