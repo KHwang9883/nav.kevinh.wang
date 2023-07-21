@@ -10,10 +10,6 @@
   url: http://steampp.net/
   img: /images/logos/steampp.png
   description: 开源跨平台游戏工具箱
-- name: nn
-  url: https://www.nn.com/
-  img: /images/logos/nn.png
-  description: 感觉还行的免费加速器
 - name: MCSManager
   url: https://github.com/Suwings/MCSManager/
   img: /images/logos/minecraft.png
