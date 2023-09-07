@@ -30,6 +30,10 @@
   url: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
   img: /images/logos/putty.png
   description: SSH 连接远程主机
+- name: FinalShell
+  url: https://www.hostbuf.com/t/988.html
+  img: /images/logos/finalshell.png
+  description: 多功能运维工具
 - name: Node.js
   url: https://nodejs.org/zh-cn/
   img: /images/logos/nodejs.png

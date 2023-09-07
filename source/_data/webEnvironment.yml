@@ -70,10 +70,6 @@
   url: https://uptimerobot.com/
   img: /images/logos/uptimerobot.png
   description: 网站在线状态监测
-- name: Status Page
-  url: https://github.com/Lifeni/status-page
-  img: /images/logos/status-page.png
-  description: 一个基于 UptimeRobot API 的状态监控页面
 - name: BestTrace
   url: https://www.ipip.net/product/client.html
   img: /images/logos/besttrace.png

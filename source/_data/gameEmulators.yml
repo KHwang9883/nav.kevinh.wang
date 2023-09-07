@@ -26,6 +26,10 @@
   url: http://www.retroarch.com/
   img: /images/logos/retroarch.png
   description: 多平台开源模拟器
+- name: BizHawk
+  url: https://tasvideos.org/BizHawk
+  img: /images/logos/bizhawk.png
+  description: 多平台开源模拟器
 - name: Mesen
   url: https://www.mesen.ca/
   img: /images/logos/mesen.png
