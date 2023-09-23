@@ -70,3 +70,15 @@
   url: http://www.ffhome.com/works/1406.html
   img: /images/logos/feifei.png
   description: 强大的批量重命名工具
+- name: Tailscale
+  url: https://tailscale.com/download/
+  img: /images/logos/tailscale.png
+  description: 免费内网穿透组网
+- name: LANDrop
+  url: https://landrop.app/
+  img: /images/logos/landrop.png
+  description: 跨平台局域网文件传输工具
+- name: 深蓝词库转换
+  url: https://github.com/studyzy/imewlconverter
+  img: /images/logos/imewlconverter.png
+  description: 一款开源的输入法词库转换程序

@@ -102,15 +102,3 @@
   url: http://www.wofficebox.com/
   img: /images/logos/officebox.png
   description: 办公必备的小工具百宝箱
-- name: Tailscale
-  url: https://tailscale.com/download/
-  img: /images/logos/tailscale.png
-  description: 免费内网穿透组网
-- name: LANDrop
-  url: https://landrop.app/
-  img: /images/logos/landrop.png
-  description: 跨平台局域网文件传输工具
-- name: 深蓝词库转换
-  url: https://github.com/studyzy/imewlconverter
-  img: /images/logos/imewlconverter.png
-  description: 一款开源的输入法词库转换程序
