@@ -42,6 +42,10 @@
   url: https://www.flyme.com/firmware.html
   img: /images/logos/flyme.png
   description: 魅族手机搭载的系统
+- name: 联想移动设备固件
+  url: https://mirrors.lolinet.com/firmware/
+  img: /images/logos/lenovo.png
+  description: 联想、摩托罗拉手机/平板固件下载
 - name: SM Updater
   url: https://sm.xingrz.me/
   img: /images/logos/smartisan.png
