@@ -6,6 +6,10 @@
   url: https://github.com/topjohnwu/Magisk
   img: /images/logos/magisk.png
   description: Android 的魔法面具
+- name: KernelSU
+  url: https://kernelsu.org/zh_CN/
+  img: /images/logos/kernelsu.png
+  description: Android 上的内核级的 root 方案
 - name: LSPosed
   url: https://github.com/LSPosed/LSPosed
   img: /images/logos/lsposed.png
