@@ -50,10 +50,6 @@
   url: https://www.atmb.top/
   img: /images/logos/autumnbox.png
   description: Android 玩机工具集 | 请支持项目作者
-- name: MiFlash
-  url: http://www.miui.com/shuaji-393.html
-  img: /images/logos/xiaomi.png
-  description: 小米线刷工具
 - name: MiFlashUnlock
   url: http://www.miui.com/unlock/download.html
   img: /images/logos/xiaomi.png
