@@ -14,14 +14,10 @@
   url: https://vercel.com/
   img: /images/logos/vercel.png
   description: Web 应用部署
-- name: Discuz! X
-  url: https://www.discuz.net/
+- name: Discuz!
+  url: https://www.discuz.vip/
   img: /images/logos/discuzx.png
   description: 国内大部分论坛使用的软件
-- name: Discuz! Q
-  url: https://discuz.com/
-  img: /images/logos/discuzq.png
-  description: 再小众 也有圈子
 - name: Flarum
   url: https://flarum.org.cn/
   img: /images/logos/flarum.png
