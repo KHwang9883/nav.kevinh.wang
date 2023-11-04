@@ -2,6 +2,10 @@
   url: https://docs.microsoft.com/zh-cn/windows/package-manager/winget/
   img: /images/logos/windows11.png
   description: 一条命令即可安装 Windows 程序
+- name: 火绒应用商店
+  url: https://www.huorong.cn/app_store.html
+  img: /images/logos/hrappstore.png
+  description: 一站式管理应用软件
 - name: 7-Zip
   url: https://www.7-zip.org/
   img: /images/logos/7zip.png
