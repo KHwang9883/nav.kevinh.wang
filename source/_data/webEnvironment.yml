@@ -1,7 +1,3 @@
-- name: OneinStack
-  url: https://oneinstack.com/
-  img: /images/logos/oneinstack.png
-  description: 站长正在使用的一键包
 - name: 腾讯云
   url: https://cloud.tencent.com/
   img: /images/logos/qcloud.png
