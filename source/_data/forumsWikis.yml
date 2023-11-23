@@ -55,11 +55,11 @@
   img: /images/logos/gnu.png
   description: 自由软件目录大全
 - name: 中文 Minecraft Wiki
-  url: https://minecraft.fandom.com/zh/wiki/
+  url: https://zh.minecraft.wiki/
   img: /images/logos/minecraft.png
   description: 最详细的官方我的世界百科
 - name: 中文 Terraria Wiki
-  url: https://terraria.fandom.com/zh/wiki/
+  url: https://terraria.wiki.gg/zh/wiki/
   img: /images/logos/terrariawiki.png
   description: 最详细的中文泰拉瑞亚百科
 - name: Super Mario Wiki
