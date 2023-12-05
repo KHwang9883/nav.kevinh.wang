@@ -14,3 +14,7 @@
   url: http://lonelystar.org/download.htm
   img: /images/logos/pvz.png
   description: 植物大战僵尸资源
+- name: Windows 7 Games for Windows 11/10
+  url: https://win7games.com/
+  img: /images/logos/windows11.png
+  description: Windows 7 自带的小游戏
