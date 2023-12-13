@@ -66,6 +66,10 @@
   url: http://es.vivo.com.cn/
   img: /images/logos/huchuan.png
   description: vivo 手机分享文件、一键换机、PC 助手
+- name: vivo 办公套件
+  url: https://quantumkit.vivo.com/
+  img: /images/logos/quantumkit.png
+  description: vivo 跨设备协同工具
 - name: Lenovo One
   url: https://one.lenovo.com/download.html
   img: /images/logos/lenovoone.png
@@ -78,6 +82,10 @@
   url: https://mroot.flyme.cn/
   img: /images/logos/flyme.png
   description: 魅族手机获取 Root 权限
+- name: Flyme PC 互联
+  url: https://linkpc.flyme.com/
+  img: /images/logos/flyme.png
+  description: 基于网页端的魅族 PC 互联工具
 - name: realme 专用刷机工具
   url: https://www.realmebbs.com/post-details/1271082970484060160
   img: /images/logos/realme.png
