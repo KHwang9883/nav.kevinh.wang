@@ -54,10 +54,6 @@
   url: http://www.miui.com/unlock/download.html
   img: /images/logos/xiaomi.png
   description: 小米解锁工具
-- name: 小米助手
-  url: http://zhushou.xiaomi.com/
-  img: /images/logos/xiaomi.png
-  description: 小米手机备份/Recovery 刷机
 - name: HiSuite 华为手机助手
   url: https://consumer.huawei.com/cn/support/hisuite/
   img: /images/logos/hisuite.png
