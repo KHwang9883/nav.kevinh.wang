@@ -10,6 +10,10 @@
   url: https://osu.ppy.sh/home/download
   img: /images/logos/osu.png
   description: 棒到不行的免费音游
+- name: 原神
+  url: https://ys.mihoyo.com/
+  img: /images/logos/genshin.png
+  description: 开放世界大型游戏
 - name: 植物僵尸相关下载
   url: http://lonelystar.org/download.htm
   img: /images/logos/pvz.png
