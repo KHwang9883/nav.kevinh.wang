@@ -78,6 +78,10 @@
   url: https://dortania.github.io/OpenCore-Install-Guide/
   img: /images/logos/opencore.png
   description: OpenCore 官方教程
+- name: Apple 产品参数中心
+  url: https://hubweb.cn/
+  img: /images/logos/hubweb.png
+  description: Apple 设备、芯片参数对比一览
 - name: 黑果小兵的部落阁
   url: https://blog.daliansky.net/
   img: /images/logos/apple.png
