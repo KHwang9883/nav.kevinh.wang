@@ -46,6 +46,10 @@
   url: https://github.com/KHwang9883/MobileModels
   img: /images/logos/github.png
   description: 「私货」手机品牌型号汇总
+- name: WSA App Compatibility
+  url: https://github.com/riverar/wsa-app-compatibility
+  img: /images/logos/github.png
+  description: WSA 子系统应用兼容列表
 - name: Topbook
   url: https://topbook.cc
   img: /images/logos/topbook.png
