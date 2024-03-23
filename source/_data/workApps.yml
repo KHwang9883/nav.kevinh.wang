@@ -53,7 +53,19 @@
 - name: Parsec
   url: https://parsec.app/
   img: /images/logos/parsec.png
-  description: 强大的远程桌面
+  description: P2P + 低延迟的远控软件
+- name: Moonlight
+  url: https://moonlight-stream.org/
+  img: /images/logos/moonlight.png
+  description: 串流用户端，配合 Sunshine 使用
+- name: Sunshine
+  url: https://github.com/LizardByte/Sunshine
+  img: /images/logos/sunshine.png
+  description: 串流服务端，配合 Moonlight 使用
+- name: ToDesk
+  url: https://www.todesk.com/
+  img: /images/logos/todesk.png
+  description: 支持多平台的远控软件
 - name: uTools
   url: https://www.u.tools/
   img: /images/logos/utools.png
