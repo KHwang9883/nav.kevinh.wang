@@ -10,6 +10,10 @@
   url: https://kernelsu.org/zh_CN/
   img: /images/logos/kernelsu.png
   description: Android 上的内核级的 root 方案
+- name: APatch
+  url: https://github.com/bmax121/APatch
+  img: /images/logos/APatch.png
+  description: 另一内核级的 root 方案
 - name: LSPosed
   url: https://github.com/LSPosed/LSPosed
   img: /images/logos/lsposed.png
