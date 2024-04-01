@@ -22,10 +22,6 @@
   url: http://cn.bandisoft.com/honeyview/
   img: /images/logos/honeyview.png
   description: 支持众多格式的看图软件
-- name: QTTabBar
-  url: http://qttabbar.wikidot.com/
-  img: /images/logos/qttabbar.png
-  description: 资源管理器增强
 - name: TranslucentTB
   url: https://github.com/TranslucentTB/TranslucentTB
   img: /images/logos/translucenttb.png
