@@ -12,7 +12,7 @@
   description: Android 上的内核级的 root 方案
 - name: APatch
   url: https://github.com/bmax121/APatch
-  img: /images/logos/APatch.png
+  img: /images/logos/apatch.png
   description: 另一内核级的 root 方案
 - name: LSPosed
   url: https://github.com/LSPosed/LSPosed
