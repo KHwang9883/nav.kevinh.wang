@@ -6,10 +6,6 @@
   url: https://download.pixelexperience.org/
   img: /images/logos/pixel.png
   description: 还原 Google Pixel 设备体验的类原生系统
-- name: PixelExtended
-  url: https://pixelextended.ninja/
-  img: /images/logos/pixelext.png
-  description: 基于 PixelExperience 的类原生系统
 - name: crDroid
   url: https://crdroid.net/downloads
   img: /images/logos/crdroid.png
