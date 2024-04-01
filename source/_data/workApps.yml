@@ -50,6 +50,10 @@
   url: https://bcut.bilibili.cn/
   img: /images/logos/bcut.png
   description: B 站出品的视频剪辑软件
+- name: 剪映
+  url: https://www.capcut.cn/
+  img: /images/logos/capcut.png
+  description: 全能易用的桌面端剪辑软件
 - name: Parsec
   url: https://parsec.app/
   img: /images/logos/parsec.png
