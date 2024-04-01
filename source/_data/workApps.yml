@@ -83,7 +83,7 @@
   img: /images/logos/stg.png
   description: 录屏或视频转 Gif
 - name: File Converter
-  url: https://file-converter.org/
+  url: https://github.com/Tichau/FileConverter/
   img: /images/logos/converter.png
   description: 右键菜单转换文件格式
 - name: MediaCoder
@@ -109,6 +109,10 @@
 - name: 哔哩下载姬
   url: https://github.com/leiurayer/downkyi
   img: /images/logos/downkyi.png
+  description: 哔哩哔哩视频下载工具
+- name: 唧唧 Down
+  url: http://client.jijidown.com/
+  img: /images/logos/jijidown.png
   description: 哔哩哔哩视频下载工具
 - name: Fraps
   url: https://www.fraps.com/download.php
