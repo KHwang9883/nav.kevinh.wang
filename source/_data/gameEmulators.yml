@@ -14,9 +14,9 @@
   url: http://cemu.info
   img: /images/logos/cemu.png
   description: Wii U 模拟器
-- name: yuzu
-  url: https://yuzu-emu.org/downloads/
-  img: /images/logos/yuzu.png
+- name: Suyu
+  url: https://suyu.dev/
+  img: /images/logos/suyu.png
   description: Nintendo Switch 模拟器
 - name: Ryujinx
   url: https://ryujinx.org/download
