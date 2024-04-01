@@ -18,10 +18,10 @@
   url: http://www.droidontime.com/devices
   img: /images/logos/dotos.png
   description: 下载 dotOS
-- name: KaleidoscopeOS
-  url: https://kaleidoscope.ink/download.html
-  img: /images/logos/kaleidoscope.png
-  description: 下载「万花筒」类原生系统
+- name: Paranoid Android
+  url: https://paranoidandroid.co/
+  img: /images/logos/paranoidandroid.png
+  description: 下载 Paranoid Android
 - name: ArrowOS
   url: https://arrowos.net/download
   img: /images/logos/arrowos.png
