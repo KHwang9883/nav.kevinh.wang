@@ -1,5 +1,5 @@
 - name: Termux
-  url: https://termux.com/
+  url: https://termux.dev/
   img: /images/logos/termux.png
   description: 终端模拟器 + Linux 环境
 - name: JuiceSSH
@@ -7,7 +7,7 @@
   img: /images/logos/juicessh.png
   description: Android SSH 用户端
 - name: LibChecker
-  url: https://github.com/zhaobozhen/LibChecker
+  url: https://github.com/LibChecker/LibChecker
   img: /images/logos/libchecker.png
   description: 查看本机 Android 应用架构与第三方库
 - name: MT 管理器
