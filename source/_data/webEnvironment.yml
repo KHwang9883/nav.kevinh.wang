@@ -54,10 +54,6 @@
   url: https://github.com/fatedier/frp
   img: /images/logos/frp.png
   description: 一个专注于内网穿透的反向代理应用
-- name: nps
-  url: https://github.com/ehang-io/nps
-  img: /images/logos/nps.png
-  description: 轻量级、高性能、功能强大的内网穿透代理服务器
 - name: UptimeRobot
   url: https://uptimerobot.com/
   img: /images/logos/uptimerobot.png
