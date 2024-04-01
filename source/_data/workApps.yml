@@ -18,10 +18,6 @@
   url: https://www.123pan.com/Downloadclient?type=Pc
   img: /images/logos/123pan.png
   description: 免费大容量高速云盘
-- name: PowerToys
-  url: https://github.com/microsoft/PowerToys/releases
-  img: /images/logos/powertoys.png
-  description: 微软生产力增强工具
 - name: Adobe Creative Cloud
   url: https://www.adobe.com/cn/creativecloud/catalog/desktop.html
   img: /images/logos/adobe.png
@@ -83,7 +79,7 @@
   img: /images/logos/stg.png
   description: 录屏或视频转 Gif
 - name: File Converter
-  url: https://github.com/Tichau/FileConverter/
+  url: https://github.com/Tichau/FileConverter
   img: /images/logos/converter.png
   description: 右键菜单转换文件格式
 - name: MediaCoder
