@@ -54,3 +54,7 @@
   url: https://docs.microsoft.com/zh-cn/java/openjdk/download
   img: /images/logos/java.png
   description: 微软 OpenJDK 构建
+- name: Rust
+  url: https://www.rust-lang.org/
+  img: /images/logos/rust.png
+  description: Rust 编程语言
