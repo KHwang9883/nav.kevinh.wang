@@ -62,10 +62,6 @@
   url: http://icoolby.com/
   img: /images/logos/icoolby.png
   description: 智能文件分类、一键清理垃圾
-- name: Linux Deploy
-  url: https://github.com/meefik/linuxdeploy
-  img: /images/logos/github.png
-  description: 在已 root 的 Android 设备上部署 GNU/Linux
 - name: KDE Connect
   url: https://kdeconnect.kde.org/download.html
   img: /images/logos/kdeconnect.png
