@@ -20,7 +20,9 @@ Kevin Huang 的导航站计划收录我本人使用的一些软件和游戏的�
 
 ## winstall 合集
 
-我创建了一系列 winstall 合集，内含导航站收录的 PC 软件。
+> 由于 [winstall](https://winstall.app/) 无法调用 X (Twitter) API，合集功能无法使用，以下链接仅作备份保留。
+
+~~我创建了一系列 winstall 合集，内含导航站收录的 PC 软件。~~
 
 - [总合集 (年久失修，不易检索)](https://winstall.app/packs/eOfCPORvO)
 - [系统增强](https://winstall.app/packs/soUQbpd6d)

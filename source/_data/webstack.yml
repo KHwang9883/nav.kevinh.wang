@@ -107,7 +107,7 @@ about:
 aboutPage:
   website:
     head: 关于本站
-    html: '<blockquote><p>本站是 Kevin Huang 的个人导航站，站点使用 Hexo 主题 <a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>。</p><br /><p>本站列出的全部软件和操作系统本人都亲自使用或体验过。标有「私货」的均为本人参与或有直接关联的项目/网站。</p><br /><p>部分灵感/图标来源于<a href="https://sonic.volf.club/">狼导 - 音速装机</a>。</p><br /><p>我创建了一个 <a href="https://winstall.app/packs/eOfCPORvO">winstall 合集</a>，内含本导航收录的大部分 PC 软件。</blockquote>'
+    html: '<blockquote><p>本站是 Kevin Huang 的个人导航站，站点使用 Hexo 主题 <a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>。</p><br /><p>本站列出的全部软件和操作系统本人都亲自使用或体验过。标有「私货」的均为本人参与或有直接关联的项目/网站。</p><br /><p>部分灵感/图标来源于<a href="https://sonic.volf.club/">狼导 - 音速装机</a>。</p></blockquote>'
   webmaster:
     head: 关于站长
     name: Kevin Huang
