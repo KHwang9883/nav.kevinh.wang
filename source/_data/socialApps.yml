@@ -13,7 +13,7 @@
 - name: Discord
   url: https://discord.com/
   img: /images/logos/discord.png
-  description: 海外兴趣聊天 App
+  description: 海外兴趣聊天 App (需代理)
 - name: Firefox
   url: https://www.mozilla.org/zh-CN/firefox/
   img: /images/logos/firefox.png

@@ -21,7 +21,7 @@
 - name: MediaWiki
   url: https://www.mediawiki.org/
   img: /images/logos/mediawiki.png
-  description: 驱动 Wikipedia 的软件
+  description: 驱动 Wikipedia 的软件 (需代理)
 - name: Hexo
   url: https://hexo.io/
   img: /images/logos/hexo.png

@@ -18,18 +18,14 @@
   url: https://xiaomifirmwareupdater.com/
   img: /images/logos/xfu.png
   description: 小米手机 ROM & 底包下载
-- name: ColorOS 官网下载
+- name: ColorOS 升级工具
   url: https://www.coloros.com/rom
   img: /images/logos/coloros.png
-  description: OPPO 手机搭载的系统
-- name: 一加系统官网下载
-  url: https://www.oneplus.com/cn/support/softwareupgrade
-  img: /images/logos/oneplus.png
-  description: ColorOS / HydrogenOS / OxygenOS
-- name: realme UI 官网下载
+  description: OPPO 设备升级工具
+- name: realme UI 升级工具
   url: https://www.realme.com/support/software-update
   img: /images/logos/realme.png
-  description: 真我手机搭载的系统
+  description: 真我手机升级工具
 - name: OriginOS 官网下载
   url: https://www.vivo.com/upgrade/index
   img: /images/logos/originos.png

@@ -41,13 +41,13 @@
 - name: APKMirror
   url: https://www.apkmirror.com/
   img: /images/logos/apkmirror.png
-  description: 第三方 Android 应用市场
+  description: 第三方 Android 应用市场 (需代理)
 - name: APKCombo
   url: https://apkcombo.com/zh/
   img: /images/logos/apkcombo.png
-  description: 第三方 Android 应用市场
+  description: 第三方 Android 应用市场 (需代理)
 - name: Aurora Store
-  url: https://auroraoss.com/download/
+  url: https://auroraoss.com/AuroraStore/
   img: /images/logos/aurorastore.png
   description: 开源第三方 Google Play 商店用户端
 - name: F-Droid
