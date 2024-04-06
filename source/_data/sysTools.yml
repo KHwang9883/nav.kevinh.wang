@@ -70,6 +70,10 @@
   url: https://github.com/Planshit/Tai
   img: /images/logos/tai.png
   description: 统计 Windows 电脑软件使用时长和网站浏览时长
+- name: Twinkle Tray
+  url: https://twinkletray.com/
+  img: /images/logos/twinkletray.png
+  description: 快捷调节显示器亮度
 - name: 菲菲更名宝贝 之 得意非凡
   url: http://www.ffhome.com/works/1406.html
   img: /images/logos/feifei.png
@@ -82,6 +86,10 @@
   url: https://landrop.app/
   img: /images/logos/landrop.png
   description: 跨平台局域网文件传输工具
+- name: DesktopOK
+  url: http://softwareok.com/?Download=DesktopOK
+  img: /images/logos/desktopok.png
+  description: 备份/恢复桌面布局
 - name: 深蓝词库转换
   url: https://github.com/studyzy/imewlconverter
   img: /images/logos/imewlconverter.png
