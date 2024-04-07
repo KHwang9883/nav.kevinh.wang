@@ -10,6 +10,10 @@
   url: https://vercel.com/
   img: /images/logos/vercel.png
   description: Web 应用部署
+- name: Docker
+  url: https://docs.docker.com/engine/
+  img: /images/logos/docker.png
+  description: 开源应用容器引擎
 - name: Discuz!
   url: https://www.discuz.vip/
   img: /images/logos/discuzx.png
