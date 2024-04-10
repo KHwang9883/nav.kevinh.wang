@@ -2,10 +2,6 @@
   url: https://download.lineageos.org/
   img: /images/logos/lineageos.png
   description: 下载 LineageOS
-- name: PixelExperience
-  url: https://download.pixelexperience.org/
-  img: /images/logos/pixel.png
-  description: 还原 Google Pixel 设备体验的类原生系统
 - name: crDroid
   url: https://crdroid.net/downloads
   img: /images/logos/crdroid.png
