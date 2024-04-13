@@ -2,6 +2,10 @@
   url: https://uu.163.com/
   img: /images/logos/uu.png
   description: 多平台游戏加速器
+- name: 雷神加速器
+  url: https://www.leigod.com/
+  img: /images/logos/leigod.png
+  description: 按分钟计费的加速器
 - name: Steamcommunity302
   url: https://www.dogfight360.com/blog/686/
   img: /images/logos/steamcommunity.png
