@@ -15,7 +15,7 @@
   img: /images/logos/xiaomi.png
   description: 俗称波兰版 MIUI
 - name: Xiaomi Firmware Updater
-  url: https://xiaomifirmwareupdater.com/
+  url: https://xmfirmwareupdater.com/
   img: /images/logos/xfu.png
   description: 小米手机 ROM & 底包下载
 - name: ColorOS 升级工具
