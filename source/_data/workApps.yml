@@ -2,10 +2,14 @@
   url: https://www.office.com/
   img: /images/logos/office.png
   description: 首选办公软件
+- name: WPS Office
+  url: https://platform.wps.cn/
+  img: /images/logos/wps.png
+  description: 国产办公软件
 - name: 腾讯文档
   url: https://docs.qq.com/home/download
   img: /images/logos/tdocs.png
-  description: 支持协作的办公软件
+  description: 支持协作的文档软件
 - name: 百度网盘
   url: https://pan.baidu.com/download
   img: /images/logos/baidupan.png
@@ -66,14 +70,6 @@
   url: https://www.todesk.com/
   img: /images/logos/todesk.png
   description: 支持多平台的远控软件
-- name: uTools
-  url: https://www.u.tools/
-  img: /images/logos/utools.png
-  description: 你的生产力工具集
-- name: Snipaste
-  url: https://zh.snipaste.com/
-  img: /images/logos/snipaste.png
-  description: 简单但强大的截图工具
 - name: ScreenToGif
   url: https://www.screentogif.com/downloads
   img: /images/logos/stg.png
@@ -94,10 +90,6 @@
   url: https://openmpt.org/
   img: /images/logos/openmpt.png
   description: 开源的模块音乐编辑器
-- name: Syncthing
-  url: https://syncthing.net/
-  img: /images/logos/syncthing.png
-  description: 多设备文件同步
 - name: B 站录播姬
   url: https://rec.danmuji.org/
   img: /images/logos/lubo.png

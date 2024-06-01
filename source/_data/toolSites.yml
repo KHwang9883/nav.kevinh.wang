@@ -26,6 +26,10 @@
   url: https://wj.qq.com/
   img: /images/logos/wjqq.png
   description: 免费好用的问卷调查系统
+- name: 测速网
+  url: https://www.speedtest.cn/
+  img: /images/logos/cesuwang.png
+  description: 国内常用网速测试站
 - name: Artlist
   url: https://artlist.io/
   img: /images/logos/artlist.jpg

@@ -50,10 +50,6 @@
   url: https://gitea.io/zh-cn/
   img: /images/logos/gitea.png
   description: 轻量级代码托管解决方案
-- name: Gogs
-  url: https://gogs.io/
-  img: /images/logos/gogs.png
-  description: 轻量级代码托管解决方案
 - name: frp
   url: https://github.com/fatedier/frp
   img: /images/logos/frp.png

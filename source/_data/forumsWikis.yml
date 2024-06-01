@@ -31,9 +31,9 @@
   img: /images/logos/smbxworld.png
   description: 「私货」中文 SMBX 玩家与创作家的世界
 - name: 老男人游戏网
-  url: https://bbs.oldmanemu.net/
+  url: https://bbs.oldmantvg.net/
   img: /images/logos/oldman.jpg
-  description: 掌机主机游戏资源汇总下载
+  description: 掌机主机游戏资源汇总下载 (可能需代理)
 - name: XDA-Developers
   url: https://www.xda-developers.com/
   img: /images/logos/xda.png
@@ -62,6 +62,10 @@
   url: https://terraria.wiki.gg/zh/wiki/
   img: /images/logos/terrariawiki.png
   description: 最详细的中文泰拉瑞亚百科
+- name: PVZ Wiki
+  url: https://wiki.pvz1.com/
+  img: /images/logos/pvzwiki.png
+  description: 植物大战僵尸中文 Wiki
 - name: Super Mario Wiki
   url: https://www.mariowiki.com/
   img: /images/logos/mariowiki.png

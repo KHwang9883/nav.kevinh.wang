@@ -18,6 +18,14 @@
   url: https://www.voidtools.com/zh-cn/downloads/
   img: /images/logos/everything.png
   description: 文件查找利器
+- name: uTools
+  url: https://www.u.tools/
+  img: /images/logos/utools.png
+  description: 新一代效率工具平台
+- name: Snipaste
+  url: https://zh.snipaste.com/
+  img: /images/logos/snipaste.png
+  description: 简单但强大的截图工具
 - name: Motrix
   url: https://motrix.app/zh-CN/
   img: /images/logos/motrix.png
@@ -78,6 +86,10 @@
   url: http://www.ffhome.com/works/1406.html
   img: /images/logos/feifei.png
   description: 强大的批量重命名工具
+- name: Syncthing
+  url: https://syncthing.net/
+  img: /images/logos/syncthing.png
+  description: 多设备文件同步
 - name: Tailscale
   url: https://tailscale.com/download/
   img: /images/logos/tailscale.png
