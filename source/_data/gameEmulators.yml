@@ -2,14 +2,10 @@
   url: https://cn.dolphin-emu.org/download/
   img: /images/logos/dolphin.png
   description: Wii/GameCube 模拟器
-- name: DeSmuME
-  url: http://desmume.org/download/
-  img: /images/logos/desmume.png
-  description: NDS 模拟器
 - name: Citra
-  url: https://citra-emu.org/download/
+  url: https://citra-emulator.com/download/
   img: /images/logos/citra.png
-  description: 3DS 模拟器
+  description: 3DS 模拟器 (已停更)
 - name: Cemu
   url: http://cemu.info
   img: /images/logos/cemu.png
@@ -50,10 +46,18 @@
   url: https://github.com/visualboyadvance-m/visualboyadvance-m
   img: /images/logos/vbam.png
   description: GameBoy 模拟器
+- name: Parallel Launcher
+  url: https://parallel-launcher.ca/
+  img: /images/logos/parallellauncher.png
+  description: N64 模拟器
 - name: Project64
   url: https://www.pj64-emu.com/windows-downloads
   img: /images/logos/pj64.png
   description: N64 模拟器
+- name: DeSmuME
+  url: http://desmume.org/download/
+  img: /images/logos/desmume.png
+  description: NDS 模拟器
 - name: Ruffle
   url: https://ruffle.rs/
   img: /images/logos/ruffle.png
