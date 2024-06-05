@@ -30,6 +30,10 @@
   url: https://arch.icekylin.online/
   img: /images/logos/archlinux2.png
   description: Arch Linux 安装和使用指引
+- name: 你缺失的那门计算机课
+  url: https://www.criwits.top/missing/
+  img: /images/logos/missing.png
+  description: 适合电脑小白的电脑使用技巧手册
 - name: 提问的智慧
   url: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
   img: /images/logos/github.png
