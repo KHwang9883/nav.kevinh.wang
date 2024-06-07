@@ -2,6 +2,14 @@
   url: https://winstall.app/
   img: /images/logos/winstall.png
   description: 生成 WinGet 一键安装脚本
+- name: ChatGPT
+  url: https://chatgpt.com/
+  img: /images/logos/chatgpt.png
+  description: AI 聊天机器人 (需代理)
+- name: 文心一言
+  url: https://yiyan.baidu.com/
+  img: /images/logos/yiyan.png
+  description: 百度的 AI 聊天机器人
 - name: LDTools
   url: https://tool.pc.wiki/
   img: /images/logos/laodi.png
