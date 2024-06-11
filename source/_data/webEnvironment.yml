@@ -6,6 +6,10 @@
   url: https://www.aliyun.com/
   img: /images/logos/aliyun.png
   description: 本站域名购自阿里云
+- name: Cloudflare
+  url: https://www.cloudflare.com/zh-cn/
+  img: /images/logos/cloudflare.png
+  description: 域名、抗攻击与 Cloudflare Pages
 - name: Vercel
   url: https://vercel.com/
   img: /images/logos/vercel.png
