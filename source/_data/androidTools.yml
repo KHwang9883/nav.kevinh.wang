@@ -58,26 +58,10 @@
   url: http://www.miui.com/unlock/download.html
   img: /images/logos/xiaomi.png
   description: 小米解锁工具
-- name: HiSuite 华为手机助手
-  url: https://consumer.huawei.com/cn/support/hisuite/
-  img: /images/logos/hisuite.png
-  description: 华为智能终端管理工具
 - name: 一加全能盒子 | 工具箱 by 大侠阿木
   url: https://optool.daxiaamu.com/optool/
   img: /images/logos/dxam.png
   description: 欧加玩机辅助工具
-- name: vivo 互传
-  url: http://es.vivo.com.cn/
-  img: /images/logos/huchuan.png
-  description: vivo 手机分享文件、一键换机、PC 助手
-- name: vivo 办公套件
-  url: https://quantumkit.vivo.com/
-  img: /images/logos/quantumkit.png
-  description: vivo 跨设备协同工具
-- name: Lenovo One
-  url: https://one.lenovo.com/download.html
-  img: /images/logos/lenovoone.png
-  description: 联想电脑、手机、平板互联协作
 - name: Lenovo Bootloader 解锁
   url: https://www.zui.com/iunlock
   img: /images/logos/lenovo.png
@@ -86,10 +70,6 @@
   url: https://mroot.flyme.cn/
   img: /images/logos/flyme.png
   description: 魅族手机获取 Root 权限
-- name: Flyme PC 互联
-  url: https://linkpc.flyme.com/
-  img: /images/logos/flyme.png
-  description: 基于网页端的魅族 PC 互联工具
 - name: realme 专用刷机工具
   url: https://www.realmebbs.com/post-details/1271082970484060160
   img: /images/logos/realme.png
@@ -106,7 +86,3 @@
   url: https://orangefox.download/zh-CN
   img: /images/logos/orangefox.png
   description: 下载橙狐 Recovery
-- name: SkyHawk Recovery
-  url: https://skyhawkrecovery.github.io
-  img: /images/logos/shrp.png
-  description: 下载 SHRP Recovery

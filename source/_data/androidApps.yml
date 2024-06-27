@@ -54,6 +54,26 @@
   url: https://f-droid.org/
   img: /images/logos/fdroid.png
   description: Android 自由/开源软件分发平台
+- name: HiSuite 华为手机助手
+  url: https://consumer.huawei.com/cn/support/hisuite/
+  img: /images/logos/hisuite.png
+  description: 华为智能终端管理工具
+- name: vivo 互传
+  url: http://es.vivo.com.cn/
+  img: /images/logos/huchuan.png
+  description: vivo 手机分享文件、一键换机、PC 助手
+- name: vivo 办公套件
+  url: https://quantumkit.vivo.com/
+  img: /images/logos/quantumkit.png
+  description: vivo 跨设备协同工具
+- name: Flyme PC 互联
+  url: https://linkpc.flyme.com/
+  img: /images/logos/flyme.png
+  description: 基于网页端的魅族 PC 互联工具
+- name: Lenovo One
+  url: https://one.lenovo.com/download.html
+  img: /images/logos/lenovoone.png
+  description: 联想电脑、手机、平板互联协作
 - name: Geekbench
   url: https://www.geekbench.com/download/
   img: /images/logos/geekbench.png
