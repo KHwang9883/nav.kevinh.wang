@@ -96,7 +96,7 @@ menu:
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2024-06-27
+  - name: 最后更新：2024-06-29
     icon: far fa-calendar
 
 about:

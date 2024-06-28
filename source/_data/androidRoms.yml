@@ -18,6 +18,10 @@
   url: https://xmfirmwareupdater.com/
   img: /images/logos/xfu.png
   description: 小米手机 ROM & 底包下载
+- name: 一加手机官方 ROM 下载
+  url: https://oplusrom.com/
+  img: /images/logos/oneplus.png
+  description: 大侠阿木的一加 ROM 汇总站
 - name: ColorOS 升级工具
   url: https://www.coloros.com/rom
   img: /images/logos/coloros.png
