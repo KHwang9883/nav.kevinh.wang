@@ -22,18 +22,6 @@
   url: http://hmcl.huangyuhui.net/
   img: /images/logos/minecraft.png
   description: 第三方 Minecraft 启动器
-- name: TapTap
-  url: https://www.taptap.com/
-  img: /images/logos/taptap.png
-  description: 发现好游戏
-- name: 小黑盒
-  url: https://www.xiaoheihe.cn/
-  img: /images/logos/xhh.png
-  description: 高能玩家聚集地
-- name: Jump
-  url: http://www.jump-game.com/
-  img: /images/logos/jump.png
-  description: 主机 / Steam 玩家社区平台
 - name: OpenIV
   url: https://openiv.com/
   img: /images/logos/openiv.png

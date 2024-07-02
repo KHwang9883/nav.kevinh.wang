@@ -70,14 +70,6 @@
   url: https://www.runoob.com/
   img: /images/logos/runoob.png
   description: 学的不仅是技术
-- name: 游研社
-  url: https://www.yystv.cn/
-  img: /images/logos/yys.png
-  description: 看懂游戏 研究快乐
-- name: indienova
-  url: https://indienova.com/
-  img: /images/logos/indienova.png
-  description: 喜爱独立游戏，追求游戏乐趣
 - name: 蓝点网
   url: https://www.landiannews.com/
   img: /images/logos/landian.png

@@ -1,0 +1,12 @@
+- name: 植物僵尸相关下载
+  url: http://lonelystar.org/download.htm
+  img: /images/logos/pvz.png
+  description: 植物大战僵尸资源
+- name: Ballance Community Resource Center
+  url: https://bcrc.site/
+  img: /images/logos/bcrc.png
+  description: Ballance (平衡球) 游戏资源
+- name: 老男人游戏网
+  url: https://www.oldmantvg.net/
+  img: /images/logos/oldman.jpg
+  description: 掌机主机游戏资源汇总下载

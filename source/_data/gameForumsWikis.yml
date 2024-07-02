@@ -1,0 +1,52 @@
+- name: 其乐 Keylol
+  url: https://keylol.com/
+  img: /images/logos/keylol.png
+  description: 驱动正版游戏的引擎
+- name: TapTap
+  url: https://www.taptap.com/
+  img: /images/logos/taptap.png
+  description: 发现好游戏
+- name: 小黑盒
+  url: https://www.xiaoheihe.cn/
+  img: /images/logos/xhh.png
+  description: 高能玩家聚集地
+- name: Jump
+  url: http://www.jump-game.com/
+  img: /images/logos/jump.png
+  description: 主机 / Steam 玩家社区平台
+- name: 游研社
+  url: https://www.yystv.cn/
+  img: /images/logos/yys.png
+  description: 看懂游戏 研究快乐
+- name: indienova
+  url: https://indienova.com/
+  img: /images/logos/indienova.png
+  description: 喜爱独立游戏，追求游戏乐趣
+- name: Mario Forever 社区
+  url: https://www.marioforever.net/
+  img: /images/logos/mforever.png
+  description: 「私货」Mario Forever 爱好者的家园
+- name: SMBX World 中文社区
+  url: https://smbx.world/
+  img: /images/logos/smbxworld.png
+  description: 「私货」中文 SMBX 玩家与创作家的世界
+- name: 中文 Minecraft Wiki
+  url: https://zh.minecraft.wiki/
+  img: /images/logos/minecraft.png
+  description: 最详细的官方我的世界百科
+- name: 中文 Terraria Wiki
+  url: https://terraria.wiki.gg/zh/wiki/
+  img: /images/logos/terrariawiki.png
+  description: 最详细的中文泰拉瑞亚百科
+- name: PVZ Wiki
+  url: https://wiki.pvz1.com/
+  img: /images/logos/pvzwiki.png
+  description: 植物大战僵尸中文 Wiki
+- name: Super Mario Wiki
+  url: https://www.mariowiki.com/
+  img: /images/logos/mariowiki.png
+  description: 《超级马力欧》系列游戏英文百科
+- name: GameWiki
+  url: http://wiki.nesbbs.com/
+  img: /images/logos/gamewiki.png
+  description: 致力于挖掘和研究电子游戏内容的百科

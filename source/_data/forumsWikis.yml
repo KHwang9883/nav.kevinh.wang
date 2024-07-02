@@ -1,7 +1,3 @@
-- name: 其乐 Keylol
-  url: https://keylol.com/
-  img: /images/logos/keylol.png
-  description: 驱动正版游戏的引擎
 - name: 远景论坛
   url: http://bbs.pcbeta.com/
   img: /images/logos/pcbeta.png
@@ -18,18 +14,6 @@
   url: https://www.hostloc.com/forum.php
   img: /images/logos/hostloc.png
   description: 全球 IDC 主机交流 (需代理)
-- name: Mario Forever 社区
-  url: https://www.marioforever.net/
-  img: /images/logos/mforever.png
-  description: 「私货」Mario Forever 爱好者的家园
-- name: SMBX World 中文社区
-  url: https://smbx.world/
-  img: /images/logos/smbxworld.png
-  description: 「私货」中文 SMBX 玩家与创作家的世界
-- name: 老男人游戏网
-  url: https://bbs.oldmantvg.net/
-  img: /images/logos/oldman.jpg
-  description: 掌机主机游戏资源汇总下载 (可能需代理)
 - name: XDA-Developers
   url: https://www.xda-developers.com/
   img: /images/logos/xda.png
@@ -50,26 +34,6 @@
   url: https://directory.fsf.org/
   img: /images/logos/gnu.png
   description: 自由软件目录大全
-- name: 中文 Minecraft Wiki
-  url: https://zh.minecraft.wiki/
-  img: /images/logos/minecraft.png
-  description: 最详细的官方我的世界百科
-- name: 中文 Terraria Wiki
-  url: https://terraria.wiki.gg/zh/wiki/
-  img: /images/logos/terrariawiki.png
-  description: 最详细的中文泰拉瑞亚百科
-- name: PVZ Wiki
-  url: https://wiki.pvz1.com/
-  img: /images/logos/pvzwiki.png
-  description: 植物大战僵尸中文 Wiki
-- name: Super Mario Wiki
-  url: https://www.mariowiki.com/
-  img: /images/logos/mariowiki.png
-  description: 《超级马力欧》系列游戏英文百科
-- name: GameWiki
-  url: http://wiki.nesbbs.com/
-  img: /images/logos/gamewiki.png
-  description: 致力于挖掘和研究电子游戏内容的百科
 - name: The Apple Wiki
   url: https://www.theapplewiki.com/
   img: /images/logos/apple.png

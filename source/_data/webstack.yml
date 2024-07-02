@@ -54,9 +54,15 @@ menu:
       - name: 网页游戏
         icon: fas fa-globe
         config: onlineGames
+      - name: 游戏资源
+        icon: fas fa-dice-d6
+        config: gameRes
       - name: 游戏工具
         icon: fas fa-dice
         config: gameTools
+      - name: 社区百科
+        icon: fab fa-forumbee
+        config: gameForumsWikis
       - name: 模拟器
         icon: fab fa-xbox
         config: gameEmulators
@@ -96,7 +102,7 @@ menu:
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2024-06-29
+  - name: 最后更新：2024-07-03
     icon: far fa-calendar
 
 about:
