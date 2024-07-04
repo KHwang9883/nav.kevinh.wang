@@ -6,12 +6,8 @@
   url: https://www.epicgames.com/store/zh-CN/
   img: /images/logos/epic.png
   description: 每周都有喜加一
-- name: GOG Galaxy
-  url: https://www.gog.com/galaxy
-  img: /images/logos/gog.png
-  description: 连通所有游戏和朋友
 - name: EA App
-  url: https://www.origin.com/hkg/zh-tw/store/download
+  url: https://www.ea.com/ea-app
   img: /images/logos/origin.png
   description: EA 游戏平台
 - name: WeGame
@@ -22,6 +18,14 @@
   url: https://zh-cn.ubisoft.com/uplay
   img: /images/logos/uplay.png
   description: 育碧游戏平台
+- name: 暴雪战网
+  url: https://download.battlenet.com.cn/zh-cn/
+  img: /images/logos/battlenet.png
+  description: 暴雪游戏平台
+- name: GOG Galaxy
+  url: https://www.gog.com/galaxy
+  img: /images/logos/gog.png
+  description: 连通所有游戏和朋友
 - name: 方块游戏平台
   url: http://www.cubejoy.com/
   img: /images/logos/cubejoy.png
