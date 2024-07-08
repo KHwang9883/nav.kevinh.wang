@@ -66,10 +66,6 @@
   url: https://github.com/LizardByte/Sunshine
   img: /images/logos/sunshine.png
   description: 串流服务端，配合 Moonlight 使用
-- name: ToDesk
-  url: https://www.todesk.com/
-  img: /images/logos/todesk.png
-  description: 支持多平台的远控软件
 - name: ScreenToGif
   url: https://www.screentogif.com/downloads
   img: /images/logos/stg.png
