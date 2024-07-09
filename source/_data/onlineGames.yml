@@ -14,6 +14,14 @@
   url: https://www.minesweeper.cn/
   img: /images/logos/minesweeper.png
   description: 重温经典，让扫雷游戏更轻松
+- name: 在线 DOS 游戏
+  url: https://dos.lol/
+  img: /images/logos/controller.png
+  description: 在浏览器中在线游玩 DOS 游戏
+- name: 老游戏在线玩
+  url: https://zaixianwan.app/
+  img: /images/logos/controller.png
+  description: 在浏览器中在线游玩经典主机平台游戏
 - name: 4399 小游戏
   url: https://www.4399.com/
   img: /images/logos/4399.png
