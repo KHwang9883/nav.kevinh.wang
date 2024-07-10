@@ -62,6 +62,10 @@
   url: https://optool.daxiaamu.com/optool/
   img: /images/logos/dxam.png
   description: 欧加玩机辅助工具
+- name: Payload Dumper
+  url: https://github.com/5ec1cff/payload-dumper
+  img: /images/logos/github.png
+  description: 转储 Android 更新包中的 payload.bin
 - name: Lenovo Bootloader 解锁
   url: https://www.zui.com/iunlock
   img: /images/logos/lenovo.png
