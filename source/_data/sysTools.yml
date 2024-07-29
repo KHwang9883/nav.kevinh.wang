@@ -38,6 +38,10 @@
   url: https://github.com/TranslucentTB/TranslucentTB
   img: /images/logos/translucenttb.png
   description: 使任务栏透明
+- name: DesktopClock
+  url: https://github.com/danielchalmers/DesktopClock
+  img: /images/logos/desktopclock.png
+  description: 简易桌面时钟
 - name: MacType
   url: https://www.mactype.net/
   img: /images/logos/mactype.png
