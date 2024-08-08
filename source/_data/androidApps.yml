@@ -26,6 +26,10 @@
   url: https://www.smartisan.com/apps/#/notes
   img: /images/logos/smartisannotes.png
   description: 可能是史上最漂亮的便签应用
+- name: gkd
+  url: https://gkd.li/
+  img: /images/logos/gkd.png
+  description: 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP
 - name: Swift Backup
   url: https://swiftapps.org/
   img: /images/logos/swiftbackup.png
@@ -34,7 +38,7 @@
   url: https://github.com/XayahSuSuSu/Android-DataBackup
   img: /images/logos/databackup.png
   description: 支持多用户/双开应用备份
-- name: App 分享
+- name: AppShare
   url: https://appshare.muge.info/
   img: /images/logos/appshare.png
   description: 第三方 APP 分享平台
