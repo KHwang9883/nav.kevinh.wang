@@ -34,6 +34,10 @@
   url: http://cn.bandisoft.com/honeyview/
   img: /images/logos/honeyview.png
   description: 支持众多格式的看图软件
+- name: ExplorerPatcher
+  url: https://github.com/valinet/ExplorerPatcher
+  img: /images/logos/fileexplorer.png
+  description: Windows 文件资源管理器体验增强
 - name: TranslucentTB
   url: https://github.com/TranslucentTB/TranslucentTB
   img: /images/logos/translucenttb.png
