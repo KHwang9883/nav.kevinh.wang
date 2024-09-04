@@ -10,6 +10,10 @@
   url: https://yiyan.baidu.com/
   img: /images/logos/yiyan.png
   description: 百度的 AI 聊天机器人
+- name: 智谱清言
+  url: https://chatglm.cn/
+  img: /images/logos/chatglm.png
+  description: 千亿参数对话模型
 - name: LDTools
   url: https://tool.pc.wiki/
   img: /images/logos/laodi.png
