@@ -22,6 +22,14 @@
   url: https://shizuku.rikka.app/
   img: /images/logos/shizuku.png
   description: 通过 adb/root 权限直接使用系统 API
+- name: Termux
+  url: https://termux.dev/
+  img: /images/logos/termux.png
+  description: 终端模拟器 + Linux 环境
+- name: Linux Deploy
+  url: https://github.com/meefik/linuxdeploy
+  img: /images/logos/github.png
+  description: 在已 root 的 Android 设备上部署 GNU/Linux
 - name: 爱玩机工具箱
   url: https://www.coolapk.com/apk/com.byyoung.setting
   img: /images/logos/aiwanji.png

@@ -1,11 +1,3 @@
-- name: Termux
-  url: https://termux.dev/
-  img: /images/logos/termux.png
-  description: 终端模拟器 + Linux 环境
-- name: JuiceSSH
-  url: https://play.google.com/store/apps/details?id=com.sonelli.juicessh
-  img: /images/logos/juicessh.png
-  description: Android SSH 用户端
 - name: LibChecker
   url: https://github.com/LibChecker/LibChecker
   img: /images/logos/libchecker.png
@@ -30,26 +22,22 @@
   url: https://gkd.li/
   img: /images/logos/gkd.png
   description: 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP
-- name: Swift Backup
-  url: https://swiftapps.org/
-  img: /images/logos/swiftbackup.png
-  description: Android 手机通用备份 App
 - name: 数据备份
   url: https://github.com/XayahSuSuSu/Android-DataBackup
   img: /images/logos/databackup.png
   description: 支持多用户/双开应用备份
+- name: Swift Backup
+  url: https://swiftapps.org/
+  img: /images/logos/swiftbackup.png
+  description: Android 手机通用备份 App
+- name: JuiceSSH
+  url: https://play.google.com/store/apps/details?id=com.sonelli.juicessh
+  img: /images/logos/juicessh.png
+  description: Android SSH 用户端
 - name: AppShare
   url: https://appshare.muge.info/
   img: /images/logos/appshare.png
   description: 第三方 APP 分享平台
-- name: APKMirror
-  url: https://www.apkmirror.com/
-  img: /images/logos/apkmirror.png
-  description: 第三方 Android 应用市场 (需代理)
-- name: APKCombo
-  url: https://apkcombo.com/zh/
-  img: /images/logos/apkcombo.png
-  description: 第三方 Android 应用市场 (需代理)
 - name: Aurora Store
   url: https://auroraoss.com/AuroraStore/
   img: /images/logos/aurorastore.png
@@ -58,6 +46,14 @@
   url: https://f-droid.org/
   img: /images/logos/fdroid.png
   description: Android 自由/开源软件分发平台
+- name: APKMirror
+  url: https://www.apkmirror.com/
+  img: /images/logos/apkmirror.png
+  description: 第三方 Android 应用市场 (需代理)
+- name: APKCombo
+  url: https://apkcombo.com/zh/
+  img: /images/logos/apkcombo.png
+  description: 第三方 Android 应用市场 (需代理)
 - name: HiSuite 华为手机助手
   url: https://consumer.huawei.com/cn/support/hisuite/
   img: /images/logos/hisuite.png
@@ -78,6 +74,10 @@
   url: https://one.lenovo.com/download.html
   img: /images/logos/lenovoone.png
   description: 联想电脑、手机、平板互联协作
+- name: KDE Connect
+  url: https://kdeconnect.kde.org/download.html
+  img: /images/logos/kdeconnect.png
+  description: 开源的跨平台协同工具
 - name: Geekbench
   url: https://www.geekbench.com/download/
   img: /images/logos/geekbench.png
@@ -86,10 +86,6 @@
   url: http://icoolby.com/
   img: /images/logos/icoolby.png
   description: 智能文件分类、一键清理垃圾
-- name: KDE Connect
-  url: https://kdeconnect.kde.org/download.html
-  img: /images/logos/kdeconnect.png
-  description: 开源的跨平台协同工具
 - name: 白眼
   url: https://epcdiy.org
   img: /images/logos/byakugan.png
