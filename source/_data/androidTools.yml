@@ -27,8 +27,8 @@
   img: /images/logos/termux.png
   description: 终端模拟器 + Linux 环境
 - name: Linux Deploy
-  url: https://github.com/meefik/linuxdeploy
-  img: /images/logos/github.png
+  url: https://github.com/lateautumn233/Linuxdeploy-Pro
+  img: /images/logos/linuxdeploy.png
   description: 在已 root 的 Android 设备上部署 GNU/Linux
 - name: 爱玩机工具箱
   url: https://www.coolapk.com/apk/com.byyoung.setting
