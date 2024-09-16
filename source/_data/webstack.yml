@@ -60,7 +60,7 @@ menu:
       - name: 游戏工具
         icon: fas fa-dice
         config: gameTools
-      - name: 社区百科
+      - name: 社群百科
         icon: fab fa-forumbee
         config: gameForumsWikis
       - name: 模拟器
@@ -102,7 +102,7 @@ menu:
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2024-09-04
+  - name: 最后更新：2024-09-16
     icon: far fa-calendar
 
 about:

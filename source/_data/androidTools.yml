@@ -50,6 +50,10 @@
   url: https://jamcz.com/
   img: /images/logos/jamcz.png
   description: 实用玩机工具、玩机教程
+- name: 柚坛工具箱
+  url: https://github.com/Uotan-Dev/UotanToolboxNT
+  img: /images/logos/uotan.png
+  description: 为玩机发烧友而生的全新工具箱
 - name: 秋之盒
   url: https://www.atmb.top/
   img: /images/logos/autumnbox.png
