@@ -1,19 +1,19 @@
 - name: XiaomiROM.com
   url: https://xiaomirom.com/
-  img: /images/logos/xiaomi.png
+  img: /images/logos/xiaomihyperos.png
   description: MIUI/Xiaomi HyperOS 下载站
 - name: MIUI 历史版本
   url: https://miuiver.com/
-  img: /images/logos/xiaomi.png
+  img: /images/logos/xiaomihyperos.png
   description: 各机型 MIUI/Xiaomi HyperOS 版本分类索引，需注册
 - name: HyperOS.fans
   url: https://hyperos.fans/
-  img: /images/logos/xiaomi.png
-  description: 另一个小米 ROM 下载站
+  img: /images/logos/xiaomihyperos.png
+  description: 另一个 Xiaomi HyperOS 下载站
 - name: Xiaomi.EU
   url: https://xiaomi.eu/community/
-  img: /images/logos/xiaomi.png
-  description: 俗称波兰版 MIUI
+  img: /images/logos/xiaomihyperos.png
+  description: 小米 ROM 官改，俗称波兰版
 - name: Xiaomi Firmware Updater
   url: https://xmfirmwareupdater.com/
   img: /images/logos/xfu.png
