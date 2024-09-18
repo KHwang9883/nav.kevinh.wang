@@ -61,7 +61,7 @@
 - name: vivo 互传
   url: http://es.vivo.com.cn/
   img: /images/logos/huchuan.png
-  description: vivo 手机分享文件、一键换机、PC 助手
+  description: Android 设备互传文件、vivo 一键换机/PC 助手
 - name: vivo 办公套件
   url: https://quantumkit.vivo.com/
   img: /images/logos/quantumkit.png
@@ -70,10 +70,6 @@
   url: https://linkpc.flyme.com/
   img: /images/logos/flyme.png
   description: 基于网页端的魅族 PC 互联工具
-- name: Lenovo One
-  url: https://one.lenovo.com/download.html
-  img: /images/logos/lenovoone.png
-  description: 联想电脑、手机、平板互联协作
 - name: KDE Connect
   url: https://kdeconnect.kde.org/download.html
   img: /images/logos/kdeconnect.png
