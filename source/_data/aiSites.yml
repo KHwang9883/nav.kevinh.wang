@@ -1,0 +1,20 @@
+- name: ChatGPT
+  url: https://chatgpt.com/
+  img: /images/logos/chatgpt.png
+  description: AI 聊天机器人 (需代理)
+- name: 文心一言
+  url: https://yiyan.baidu.com/
+  img: /images/logos/yiyan.png
+  description: 百度的 AI 聊天机器人
+- name: 智谱清言
+  url: https://chatglm.cn/
+  img: /images/logos/chatglm.png
+  description: 千亿参数对话模型
+- name: 彩云小梦
+  url: http://if.caiyunai.com/dream/#/
+  img: /images/logos/caiyun.png
+  description: AI 续写
+- name: Stable Diffusion
+  url: https://www.bilibili.com/video/BV1iM4y1y7oA/
+  img: /images/logos/stabilityai.png
+  description: "@秋葉aaaki 制作的整合包，解压即用"
