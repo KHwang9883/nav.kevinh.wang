@@ -30,15 +30,15 @@ menu:
       - name: 上网通讯
         icon: fab fa-internet-explorer
         config: socialApps
+      - name: 影音媒体
+        icon: far fa-play-circle
+        config: mediaApps
       - name: 生产力
         icon: fas fa-briefcase
         config: workApps
       - name: 编程开发
         icon: fas fa-code
         config: developmentTools
-      - name: 影音媒体
-        icon: far fa-play-circle
-        config: mediaApps
       - name: 安全维护
         icon: fas fa-shield-alt
         config: maintainTools
