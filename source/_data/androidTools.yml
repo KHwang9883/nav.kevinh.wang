@@ -78,6 +78,10 @@
   url: https://github.com/5ec1cff/payload-dumper
   img: /images/logos/github.png
   description: 转储 Android 更新包中的 payload.bin
+- name: MTKClient
+  url: https://github.com/bkerler/mtkclient
+  img: /images/logos/mtkclient.png
+  description: 联发科设备固件提取/刷写
 - name: Lenovo Bootloader 解锁
   url: https://www.zui.com/iunlock
   img: /images/logos/lenovo.png
