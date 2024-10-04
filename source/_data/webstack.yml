@@ -88,13 +88,13 @@ menu:
         icon: fas fa-box
         config: webEnvironment
   - name: 手机工具
-    icon: fas fa-mobile
+    icon: fas fa-mobile-alt
     submenu:
       - name: 安卓应用
         icon: fab fa-google-play
         config: androidApps
       - name: 安卓玩机
-        icon: fas fa-tools
+        icon: fas fa-hashtag
         config: androidTools
       - name: 定制 ROM
         icon: fab fa-android
@@ -105,7 +105,7 @@ menu:
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2024-10-02
+  - name: 最后更新：2024-10-04
     icon: far fa-calendar
 
 about:

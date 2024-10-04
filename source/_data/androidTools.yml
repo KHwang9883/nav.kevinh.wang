@@ -6,6 +6,10 @@
   url: https://github.com/topjohnwu/Magisk
   img: /images/logos/magisk.png
   description: Android 的魔法面具
+- name: Magisk Alpha
+  url: https://install.appcenter.ms/users/vvb2060/apps/magisk/distribution_groups/public
+  img: /images/logos/magisk.png
+  description: Magisk 增强版
 - name: KernelSU
   url: https://kernelsu.org/zh_CN/
   img: /images/logos/kernelsu.png
@@ -69,7 +73,7 @@
 - name: MiFlashUnlock
   url: http://www.miui.com/unlock/download.html
   img: /images/logos/xiaomi.png
-  description: 小米解锁工具
+  description: 小米 Bootloader 解锁工具
 - name: 一加全能盒子 | 工具箱 by 大侠阿木
   url: https://optool.daxiaamu.com/optool/
   img: /images/logos/dxam.png
