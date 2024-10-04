@@ -54,10 +54,6 @@
   url: https://www.virustotal.com/
   img: /images/logos/virustotal.png
   description: 可疑文件分析
-- name: 硕鼠
-  url: https://www.flvcd.com/
-  img: /images/logos/bigrat.png
-  description: 下载视频网站上的视频
 - name: 历史价格查询
   url: http://www.lsjgcx.com/
   img: /images/logos/price.png
