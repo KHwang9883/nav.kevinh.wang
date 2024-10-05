@@ -1,7 +1,7 @@
 - name: winstall
   url: https://winstall.app/
   img: /images/logos/winstall.png
-  description: 生成 WinGet 一键安装脚本
+  description: 生成 winget 一键安装脚本
 - name: LDTools
   url: https://tool.pc.wiki/
   img: /images/logos/laodi.png

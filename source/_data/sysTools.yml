@@ -1,4 +1,4 @@
-- name: WinGet
+- name: winget
   url: https://docs.microsoft.com/zh-cn/windows/package-manager/winget/
   img: /images/logos/windows11.png
   description: 一条命令即可安装 Windows 程序
@@ -6,6 +6,10 @@
   url: https://www.huorong.cn/app_store.html
   img: /images/logos/hrappstore.png
   description: 一站式管理应用软件
+- name: UniGetUI
+  url: https://github.com/marticliment/UniGetUI
+  img: /images/logos/unigetui.png
+  description: winget 及众多包管理器的图形化界面
 - name: PowerToys
   url: https://github.com/microsoft/PowerToys/releases
   img: /images/logos/powertoys.png
