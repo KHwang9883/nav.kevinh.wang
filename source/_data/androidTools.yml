@@ -10,6 +10,10 @@
   url: https://install.appcenter.ms/users/vvb2060/apps/magisk/distribution_groups/public
   img: /images/logos/magisk.png
   description: Magisk 增强版
+- name: Kitsune Mask
+  url: https://github.com/HuskyDG/magisk-files/releases
+  img: /images/logos/kitsunemask.png
+  description: 原 Magisk Delta，也称作狐狸面具
 - name: KernelSU
   url: https://kernelsu.org/zh_CN/
   img: /images/logos/kernelsu.png
