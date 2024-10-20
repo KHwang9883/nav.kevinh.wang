@@ -105,7 +105,7 @@ menu:
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2024-10-06
+  - name: 最后更新：2024-10-20
     icon: far fa-calendar
 
 about:
@@ -135,7 +135,7 @@ busuanzi:
 
 custom:
   head: |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
-    <style type="text/css">.img-circle {border-radius:0 !important} @media screen and (max-width:768px) {.logo-env { position: relative; overflow: hidden;} .mobile-menu-toggle {position: absolute; top: 50%; transform: translateY(-50%); right: 20px;} .language-switcher .dropdown-toggle {position: absolute;top: 0; transform: translateY(15%);} .switch-mode a {position: absolute; top: 0; transform: translateY(10%);}} .dropdown-menu {border: 0 !important;} .user-info-navbar .user-info-menu>li>a {border-bottom: 0 !important; border-right: 0 !important; border-left: 0 !important;} .user-info-navbar .user-info-menu>li>a:hover { border-right: 0 !important; border-left: 0 !important;} .user-info-navbar .user-info-menu>li { border: 0 !important;} body.night .dropdown-menu {border: 0 !important;} body.night .user-info-navbar .user-info-menu>li>a {border-bottom: 0 !important; border-right: 0 !important; border-left: 0 !important;} body.night .user-info-navbar .user-info-menu>li>a:hover { border-right: 0 !important; border-left: 0 !important;} body.night .user-info-navbar .user-info-menu>li { border: 0 !important;} body.night .sidebar-menu {border-right: #313437 1px solid;}</style>
+    <style type="text/css">.img-circle {border-radius:0 !important} @media screen and (max-width:768px) {.logo-env { position: relative; overflow: hidden;} .mobile-menu-toggle {position: absolute; top: 50%; transform: translateY(-50%); right: 20px;} .language-switcher .dropdown-toggle {position: absolute;top: 0; transform: translateY(15%);} .switch-mode a {position: absolute; top: 0; transform: translateY(10%);}} .dropdown-menu {border: 0 !important;} .user-info-navbar .user-info-menu>li>a {border-bottom: 0 !important; border-right: 0 !important; border-left: 0 !important;} .user-info-navbar .user-info-menu>li>a:hover { border-right: 0 !important; border-left: 0 !important;} .user-info-navbar .user-info-menu>li { border: 0 !important;} body.night .dropdown-menu {border: 0 !important;} body.night .user-info-navbar .user-info-menu>li>a {border-bottom: 0 !important; border-right: 0 !important; border-left: 0 !important;} body.night .user-info-navbar .user-info-menu>li>a:hover { border-right: 0 !important; border-left: 0 !important;} body.night .user-info-navbar .user-info-menu>li { border: 0 !important;} body.night .sidebar-menu {border-right: #313437 1px solid;} .language-switcher {display: none !important;}</style>
   body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
     <!-- 直接添加html内容即可 -->
     <!-- 可设置多行 -->
