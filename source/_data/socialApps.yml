@@ -1,19 +1,15 @@
-- name: TIM
-  url: https://office.qq.com/download.html
-  img: /images/logos/tim.png
-  description: 不错的 QQ 替代品
 - name: QQ
   url: https://im.qq.com/
   img: /images/logos/qq.png
   description: 即时通讯软件
+- name: TIM
+  url: https://office.qq.com/download.html
+  img: /images/logos/tim.png
+  description: 不错的 QQ 替代品
 - name: 微信
   url: https://pc.weixin.qq.com/
   img: /images/logos/wechat.png
   description: 即时通讯软件
-- name: Discord
-  url: https://discord.com/
-  img: /images/logos/discord.png
-  description: 海外兴趣聊天 App (需代理)
 - name: Firefox
   url: https://www.mozilla.org/zh-CN/firefox/
   img: /images/logos/firefox.png
