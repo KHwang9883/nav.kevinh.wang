@@ -46,3 +46,7 @@
   url: http://mirrors.ustc.edu.cn/
   img: /images/logos/ustc.png
   description: USTC open source software mirror
+- name: Kwrt
+  url: https://openwrt.ai/
+  img: /images/logos/kwrt.png
+  description: 软路由固件下载与在线定制编译
