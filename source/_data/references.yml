@@ -46,6 +46,10 @@
   url: https://github.com/KHwang9883/MobileModels
   img: /images/logos/github.png
   description: 「私货」手机品牌型号汇总
+- name: RootDocs
+  url: https://root.dianas.cyou/
+  img: /images/logos/github.png
+  description: 为 Android 设备刷机编写的速查手册
 - name: WSA App Compatibility
   url: https://github.com/riverar/wsa-app-compatibility
   img: /images/logos/github.png
