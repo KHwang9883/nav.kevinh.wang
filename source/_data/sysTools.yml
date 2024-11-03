@@ -59,9 +59,9 @@
   img: /images/logos/hipc.png
   description: 用手机，远程监视与控制 PC
 - name: VMware Workstation Pro
-  url: https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro
+  url: https://softwareupdate.vmware.com/cds/vmw-desktop/
   img: /images/logos/vmware.png
-  description: VMware 虚拟机 (需博通账户)
+  description: VMware 虚拟机
 - name: VirtualBox
   url: https://www.virtualbox.org/wiki/Downloads
   img: /images/logos/virtualbox.png
