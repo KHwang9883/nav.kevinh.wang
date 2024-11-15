@@ -22,6 +22,10 @@
   url: http://hmcl.huangyuhui.net/
   img: /images/logos/minecraft.png
   description: 第三方 Minecraft 启动器
+- name: Playnite
+  url: https://playnite.link/
+  img: /images/logos/playnite.png
+  description: 多平台聚合游戏管理器
 - name: OpenIV
   url: https://openiv.com/
   img: /images/logos/openiv.png

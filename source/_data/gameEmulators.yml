@@ -1,26 +1,6 @@
-- name: Dolphin
-  url: https://cn.dolphin-emu.org/download/
-  img: /images/logos/dolphin.png
-  description: Wii/GameCube 模拟器
-- name: Citra
-  url: https://github.com/PabloMK7/citra
-  img: /images/logos/citra.png
-  description: 3DS 模拟器
-- name: Cemu
-  url: http://cemu.info
-  img: /images/logos/cemu.png
-  description: Wii U 模拟器
-- name: Suyu
-  url: https://suyu.dev/
-  img: /images/logos/suyu.png
-  description: Nintendo Switch 模拟器
 - name: RetroArch
   url: http://www.retroarch.com/
   img: /images/logos/retroarch.png
-  description: 多平台开源模拟器
-- name: BizHawk
-  url: https://tasvideos.org/BizHawk
-  img: /images/logos/bizhawk.png
   description: 多平台开源模拟器
 - name: Mesen
   url: https://www.mesen.ca/
@@ -50,6 +30,38 @@
   url: http://desmume.org/download/
   img: /images/logos/desmume.png
   description: NDS 模拟器
+- name: Dolphin
+  url: https://cn.dolphin-emu.org/download/
+  img: /images/logos/dolphin.png
+  description: Wii/GameCube 模拟器
+- name: Lime3DS
+  url: https://github.com/Lime3DS/Lime3DS
+  img: /images/logos/lime.png
+  description: 3DS 模拟器
+- name: Cemu
+  url: http://cemu.info
+  img: /images/logos/cemu.png
+  description: Wii U 模拟器
+- name: Ryujinx
+  url: https://github.com/GreemDev/Ryujinx
+  img: /images/logos/ryujinx.png
+  description: Ryujinx (GreemDev Fork)
+- name: Suyu
+  url: https://suyu.dev/
+  img: /images/logos/suyu.png
+  description: Nintendo Switch 模拟器
+- name: PCSX2
+  url: https://pcsx2.net/
+  img: /images/logos/pcsx2.png
+  description: PS2 模拟器
+- name: RPCS3
+  url: https://rpcs3.net/download
+  img: /images/logos/rpcs3.png
+  description: PS3 模拟器
+- name: BizHawk
+  url: https://tasvideos.org/BizHawk
+  img: /images/logos/bizhawk.png
+  description: 多平台开源模拟器
 - name: Ruffle
   url: https://ruffle.rs/
   img: /images/logos/ruffle.png
@@ -58,3 +70,11 @@
   url: https://www.dosbox.com/
   img: /images/logos/dosbox.png
   description: DOS 模拟器
+- name: Winlator
+  url: https://github.com/brunodev85/winlator
+  img: /images/logos/winlator.png
+  description: 通过 Box64 和 Wine 运行 Windows 应用程序
+- name: Mobox
+  url: https://github.com/olegos2/mobox
+  img: /images/logos/termux.png
+  description: 在 Termux 中通过 Box64 和 Wine 运行 Windows 应用程序

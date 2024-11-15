@@ -102,3 +102,7 @@
   url: https://excel2wiki.toolforge.org/
   img: /images/logos/excel2wiki.png
   description: Excel 转 Wikitext 格式
+- name: Indie Wiki Buddy
+  url: https://getindie.wiki/
+  img: /images/logos/indiewikibuddy.png
+  description: 将 Fandom 链接重定向到独立 Wiki 的浏览器扩展

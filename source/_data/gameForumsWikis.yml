@@ -50,3 +50,7 @@
   url: http://wiki.nesbbs.com/
   img: /images/logos/gamewiki.png
   description: 致力于挖掘和研究电子游戏内容的百科
+- name: Emulation General Wiki
+  url: https://emulation.gametechwiki.com/
+  img: /images/logos/emugen.png
+  description: 游戏模拟器百科

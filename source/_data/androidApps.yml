@@ -46,6 +46,10 @@
   url: https://f-droid.org/
   img: /images/logos/fdroid.png
   description: Android 自由/开源软件分发平台
+- name: Obtainium
+  url: https://github.com/ImranR98/Obtainium
+  img: /images/logos/obtainium.png
+  description: 直接从 App 发布源获取更新
 - name: APKMirror
   url: https://www.apkmirror.com/
   img: /images/logos/apkmirror.png

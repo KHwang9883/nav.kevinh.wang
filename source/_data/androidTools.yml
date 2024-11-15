@@ -23,9 +23,9 @@
   img: /images/logos/apatch.png
   description: 另一内核级的 root 方案
 - name: LSPosed
-  url: https://github.com/LSPosed/LSPosed
+  url: https://github.com/JingMatrix/LSPosed
   img: /images/logos/lsposed.png
-  description: 适用于 Android 8.1+ 的 Xposed 框架 (Riru/Zygisk)
+  description: 适用于 Android 8.1+ 的 Xposed 框架 (JingMatrix Fork)
 - name: Shizuku
   url: https://shizuku.rikka.app/
   img: /images/logos/shizuku.png
