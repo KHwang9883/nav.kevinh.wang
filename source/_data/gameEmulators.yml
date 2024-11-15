@@ -50,6 +50,10 @@
   url: https://suyu.dev/
   img: /images/logos/suyu.png
   description: Nintendo Switch 模拟器
+- name: PPSSPP
+  url: https://www.ppsspp.org/
+  img: /images/logos/ppsspp.png
+  description: PSP 模拟器
 - name: PCSX2
   url: https://pcsx2.net/
   img: /images/logos/pcsx2.png
@@ -73,7 +77,7 @@
 - name: Winlator
   url: https://github.com/brunodev85/winlator
   img: /images/logos/winlator.png
-  description: 通过 Box64 和 Wine 运行 Windows 应用程序
+  description: 通过 Box64 和 Wine 运行 Windows 应用程序 (个人推荐使用修改版)
 - name: Mobox
   url: https://github.com/olegos2/mobox
   img: /images/logos/termux.png
