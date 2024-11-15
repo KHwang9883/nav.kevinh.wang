@@ -38,6 +38,10 @@
   url: https://github.com/lateautumn233/Linuxdeploy-Pro
   img: /images/logos/linuxdeploy.png
   description: 在已 root 的 Android 设备上部署 GNU/Linux
+- name: HyperCeiler
+  url: https://github.com/ReChronoRain/HyperCeiler
+  img: /images/logos/hyperceiler.png
+  description: MIUI/Xiaomi HyperOS 的 Xposed 增强模块
 - name: 爱玩机工具箱
   url: https://www.coolapk.com/apk/com.byyoung.setting
   img: /images/logos/aiwanji.png
