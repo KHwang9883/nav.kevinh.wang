@@ -98,12 +98,12 @@
   url: https://isapplesiliconready.com/zh
   img: /images/logos/apple.png
   description: 原生支持 Apple Silicon 的 Mac 软件列表
-- name: 咱龙了吗？
-  url: https://areweloongyet.com/
-  img: /images/logos/loong.png
-  description: 一站式了解 LoongArch 的上游生态建设
 - name: Works on WoA
   url: https://www.worksonwoa.com/
   img: /images/logos/windows11.png
   description: Windows on Arm 兼容性列表
+- name: 咱龙了吗？
+  url: https://areweloongyet.com/
+  img: /images/logos/loong.png
+  description: 一站式了解 LoongArch 的上游生态建设
 

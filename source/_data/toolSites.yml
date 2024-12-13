@@ -46,10 +46,6 @@
   url: https://limestart.cn/
   img: /images/logos/limestart.png
   description: 简洁、美观、实用的浏览器起始页
-- name: Flash 保存计划
-  url: https://flash.homes/
-  img: /images/logos/flashhomes.png
-  description: 保存闪客时代的历史，纪念带给我们无限欢乐的 Flash 作品
 - name: VirusTotal
   url: https://www.virustotal.com/
   img: /images/logos/virustotal.png

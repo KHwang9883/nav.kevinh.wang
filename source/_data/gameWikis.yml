@@ -1,0 +1,32 @@
+- name: SteamDB
+  url: https://steamdb.info/
+  img: /images/logos/steamdb.png
+  description: Steam 游戏数据库
+- name: 中文 Minecraft Wiki
+  url: https://zh.minecraft.wiki/
+  img: /images/logos/minecraft.png
+  description: 最详细的官方我的世界百科
+- name: 中文 Terraria Wiki
+  url: https://terraria.wiki.gg/zh/wiki/
+  img: /images/logos/terrariawiki.png
+  description: 最详细的中文泰拉瑞亚百科
+- name: PVZ Wiki
+  url: https://wiki.pvz1.com/
+  img: /images/logos/pvzwiki.png
+  description: 植物大战僵尸中文 Wiki
+- name: Super Mario Wiki
+  url: https://www.mariowiki.com/
+  img: /images/logos/mariowiki.png
+  description: 《超级马力欧》系列游戏英文百科
+- name: GameWiki
+  url: http://wiki.nesbbs.com/
+  img: /images/logos/gamewiki.png
+  description: 致力于挖掘和研究电子游戏内容的百科
+- name: Emulation General Wiki
+  url: https://emulation.gametechwiki.com/
+  img: /images/logos/emugen.png
+  description: 游戏模拟器百科
+- name: ProtonDB
+  url: https://www.protondb.com/
+  img: /images/logos/protondb.png
+  description: Proton 兼容性数据库
