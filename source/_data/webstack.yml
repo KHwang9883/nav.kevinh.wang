@@ -108,7 +108,7 @@ menu:
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2024-12-14
+  - name: 最后更新：2024-12-30
     icon: far fa-calendar
 
 about:
@@ -119,7 +119,7 @@ about:
 aboutPage:
   website:
     head: 关于本站
-    html: '<blockquote><p>本站是 Kevin Huang 的个人导航站，站点使用 Hexo 主题 <a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>。</p><br /><p>本站列出的全部软件和操作系统本人都亲自使用或体验过。标有「私货」的均为本人参与或有直接关联的项目/网站。</p><br /><p>部分灵感/图标来源于<a href="https://sonic.volf.club/">狼导 - 音速装机</a>。</p><br /><p>如有任何问题，请 <a href="https://github.com/KHwang9883/nav.kevinh.wang/issues">提交 Issue</a>。</p></blockquote>'
+    html: '<blockquote><p>本站是 Kevin Huang 的个人导航站，站点使用 Hexo 主题 <a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>。</p><br /><p>本站列出的全部软件和操作系统本人都正在使用或曾体验过，表示本人的一种认可。标有「私货」的均为本人参与或有直接关联的项目/网站。</p><br /><p>部分灵感/图标来源于<a href="https://sonic.volf.club/">狼导 - 音速装机</a>。</p><br /><p>如有任何问题，请 <a href="https://github.com/KHwang9883/nav.kevinh.wang/issues">提交 Issue</a>。</p></blockquote>'
   webmaster:
     head: 关于站长
     name: Kevin Huang
