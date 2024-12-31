@@ -73,7 +73,7 @@
 - name: MagiskOnWSALocal
   url: https://github.com/LSPosed/MagiskOnWSALocal/
   img: /images/logos/android.png
-  description: 🆓在 Windows 安卓子系统中集成 Magisk & GApps，需 GNU/Linux 环境
+  description: 在 Windows 安卓子系统中集成 Magisk & GApps，需 GNU/Linux 环境
 - name: WizTree
   url: https://diskanalyzer.com/download
   img: /images/logos/wiztree.png
