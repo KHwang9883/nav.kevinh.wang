@@ -25,7 +25,7 @@
 - name: LSPosed
   url: https://github.com/JingMatrix/LSPosed
   img: /images/logos/lsposed.png
-  description: 适用于 Android 8.1+ 的 Xposed 框架 (JingMatrix Fork)
+  description: 🆓适用于 Android 8.1+ 的 Xposed 框架 (JingMatrix Fork)
 - name: Shizuku
   url: https://shizuku.rikka.app/
   img: /images/logos/shizuku.png
@@ -102,10 +102,6 @@
   url: https://mroot.flyme.cn/
   img: /images/logos/flyme.png
   description: 魅族手机获取 Root 权限
-- name: realme 专用刷机工具
-  url: https://www.realmebbs.com/post-details/1271082970484060160
-  img: /images/logos/realme.png
-  description: 真我手机官方刷机工具
 - name: Uperf
   url: https://github.com/yc9559/uperf
   img: /images/logos/github.png
