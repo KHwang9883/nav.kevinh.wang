@@ -47,7 +47,7 @@
   img: /images/logos/aiwanji.png
   description: 解锁玩机新姿势
 - name: Scene
-  url: https://www.coolapk.com/apk/com.omarea.vtools
+  url: http://vtools.omarea.com/
   img: /images/logos/scene.png
   description: 💲性能监测与调节
 - name: scrcpy
@@ -55,7 +55,7 @@
   img: /images/logos/scrcpy.png
   description: 🆓将 Android 设备画面投屏到电脑
 - name: 甲壳虫 ADB 助手
-  url: https://www.coolapk.com/apk/com.didjdk.adbhelper
+  url: https://github.com/didjdk/adbhelper
   img: /images/logos/adbhelper.png
   description: 在手机上进行 ADB 调试
 - name: DSU Sideloader
