@@ -25,16 +25,16 @@
 - name: VLC media player
   url: https://www.videolan.org/vlc/
   img: /images/logos/vlc.png
-  description: 开源多媒体播放器
+  description: 🆓开源多媒体播放器
 - name: YesPlayMusic
   url: https://github.com/qier222/YesPlayMusic
   img: /images/logos/yesplaymusic.png
-  description: 第三方网易云音乐用户端
+  description: 🆓第三方网易云音乐用户端
 - name: Listen1
   url: https://listen1.github.io/listen1/
   img: /images/logos/listen1.png
-  description: 开源多平台聚合音乐播放器
+  description: 🆓开源多平台聚合音乐播放器
 - name: 洛雪音乐助手
   url: https://github.com/lyswhut/lx-music-desktop
   img: /images/logos/lx.png
-  description: 下载无损歌曲
+  description: 🆓下载无损歌曲

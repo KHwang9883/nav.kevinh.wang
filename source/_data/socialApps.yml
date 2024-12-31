@@ -13,7 +13,7 @@
 - name: Firefox
   url: https://www.mozilla.org/zh-CN/firefox/
   img: /images/logos/firefox.png
-  description: 站长正在使用的浏览器
+  description: 🆓站长正在使用的浏览器
 - name: Microsoft Edge
   url: https://www.microsoft.com/zh-cn/edge
   img: /images/logos/edge.png
@@ -25,4 +25,4 @@
 - name: Thunderbird
   url: https://www.thunderbird.net/zh-CN/
   img: /images/logos/thunderbird.png
-  description: 开源邮箱客户端
+  description: 🆓开源邮箱客户端

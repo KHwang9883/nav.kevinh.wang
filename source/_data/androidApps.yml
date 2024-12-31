@@ -1,7 +1,7 @@
 - name: LibChecker
   url: https://github.com/LibChecker/LibChecker
   img: /images/logos/libchecker.png
-  description: 查看本机 Android 应用架构与第三方库
+  description: 🆓查看本机 Android 应用架构与第三方库
 - name: MT 管理器
   url: https://www.coolapk.com/apk/bin.mt.plus
   img: /images/logos/mt.png
@@ -25,11 +25,11 @@
 - name: gkd
   url: https://gkd.li/
   img: /images/logos/gkd.png
-  description: 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP
+  description: 🆓基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP
 - name: 数据备份
   url: https://github.com/XayahSuSuSu/Android-DataBackup
   img: /images/logos/databackup.png
-  description: 支持多用户/双开应用备份
+  description: 🆓支持多用户/双开应用备份
 - name: Swift Backup
   url: https://swiftapps.org/
   img: /images/logos/swiftbackup.png
@@ -45,15 +45,15 @@
 - name: Aurora Store
   url: https://auroraoss.com/AuroraStore/
   img: /images/logos/aurorastore.png
-  description: 开源第三方 Google Play 商店用户端
+  description: 🆓开源第三方 Google Play 商店用户端
 - name: F-Droid
   url: https://f-droid.org/
   img: /images/logos/fdroid.png
-  description: Android 自由/开源软件分发平台
+  description: 🆓Android 自由/开源软件分发平台
 - name: Obtainium
   url: https://github.com/ImranR98/Obtainium
   img: /images/logos/obtainium.png
-  description: 直接从 App 发布源获取更新
+  description: 🆓直接从 App 发布源获取更新
 - name: APKMirror
   url: https://www.apkmirror.com/
   img: /images/logos/apkmirror.png
@@ -81,7 +81,7 @@
 - name: KDE Connect
   url: https://kdeconnect.kde.org/download.html
   img: /images/logos/kdeconnect.png
-  description: 开源的跨平台协同工具
+  description: 🆓开源的跨平台协同工具
 - name: Geekbench
   url: https://www.geekbench.com/download/
   img: /images/logos/geekbench.png
@@ -97,7 +97,7 @@
 - name: Discuz Hub
   url: https://discuzhub.kidozh.com/
   img: /images/logos/discuzhub.png
-  description: 轻量的 Discuz! 安卓应用
+  description: 🆓轻量的 Discuz! 安卓应用
 - name: Google Camera Ports Download
   url: https://www.celsoazevedo.com/files/android/google-camera/
   img: /images/logos/gcam.png
@@ -105,4 +105,4 @@
 - name: J2ME-Loader
   url: https://github.com/nikita36078/J2ME-Loader
   img: /images/logos/j2mel.png
-  description: J2ME 应用模拟器
+  description: 🆓J2ME 应用模拟器

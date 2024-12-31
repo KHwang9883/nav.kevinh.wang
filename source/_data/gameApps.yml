@@ -1,7 +1,7 @@
 - name: Minecraft
   url: https://www.minecraft.net/zh-hans/get-minecraft
   img: /images/logos/minecraft.png
-  description: 流行像素风游戏
+  description: 💲流行像素风游戏
 - name: 原神
   url: https://ys.mihoyo.com/
   img: /images/logos/genshin.png

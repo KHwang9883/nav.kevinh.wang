@@ -1,7 +1,7 @@
 - name: Microsoft Office
   url: https://www.office.com/
   img: /images/logos/office.png
-  description: 首选办公软件
+  description: 💲首选办公软件
 - name: WPS Office
   url: https://platform.wps.cn/
   img: /images/logos/wps.png
@@ -25,11 +25,11 @@
 - name: Adobe Creative Cloud
   url: https://www.adobe.com/cn/creativecloud/catalog/desktop.html
   img: /images/logos/adobe.png
-  description: Adobe 生产力软件
+  description: 💲Adobe 生产力软件
 - name: GIMP
   url: https://www.gimp.org/
   img: /images/logos/gimp.png
-  description: 开源修图软件
+  description: 🆓开源修图软件
 - name: paint.net
   url: https://www.dotpdn.com/downloads/pdn.html
   img: /images/logos/pdn.png
@@ -41,7 +41,7 @@
 - name: OBS Studio
   url: https://obsproject.com/zh-cn/download
   img: /images/logos/obs.png
-  description: 视频录制 & 直播
+  description: 🆓视频录制 & 直播
 - name: 哔哩哔哩直播姬
   url: https://live.bilibili.com/liveHime
   img: /images/logos/livehime.png
@@ -61,19 +61,19 @@
 - name: Moonlight
   url: https://moonlight-stream.org/
   img: /images/logos/moonlight.png
-  description: 串流用户端，配合 Sunshine 使用
+  description: 🆓串流用户端，配合 Sunshine 使用
 - name: Sunshine
   url: https://github.com/LizardByte/Sunshine
   img: /images/logos/sunshine.png
-  description: 串流服务端，配合 Moonlight 使用
+  description: 🆓串流服务端，配合 Moonlight 使用
 - name: ScreenToGif
   url: https://www.screentogif.com/downloads
   img: /images/logos/stg.png
-  description: 录屏或视频转 Gif
+  description: 🆓录屏或视频转 Gif
 - name: File Converter
   url: https://github.com/Tichau/FileConverter
   img: /images/logos/converter.png
-  description: 右键菜单转换文件格式
+  description: 🆓右键菜单转换文件格式
 - name: MediaCoder
   url: https://www.mediacoderhq.com/
   img: /images/logos/mcoder.png
@@ -85,15 +85,15 @@
 - name: OpenMPT
   url: https://openmpt.org/
   img: /images/logos/openmpt.png
-  description: 开源的模块音乐编辑器
+  description: 🆓开源的模块音乐编辑器
 - name: B 站录播姬
   url: https://rec.danmuji.org/
   img: /images/logos/lubo.png
-  description: 方便好用、免费开源的 B 站直播录制工具
+  description: 🆓方便好用、免费开源的 B 站直播录制工具
 - name: 哔哩下载姬
   url: https://github.com/leiurayer/downkyi
   img: /images/logos/downkyi.png
-  description: 哔哩哔哩视频下载工具
+  description: 🆓哔哩哔哩视频下载工具
 - name: 唧唧 Down
   url: http://client.jijidown.com/
   img: /images/logos/jijidown.png

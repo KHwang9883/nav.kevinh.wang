@@ -13,19 +13,19 @@
 - name: Watt Toolkit (原名 Steam++)
   url: http://steampp.net/
   img: /images/logos/steampp.png
-  description: 开源跨平台游戏工具箱
+  description: 🆓开源跨平台游戏工具箱
 - name: MCSManager
   url: https://github.com/Suwings/MCSManager/
   img: /images/logos/minecraft.png
-  description: 开箱即用，多实例，轻量级的 Minecraft 服务端管理面板
+  description: 🆓开箱即用，多实例，轻量级的 Minecraft 服务端管理面板
 - name: HMCL
   url: http://hmcl.huangyuhui.net/
   img: /images/logos/minecraft.png
-  description: 第三方 Minecraft 启动器
+  description: 🆓第三方 Minecraft 启动器
 - name: Playnite
   url: https://playnite.link/
   img: /images/logos/playnite.png
-  description: 多平台聚合游戏管理器
+  description: 🆓多平台聚合游戏管理器
 - name: OpenIV
   url: https://openiv.com/
   img: /images/logos/openiv.png

@@ -9,15 +9,15 @@
 - name: UniGetUI
   url: https://github.com/marticliment/UniGetUI
   img: /images/logos/unigetui.png
-  description: winget 及众多包管理器的图形化界面
+  description: 🆓winget 及众多包管理器的图形化界面
 - name: PowerToys
   url: https://github.com/microsoft/PowerToys/releases
   img: /images/logos/powertoys.png
-  description: 微软出品系统增强工具
+  description: 🆓微软出品系统增强工具
 - name: 7-Zip
   url: https://www.7-zip.org/
   img: /images/logos/7zip.png
-  description: 开源压缩软件
+  description: 🆓开源压缩软件
 - name: Everything
   url: https://www.voidtools.com/zh-cn/downloads/
   img: /images/logos/everything.png
@@ -33,7 +33,7 @@
 - name: Motrix
   url: https://motrix.app/zh-CN/
   img: /images/logos/motrix.png
-  description: 一款全能的下载工具，基本可以替代迅雷
+  description: 🆓一款全能的下载工具，基本可以替代迅雷
 - name: Honeyview
   url: http://cn.bandisoft.com/honeyview/
   img: /images/logos/honeyview.png
@@ -41,19 +41,19 @@
 - name: ExplorerPatcher
   url: https://github.com/valinet/ExplorerPatcher
   img: /images/logos/fileexplorer.png
-  description: Windows 文件资源管理器体验增强
+  description: 🆓Windows 文件资源管理器体验增强
 - name: TranslucentTB
   url: https://github.com/TranslucentTB/TranslucentTB
   img: /images/logos/translucenttb.png
-  description: 使任务栏透明
+  description: 🆓使任务栏透明
 - name: DesktopClock
   url: https://github.com/danielchalmers/DesktopClock
   img: /images/logos/desktopclock.png
-  description: 简易桌面时钟
+  description: 🆓简易桌面时钟
 - name: MacType
   url: https://www.mactype.net/
   img: /images/logos/mactype.png
-  description: 优化 Windows 字体渲染
+  description: 🆓优化 Windows 字体渲染
 - name: HiPC
   url: https://hipc.cn/
   img: /images/logos/hipc.png
@@ -65,7 +65,7 @@
 - name: VirtualBox
   url: https://www.virtualbox.org/wiki/Downloads
   img: /images/logos/virtualbox.png
-  description: Oracle 开源虚拟机
+  description: 🆓Oracle 开源虚拟机
 - name: WSA 工具箱
   url: https://www.microsoft.com/store/productId/9PPSP2MKVTGT
   img: /images/logos/android.png
@@ -73,7 +73,7 @@
 - name: MagiskOnWSALocal
   url: https://github.com/LSPosed/MagiskOnWSALocal/
   img: /images/logos/android.png
-  description: 在 Windows 安卓子系统中集成 Magisk & GApps，需 GNU/Linux 环境
+  description: 🆓在 Windows 安卓子系统中集成 Magisk & GApps，需 GNU/Linux 环境
 - name: WizTree
   url: https://diskanalyzer.com/download
   img: /images/logos/wiztree.png
@@ -89,11 +89,11 @@
 - name: Tai
   url: https://github.com/Planshit/Tai
   img: /images/logos/tai.png
-  description: 统计 Windows 电脑软件使用时长和网站浏览时长
+  description: 🆓统计 Windows 电脑软件使用时长和网站浏览时长
 - name: Twinkle Tray
   url: https://twinkletray.com/
   img: /images/logos/twinkletray.png
-  description: 快捷调节显示器亮度
+  description: 🆓快捷调节显示器亮度
 - name: 菲菲更名宝贝 之 得意非凡
   url: http://www.ffhome.com/works/1406.html
   img: /images/logos/feifei.png
@@ -101,11 +101,11 @@
 - name: Syncthing
   url: https://syncthing.net/
   img: /images/logos/syncthing.png
-  description: 多设备文件同步
+  description: 🆓多设备文件同步
 - name: Tailscale
   url: https://tailscale.com/download/
   img: /images/logos/tailscale.png
-  description: 免费内网穿透组网
+  description: 🆓免费内网穿透组网
 - name: LANDrop
   url: https://landrop.app/
   img: /images/logos/landrop.png
@@ -117,4 +117,4 @@
 - name: 深蓝词库转换
   url: https://github.com/studyzy/imewlconverter
   img: /images/logos/imewlconverter.png
-  description: 一款开源的输入法词库转换程序
+  description: 🆓一款开源的输入法词库转换程序
