@@ -22,6 +22,10 @@
   url: http://hmcl.huangyuhui.net/
   img: /images/logos/minecraft.png
   description: 🆓第三方 Minecraft 启动器
+- name: PojavLauncher
+  url: https://github.com/PojavLauncherTeam/PojavLauncher
+  img: /images/logos/pojav.png  
+  description: 🆓在手机上运行 Java 版 Minecraft
 - name: Playnite
   url: https://playnite.link/
   img: /images/logos/playnite.png
