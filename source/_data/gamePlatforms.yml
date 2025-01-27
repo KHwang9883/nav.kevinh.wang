@@ -1,32 +1,32 @@
 - name: Steam
   url: https://store.steampowered.com/about/
-  img: /images/logos/steam.png
+  img: /images/steam.png
   description: 顶级在线游戏平台
 - name: Epic Games
   url: https://www.epicgames.com/store/zh-CN/
-  img: /images/logos/epic.png
+  img: /images/epic.png
   description: 每周都有喜加一
 - name: EA App
   url: https://www.ea.com/ea-app
-  img: /images/logos/origin.png
+  img: /images/origin.png
   description: EA 游戏平台
 - name: WeGame
   url: https://www.wegame.com.cn/client
-  img: /images/logos/wegame.png
+  img: /images/wegame.png
   description: 腾讯游戏平台
 - name: Ubisoft Connect
   url: https://zh-cn.ubisoft.com/uplay
-  img: /images/logos/uplay.png
+  img: /images/uplay.png
   description: 育碧游戏平台
 - name: 暴雪战网
   url: https://download.battlenet.com.cn/zh-cn/
-  img: /images/logos/battlenet.png
+  img: /images/battlenet.png
   description: 暴雪游戏平台
 - name: GOG Galaxy
   url: https://www.gog.com/galaxy
-  img: /images/logos/gog.png
+  img: /images/gog.png
   description: 连通所有游戏和朋友
 - name: 方块游戏平台
   url: http://www.cubejoy.com/
-  img: /images/logos/cubejoy.png
+  img: /images/cubejoy.png
   description: 国产游戏平台

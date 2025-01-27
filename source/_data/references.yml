@@ -1,109 +1,109 @@
 - name: 狼导 - 音速装机
   url: https://sonic.volf.club/
-  img: /images/logos/sonic.png
+  img: /images/sonic.png
   description: 本站灵感来源 (长期未更新，保留仅作致敬用)
 - name: 一网一匠极速版
   url: https://ywyj.cn/
-  img: /images/logos/ywyj.png
+  img: /images/ywyj.png
   description: 一起发现有趣的新产品
 - name: 移动芯片性能排行榜
   url: https://www.socpk.com/
-  img: /images/logos/geekerwan.png
+  img: /images/geekerwan.png
   description: 移动 SoC 天梯图
 - name: TVLABS
   url: https://tvlabs.cn/
-  img: /images/logos/tvlabs.png
+  img: /images/tvlabs.png
   description: 专业智能电视参数查询网
 - name: Windows Apps That Amaze Us
   url: https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/
-  img: /images/logos/winapps.png
+  img: /images/winapps.png
   description: Windows 绝妙项目
 - name: Awesome Windows
   url: https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md
-  img: /images/logos/windows11.png
+  img: /images/windows11.png
   description: 优质 Windows 软件
 - name: Awesome ADB
   url: https://github.com/mzlogin/awesome-adb
-  img: /images/logos/awesomeadb.png
+  img: /images/awesomeadb.png
   description: ADB 用法大全
 - name: archlinux 简明指南
   url: https://arch.icekylin.online/
-  img: /images/logos/archlinux2.png
+  img: /images/archlinux2.png
   description: Arch Linux 安装和使用指引
 - name: 你缺失的那门计算机课
   url: https://www.criwits.top/missing/
-  img: /images/logos/missing.png
+  img: /images/missing.png
   description: 适合电脑小白的电脑使用技巧手册
 - name: 提问的智慧
   url: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
-  img: /images/logos/github.png
+  img: /images/github.png
   description: 提问的智慧
 - name: 中文文案排版指北
   url: https://github.com/mzlogin/chinese-copywriting-guidelines
-  img: /images/logos/github.png
+  img: /images/github.png
   description: 增强排版气质
 - name: MobileModels
   url: https://github.com/KHwang9883/MobileModels
-  img: /images/logos/github.png
+  img: /images/github.png
   description: 👤手机品牌型号汇总
 - name: RootDocs
   url: https://root.dianas.cyou/
-  img: /images/logos/github.png
+  img: /images/github.png
   description: 为 Android 设备刷机编写的速查手册
 - name: WSA App Compatibility
   url: https://github.com/riverar/wsa-app-compatibility
-  img: /images/logos/github.png
+  img: /images/github.png
   description: WSA 子系统应用兼容列表
 - name: endoflife.date
   url: https://endoflife.date/
-  img: /images/logos/eoldate.png
+  img: /images/eoldate.png
   description: 查询软件生命周期
 - name: 烧饼博客
   url: https://u.sb/
-  img: /images/logos/u.sb.png
+  img: /images/u.sb.png
   description: 专注于服务器运维的博客
 - name: Topbook
   url: https://topbook.cc
-  img: /images/logos/topbook.png
+  img: /images/topbook.png
   description: 高效生活视频书
 - name: 树莓派实验室
   url: https://shumeipai.nxez.com/
-  img: /images/logos/raspi.png
+  img: /images/raspi.png
   description: 树莓派教程、DIY 资讯
 - name: Runoob.com
   url: https://www.runoob.com/
-  img: /images/logos/runoob.png
+  img: /images/runoob.png
   description: 学的不仅是技术
 - name: 蓝点网
   url: https://www.landiannews.com/
-  img: /images/logos/landian.png
+  img: /images/landian.png
   description: 给你感兴趣的内容
 - name: 半导小芯
   url: http://www.semiee.com/
-  img: /images/logos/semiee.png
+  img: /images/semiee.png
   description: 芯片查询工具
 - name: OpenCore Install Guide
   url: https://dortania.github.io/OpenCore-Install-Guide/
-  img: /images/logos/opencore.png
+  img: /images/opencore.png
   description: OpenCore 官方教程
 - name: Apple 产品参数中心
   url: https://hubweb.cn/
-  img: /images/logos/hubweb.png
+  img: /images/hubweb.png
   description: Apple 设备、芯片参数对比一览
 - name: 黑果小兵的部落阁
   url: https://blog.daliansky.net/
-  img: /images/logos/apple.png
+  img: /images/apple.png
   description: Hackintosh 安装镜像、教程及经验分享
 - name: 适用于 Apple Silicon 了吗？
   url: https://isapplesiliconready.com/zh
-  img: /images/logos/apple.png
+  img: /images/apple.png
   description: 原生支持 Apple Silicon 的 Mac 软件列表
 - name: Works on WoA
   url: https://www.worksonwoa.com/
-  img: /images/logos/windows11.png
+  img: /images/windows11.png
   description: Windows on Arm 兼容性列表
 - name: 咱龙了吗？
   url: https://areweloongyet.com/
-  img: /images/logos/loong.png
+  img: /images/loong.png
   description: 一站式了解 LoongArch 的上游生态建设
 

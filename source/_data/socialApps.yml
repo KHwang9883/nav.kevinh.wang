@@ -1,28 +1,28 @@
 - name: QQ
   url: https://im.qq.com/
-  img: /images/logos/qq.png
+  img: /images/qq.png
   description: 即时通讯软件
 - name: TIM
   url: https://office.qq.com/download.html
-  img: /images/logos/tim.png
+  img: /images/tim.png
   description: 不错的 QQ 替代品
 - name: 微信
   url: https://pc.weixin.qq.com/
-  img: /images/logos/wechat.png
+  img: /images/wechat.png
   description: 即时通讯软件
 - name: Firefox
   url: https://www.mozilla.org/zh-CN/firefox/
-  img: /images/logos/firefox.png
+  img: /images/firefox.png
   description: 🆓站长正在使用的浏览器
 - name: Microsoft Edge
   url: https://www.microsoft.com/zh-cn/edge
-  img: /images/logos/edge.png
+  img: /images/edge.png
   description: 口碑较好的系统自带浏览器
 - name: Google Chrome
   url: https://www.google.cn/intl/zh-CN/chrome/
-  img: /images/logos/chrome.png
+  img: /images/chrome.png
   description: 用户量最大的浏览器
 - name: Thunderbird
   url: https://www.thunderbird.net/zh-CN/
-  img: /images/logos/thunderbird.png
+  img: /images/thunderbird.png
   description: 🆓开源邮箱客户端

@@ -1,40 +1,40 @@
 - name: 远景论坛
   url: http://bbs.pcbeta.com/
-  img: /images/logos/pcbeta.png
+  img: /images/pcbeta.png
   description: 微软极客社区 & 国内最大的 Hackintosh 论坛
 - name: 柚坛社区
   url: https://www.uotan.cn/
-  img: /images/logos/uotan.png
+  img: /images/uotan.png
   description: 第三方玩机社区
 - name: 恩山无线论坛
   url: https://www.right.com.cn/forum/
-  img: /images/logos/ensan.jpg
+  img: /images/ensan.jpg
   description: 无线爱好者汇聚之地
 - name: 全球主机交流论坛
   url: https://www.hostloc.com/forum.php
-  img: /images/logos/hostloc.png
+  img: /images/hostloc.png
   description: 全球 IDC 主机交流 (可能需代理)
 - name: XDA-Developers
   url: https://www.xda-developers.com/
-  img: /images/logos/xda.png
+  img: /images/xda.png
   description: XDA 门户 & 论坛
 - name: 萌娘百科
   url: https://zh.moegirl.org.cn/
-  img: /images/logos/moegirl.png
+  img: /images/moegirl.png
   description: 万物皆可萌的百科全书
 - name: ArchWiki
   url: https://wiki.archlinux.org/
-  img: /images/logos/archlinux.png
+  img: /images/archlinux.png
   description: 详细的在线 Arch GNU/Linux 文档库
 - name: BetaWiki
   url: https://betawiki.net/
-  img: /images/logos/betawiki.png
+  img: /images/betawiki.png
   description: 记录操作系统和应用程序的历史和演变的百科全书
 - name: Free Software Directory
   url: https://directory.fsf.org/
-  img: /images/logos/gnu.png
+  img: /images/gnu.png
   description: 自由软件目录大全
 - name: The Apple Wiki
   url: https://www.theapplewiki.com/
-  img: /images/logos/apple.png
+  img: /images/apple.png
   description: Apple 信息库

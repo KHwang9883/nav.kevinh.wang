@@ -80,7 +80,7 @@ menu:
         config: toolSites
       - name: AI 相关
         icon: fas fa-toolbox
-        config: aiSites
+        config: aiTools
       - name: 信息资料
         icon: fas fa-file-alt
         config: references
@@ -108,7 +108,7 @@ menu:
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2025-01-23
+  - name: 最后更新：2025-01-27
     icon: far fa-calendar
 
 about:
@@ -124,7 +124,7 @@ aboutPage:
     head: 关于站长
     name: Kevin Huang
     url: https://kevinh.wang/
-    img: /images/logos/blog.png
+    img: /images/blog.png
     description: 创造价值，开心就好
     html: ''
 

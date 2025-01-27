@@ -1,44 +1,44 @@
 - name: LineageOS
   url: https://download.lineageos.org/
-  img: /images/logos/lineageos.png
+  img: /images/lineageos.png
   description: 下载 LineageOS
 - name: crDroid
   url: https://crdroid.net/downloads
-  img: /images/logos/crdroid.png
+  img: /images/crdroid.png
   description: 下载 crDroid
 - name: dotOS
   url: http://www.droidontime.com/devices
-  img: /images/logos/dotos.png
+  img: /images/dotos.png
   description: 下载 dotOS
 - name: Paranoid Android
   url: https://paranoidandroid.co/
-  img: /images/logos/paranoidandroid.png
+  img: /images/paranoidandroid.png
   description: 下载 Paranoid Android
 - name: ArrowOS
   url: https://arrowos.net/download
-  img: /images/logos/arrowos.png
+  img: /images/arrowos.png
   description: 下载 ArrowOS
 - name: DerpFest
   url: https://derpfest.org/devices.html
-  img: /images/logos/derpfest.png
+  img: /images/derpfest.png
   description: 下载「猫头鹰」类原生系统
 - name: ProtonAOSP
   url: https://protonaosp.org/
-  img: /images/logos/protonaosp.png
+  img: /images/protonaosp.png
   description: 下载 ProtonAOSP
 - name: AICP
   url: https://dwnld.aicp-rom.com/
-  img: /images/logos/aicp.png
+  img: /images/aicp.png
   description: 下载 AICP
 - name: PixelOS
   url: https://pixelos.net/download
-  img: /images/logos/pixelos.png
+  img: /images/pixelos.png
   description: 基于 PixelExperience 的类原生系统
 - name: Havoc OS
   url: https://havoc-os.com/download
-  img: /images/logos/havocos.png
+  img: /images/havocos.png
   description: 印度产类原生 ROM
 - name: BlissRoms
   url: https://downloads.blissroms.org/
-  img: /images/logos/blissroms.png
+  img: /images/blissroms.png
   description: 下载 BlissRoms

@@ -1,20 +1,20 @@
 - name: Godot
   url: https://godotengine.org/
-  img: /images/logos/godot.png
+  img: /images/godot.png
   description: 🆓开源 2D & 3D 游戏引擎
 - name: Unity
   url: https://unity.com/cn
-  img: /images/logos/unity.png
+  img: /images/unity.png
   description: 使用广泛的游戏引擎
 - name: Unreal Engine
   url: https://www.unrealengine.com/zh-CN
-  img: /images/logos/unrealengine.png
+  img: /images/unrealengine.png
   description: 虚幻引擎
 - name: GameMaker
   url: https://gamemaker.io/
-  img: /images/logos/gms2.png
+  img: /images/gms2.png
   description: 终极 2D 游戏开发环境
 - name: Clickteam Fusion
   url: https://www.clickteam.com/clickteam-fusion-2-5
-  img: /images/logos/ctf.png
+  img: /images/ctf.png
   description: 💲易用的游戏制作软件

@@ -1,32 +1,32 @@
 - name: 三国杀
   url: https://www.sanguosha.com/
-  img: /images/logos/sanguosha.png
+  img: /images/sanguosha.png
   description: 策略桌游
 - name: Gartic.io
   url: https://gartic.io/
-  img: /images/logos/gartic.png
+  img: /images/gartic.png
   description: 你画我猜 (可能需代理)
 - name: Gartic Phone
   url: https://garticphone.com/
-  img: /images/logos/garticphone.png
+  img: /images/garticphone.png
   description: 传话游戏 (可能需代理)
 - name: 扫雷游戏网页版
   url: https://www.minesweeper.cn/
-  img: /images/logos/minesweeper.png
+  img: /images/minesweeper.png
   description: 重温经典，让扫雷游戏更轻松
 - name: 在线 DOS 游戏
   url: https://dos.lol/
-  img: /images/logos/controller.png
+  img: /images/controller.png
   description: 在浏览器中在线游玩 DOS 游戏
 - name: 老游戏在线玩
   url: https://zaixianwan.app/
-  img: /images/logos/controller.png
+  img: /images/controller.png
   description: 在浏览器中在线游玩经典主机平台游戏
 - name: 4399 小游戏
   url: https://www.4399.com/
-  img: /images/logos/4399.png
+  img: /images/4399.png
   description: 4399 小游戏
 - name: 7k7k 小游戏
   url: http://www.7k7k.com/
-  img: /images/logos/7k7k.png
+  img: /images/7k7k.png
   description: 7k7k 小游戏

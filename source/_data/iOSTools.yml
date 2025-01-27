@@ -1,16 +1,16 @@
 - name: iTunes
   url: https://www.apple.com.cn/itunes/
-  img: /images/logos/itunes.png
+  img: /images/itunes.png
   description: 适用于 Windows 的官方 iOS 设备管理工具
 - name: 爱思助手
   url: https://www.i4.cn/
-  img: /images/logos/i4tools.png
+  img: /images/i4tools.png
   description: 好用的 iOS 设备管理工具
 - name: 尝鲜派
   url: https://betahub.cn/
-  img: /images/logos/betahub.png
+  img: /images/betahub.png
   description: Apple Beta 版操作系统尝鲜
 - name: ipsw.me
   url: https://ipsw.me/
-  img: /images/logos/apple.png
+  img: /images/apple.png
   description: Apple 设备固件下载

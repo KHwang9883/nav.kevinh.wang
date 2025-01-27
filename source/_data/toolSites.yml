@@ -1,104 +1,104 @@
 - name: winstall
   url: https://winstall.app/
-  img: /images/logos/winstall.png
+  img: /images/winstall.png
   description: 生成 winget 一键安装脚本
 - name: LDTools
   url: https://tool.pc.wiki/
-  img: /images/logos/laodi.png
+  img: /images/laodi.png
   description: 硬件玩家专属的工具网站
 - name: 蓝奏云
   url: https://pc.woozooo.com/
-  img: /images/logos/lanzou.png
+  img: /images/lanzou.png
   description: 免费高速云盘
 - name: 猫啃
   url: https://www.maoken.com/
-  img: /images/logos/maoken.png
+  img: /images/maoken.png
   description: 免费商用字体下载
 - name: Freedgo
   url: https://www.freedgo.com/
-  img: /images/logos/freedgo.png
+  img: /images/freedgo.png
   description: 强大的在线绘图工具
 - name: 问卷星
   url: https://www.wjx.cn/
-  img: /images/logos/wjx.png
+  img: /images/wjx.png
   description: 一站式调研工具
 - name: 腾讯问卷
   url: https://wj.qq.com/
-  img: /images/logos/wjqq.png
+  img: /images/wjqq.png
   description: 免费好用的问卷调查系统
 - name: 测速网
   url: https://www.speedtest.cn/
-  img: /images/logos/cesuwang.png
+  img: /images/cesuwang.png
   description: 国内常用网速测试站
 - name: Artlist
   url: https://artlist.io/
-  img: /images/logos/artlist.jpg
+  img: /images/artlist.jpg
   description: 找音乐素材
 - name: 路过图床
   url: https://imgse.com/
-  img: /images/logos/imgtu.png
+  img: /images/imgtu.png
   description: 高速稳定的图片上传和外链服务
 - name: Sakura Frp
   url: https://www.natfrp.com/
-  img: /images/logos/sakurafrp.png
+  img: /images/sakurafrp.png
   description: 免费内网穿透
 - name: 青柠起始页
   url: https://limestart.cn/
-  img: /images/logos/limestart.png
+  img: /images/limestart.png
   description: 简洁、美观、实用的浏览器起始页
 - name: VirusTotal
   url: https://www.virustotal.com/
-  img: /images/logos/virustotal.png
+  img: /images/virustotal.png
   description: 可疑文件分析
 - name: 历史价格查询
   url: http://www.lsjgcx.com/
-  img: /images/logos/price.png
+  img: /images/price.png
   description: 查询商品历史价格走势
 - name: IP 查询 (ipw.cn)
   url: https://ipw.cn/
-  img: /images/logos/ipw.png
+  img: /images/ipw.png
   description: IPv6 检测
 - name: 编程笔记
   url: https://wcode.net/
-  img: /images/logos/wcode.png
+  img: /images/wcode.png
   description: 编程技能在线学习 & 网站检测工具
 - name: 帮小忙
   url: https://tool.browser.qq.com/
-  img: /images/logos/qbtool.png
+  img: /images/qbtool.png
   description: 腾讯 QQ 浏览器在线工具箱
 - name: ToolB
   url: https://toolb.cn/
-  img: /images/logos/toolb.png
+  img: /images/toolb.png
   description: 各种实用工具合集
 - name: ImagesTool
   url: https://imagestool.com/zh_CN/
-  img: /images/logos/imagestool.png
+  img: /images/imagestool.png
   description: 图片处理工具合集网站
 - name: 太美工具网
   url: https://tiomg.org/
-  img: /images/logos/tiomg.png
+  img: /images/tiomg.png
   description: 免费在线软件工具包
 - name: 密码生成器
   url: https://suijimimashengcheng.bmcx.com/
-  img: /images/logos/passwdgenerator.png
+  img: /images/passwdgenerator.png
   description: 生成随机密码
 - name: UFO Test
   url: https://testufo.com/
-  img: /images/logos/ufotest.png
+  img: /images/ufotest.png
   description: 检测显示器刷新率
 - name: 煎饼搜音乐下载网
   url: https://www.jbsou.cn/
-  img: /images/logos/jbsou.png
+  img: /images/jbsou.png
   description: 全网音乐免费下载
 - name: TierMaker
   url: https://tiermaker.com/
-  img: /images/logos/tiermaker.png
+  img: /images/tiermaker.png
   description: 在线排名制作工具
 - name: excel2wiki
   url: https://excel2wiki.toolforge.org/
-  img: /images/logos/excel2wiki.png
+  img: /images/excel2wiki.png
   description: Excel 转 Wikitext 格式
 - name: Indie Wiki Buddy
   url: https://getindie.wiki/
-  img: /images/logos/indiewikibuddy.png
+  img: /images/indiewikibuddy.png
   description: 将 Fandom 链接重定向到独立 Wiki 的浏览器扩展

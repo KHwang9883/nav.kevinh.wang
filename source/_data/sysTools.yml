@@ -1,120 +1,120 @@
 - name: winget
   url: https://docs.microsoft.com/zh-cn/windows/package-manager/winget/
-  img: /images/logos/windows11.png
+  img: /images/windows11.png
   description: 一条命令即可安装 Windows 程序
 - name: 火绒应用商店
   url: https://www.huorong.cn/app_store.html
-  img: /images/logos/hrappstore.png
+  img: /images/hrappstore.png
   description: 一站式管理应用软件
 - name: UniGetUI
   url: https://github.com/marticliment/UniGetUI
-  img: /images/logos/unigetui.png
+  img: /images/unigetui.png
   description: 🆓winget 及众多包管理器的图形化界面
 - name: PowerToys
   url: https://github.com/microsoft/PowerToys/releases
-  img: /images/logos/powertoys.png
+  img: /images/powertoys.png
   description: 🆓微软出品系统增强工具
 - name: 7-Zip
   url: https://www.7-zip.org/
-  img: /images/logos/7zip.png
+  img: /images/7zip.png
   description: 🆓开源压缩软件
 - name: Everything
   url: https://www.voidtools.com/zh-cn/downloads/
-  img: /images/logos/everything.png
+  img: /images/everything.png
   description: 文件查找利器
 - name: uTools
   url: https://www.u.tools/
-  img: /images/logos/utools.png
+  img: /images/utools.png
   description: 新一代效率工具平台
 - name: Snipaste
   url: https://zh.snipaste.com/
-  img: /images/logos/snipaste.png
+  img: /images/snipaste.png
   description: 简单但强大的截图工具
 - name: Motrix
   url: https://motrix.app/zh-CN/
-  img: /images/logos/motrix.png
+  img: /images/motrix.png
   description: 🆓一款全能的下载工具，基本可以替代迅雷
 - name: Honeyview
   url: http://cn.bandisoft.com/honeyview/
-  img: /images/logos/honeyview.png
+  img: /images/honeyview.png
   description: 支持众多格式的看图软件
 - name: ExplorerPatcher
   url: https://github.com/valinet/ExplorerPatcher
-  img: /images/logos/fileexplorer.png
+  img: /images/fileexplorer.png
   description: 🆓Windows 文件资源管理器体验增强
 - name: TranslucentTB
   url: https://github.com/TranslucentTB/TranslucentTB
-  img: /images/logos/translucenttb.png
+  img: /images/translucenttb.png
   description: 🆓使任务栏透明
 - name: DesktopClock
   url: https://github.com/danielchalmers/DesktopClock
-  img: /images/logos/desktopclock.png
+  img: /images/desktopclock.png
   description: 🆓简易桌面时钟
 - name: MacType
   url: https://www.mactype.net/
-  img: /images/logos/mactype.png
+  img: /images/mactype.png
   description: 🆓优化 Windows 字体渲染
 - name: HiPC
   url: https://hipc.cn/
-  img: /images/logos/hipc.png
+  img: /images/hipc.png
   description: 用手机，远程监视与控制 PC
 - name: VMware Workstation Pro
   url: https://softwareupdate.vmware.com/cds/vmw-desktop/
-  img: /images/logos/vmware.png
+  img: /images/vmware.png
   description: VMware 虚拟机
 - name: VirtualBox
   url: https://www.virtualbox.org/wiki/Downloads
-  img: /images/logos/virtualbox.png
+  img: /images/virtualbox.png
   description: 🆓Oracle 开源虚拟机
 - name: WSA 工具箱
   url: https://www.microsoft.com/store/productId/9PPSP2MKVTGT
-  img: /images/logos/android.png
+  img: /images/android.png
   description: 在 Windows 安卓子系统中安装 APK、管理 APP、查看进程以及传输文件
 - name: MagiskOnWSALocal
   url: https://github.com/LSPosed/MagiskOnWSALocal/
-  img: /images/logos/android.png
+  img: /images/android.png
   description: 在 Windows 安卓子系统中集成 Magisk & GApps，需 GNU/Linux 环境
 - name: WizTree
   url: https://diskanalyzer.com/download
-  img: /images/logos/wiztree.png
+  img: /images/wiztree.png
   description: 轻松查找大文件
 - name: spacedesk
   url: https://www.spacedesk.net/
-  img: /images/logos/spacedesk.png
+  img: /images/spacedesk.png
   description: 使你的其他设备变身 Windows PC 的扩展显示器
 - name: IObit Unlocker
   url: https://www.iobit.com/en/iobit-unlocker.php
-  img: /images/logos/iobitunlocker.png
+  img: /images/iobitunlocker.png
   description: 解除文件/文件夹占用的小工具
 - name: Tai
   url: https://github.com/Planshit/Tai
-  img: /images/logos/tai.png
+  img: /images/tai.png
   description: 🆓统计 Windows 电脑软件使用时长和网站浏览时长
 - name: Twinkle Tray
   url: https://twinkletray.com/
-  img: /images/logos/twinkletray.png
+  img: /images/twinkletray.png
   description: 🆓快捷调节显示器亮度
 - name: 菲菲更名宝贝 之 得意非凡
   url: http://www.ffhome.com/works/1406.html
-  img: /images/logos/feifei.png
+  img: /images/feifei.png
   description: 强大的批量重命名工具
 - name: Syncthing
   url: https://syncthing.net/
-  img: /images/logos/syncthing.png
+  img: /images/syncthing.png
   description: 🆓多设备文件同步
 - name: Tailscale
   url: https://tailscale.com/download/
-  img: /images/logos/tailscale.png
+  img: /images/tailscale.png
   description: 🆓免费内网穿透组网
 - name: LANDrop
   url: https://landrop.app/
-  img: /images/logos/landrop.png
+  img: /images/landrop.png
   description: 跨平台局域网文件传输工具
 - name: DesktopOK
   url: http://softwareok.com/?Download=DesktopOK
-  img: /images/logos/desktopok.png
+  img: /images/desktopok.png
   description: 备份/恢复桌面布局
 - name: 深蓝词库转换
   url: https://github.com/studyzy/imewlconverter
-  img: /images/logos/imewlconverter.png
+  img: /images/imewlconverter.png
   description: 🆓一款开源的输入法词库转换程序

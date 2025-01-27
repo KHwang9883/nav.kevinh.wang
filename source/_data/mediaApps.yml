@@ -1,40 +1,40 @@
 - name: 网易云音乐
   url: https://music.163.com/#/download
-  img: /images/logos/cloudmusic.png
+  img: /images/cloudmusic.png
   description: 音乐的力量
 - name: QQ 音乐
   url: https://y.qq.com/download/download.html
-  img: /images/logos/qqmusic.png
+  img: /images/qqmusic.png
   description: 国内用户量第一的音乐软件
 - name: foobar2000
   url: http://www.foobar2000.org/download
-  img: /images/logos/foobar.png
+  img: /images/foobar.png
   description: 可扩展的音乐播放器
 - name: iTunes
   url: https://www.apple.com.cn/itunes/
-  img: /images/logos/itunes.png
+  img: /images/itunes.png
   description: Apple Music
 - name: 哔哩哔哩
   url: https://app.bilibili.com/
-  img: /images/logos/bili.png
+  img: /images/bili.png
   description: B 站官方客户端
 - name: PotPlayer
   url: http://potplayer.daum.net/?lang=zh_CN
-  img: /images/logos/potplayer.png
+  img: /images/potplayer.png
   description: 解码能力强的播放器
 - name: VLC media player
   url: https://www.videolan.org/vlc/
-  img: /images/logos/vlc.png
+  img: /images/vlc.png
   description: 🆓开源多媒体播放器
 - name: YesPlayMusic
   url: https://github.com/qier222/YesPlayMusic
-  img: /images/logos/yesplaymusic.png
+  img: /images/yesplaymusic.png
   description: 🆓第三方网易云音乐用户端
 - name: Listen1
   url: https://listen1.github.io/listen1/
-  img: /images/logos/listen1.png
+  img: /images/listen1.png
   description: 🆓开源多平台聚合音乐播放器
 - name: 洛雪音乐助手
   url: https://github.com/lyswhut/lx-music-desktop
-  img: /images/logos/lx.png
+  img: /images/lx.png
   description: 🆓下载无损歌曲

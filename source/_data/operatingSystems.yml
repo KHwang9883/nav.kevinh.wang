@@ -1,52 +1,52 @@
 - name: Windows 11
   url: https://www.microsoft.com/zh-cn/software-download/windows11
-  img: /images/logos/windows11.png
+  img: /images/windows11.png
   description: 💲官方 Windows 11 下载
 - name: Windows 10
   url: https://www.microsoft.com/zh-cn/software-download/windows10
-  img: /images/logos/windows.png
+  img: /images/windows.png
   description: 💲官方 Windows 10 下载
 - name: NEXT, ITELLYOU
   url: https://next.itellyou.cn
-  img: /images/logos/itellyou.png
+  img: /images/itellyou.png
   description: 新版 I tell you 资源整合
 - name: UUP dump
   url: https://uupdump.net/
-  img: /images/logos/uupdump.png
+  img: /images/uupdump.png
   description: 轻松地从 Windows 更新服务器下载 UUP 文件
 - name: Debian
   url: https://www.debian.org/
-  img: /images/logos/debian.png
+  img: /images/debian.png
   description: 🆓自由的 GNU/Linux 发行版，为本人 VPS 所采用
 - name: Ubuntu
   url: https://ubuntu.com/download
-  img: /images/logos/ubuntu.png
+  img: /images/ubuntu.png
   description: 🆓最流行的 GNU/Linux 发行版之一
 - name: Arch Linux
   url: https://www.archlinux.org
-  img: /images/logos/archlinux.png
+  img: /images/archlinux.png
   description: 🆓大道至简的 GNU/Linux 发行版
 - name: Manjaro
   url: https://manjaro.org/
-  img: /images/logos/manjaro.png
+  img: /images/manjaro.png
   description: 🆓基于 Arch Linux 的 GNU/Linux 发行版
 - name: deepin
   url: https://www.deepin.org/zh/download/
-  img: /images/logos/deepin.png
+  img: /images/deepin.png
   description: 🆓国产 GNU/Linux 发行版
 - name: Raspberry Pi OS
   url: https://www.raspberrypi.org/software/operating-systems/
-  img: /images/logos/raspi.png
+  img: /images/raspi.png
   description: 🆓树莓派官方系统，基于 Debian
 - name: 清华大学开源软件镜像站
   url: https://mirrors.tuna.tsinghua.edu.cn/
-  img: /images/logos/tuna.png
+  img: /images/tuna.png
   description: TUNA 镜像站
 - name: 中国科学技术大学开源软件镜像站
   url: http://mirrors.ustc.edu.cn/
-  img: /images/logos/ustc.png
+  img: /images/ustc.png
   description: USTC open source software mirror
 - name: Kwrt
   url: https://openwrt.ai/
-  img: /images/logos/kwrt.png
+  img: /images/kwrt.png
   description: 软路由固件下载与在线定制编译

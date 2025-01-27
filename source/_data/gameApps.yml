@@ -1,24 +1,24 @@
 - name: Minecraft
   url: https://www.minecraft.net/zh-hans/get-minecraft
-  img: /images/logos/minecraft.png
+  img: /images/minecraft.png
   description: 💲流行像素风游戏
 - name: 原神
   url: https://ys.mihoyo.com/
-  img: /images/logos/genshin.png
+  img: /images/genshin.png
   description: 开放世界大型游戏
 - name: 糖豆人
   url: https://www.fallguys.com/
-  img: /images/logos/fallguys.png
+  img: /images/fallguys.png
   description: 多人派对乱斗游戏
 - name: 跑跑卡丁车
   url: https://popkart.tiancity.com/homepage/download/
-  img: /images/logos/kartrider.png
+  img: /images/kartrider.png
   description: 在线竞速赛车游戏
 - name: osu!
   url: https://osu.ppy.sh/home/download
-  img: /images/logos/osu.png
+  img: /images/osu.png
   description: 棒到不行的免费音游
 - name: Windows 7 Games for Windows 11/10
   url: https://win7games.com/
-  img: /images/logos/windows11.png
+  img: /images/windows11.png
   description: Windows 7 自带的小游戏

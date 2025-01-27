@@ -1,44 +1,44 @@
 - name: 网易 UU 加速器
   url: https://uu.163.com/
-  img: /images/logos/uu.png
+  img: /images/uu.png
   description: 多平台游戏加速器
 - name: 雷神加速器
   url: https://www.leigod.com/
-  img: /images/logos/leigod.png
+  img: /images/leigod.png
   description: 按小时计费的加速器
 - name: Steamcommunity302
   url: https://www.dogfight360.com/blog/686/
-  img: /images/logos/steamcommunity.png
+  img: /images/steamcommunity.png
   description: 解决 Steam Community 访问问题
 - name: Watt Toolkit (原名 Steam++)
   url: http://steampp.net/
-  img: /images/logos/steampp.png
+  img: /images/steampp.png
   description: 🆓开源跨平台游戏工具箱
 - name: MCSManager
   url: https://github.com/Suwings/MCSManager/
-  img: /images/logos/minecraft.png
+  img: /images/minecraft.png
   description: 🆓开箱即用，多实例，轻量级的 Minecraft 服务端管理面板
 - name: HMCL
   url: http://hmcl.huangyuhui.net/
-  img: /images/logos/minecraft.png
+  img: /images/minecraft.png
   description: 🆓第三方 Minecraft 启动器
 - name: PojavLauncher
   url: https://github.com/PojavLauncherTeam/PojavLauncher
-  img: /images/logos/pojavlauncher.png  
+  img: /images/pojavlauncher.png  
   description: 🆓在手机上运行 Java 版 Minecraft
 - name: Playnite
   url: https://playnite.link/
-  img: /images/logos/playnite.png
+  img: /images/playnite.png
   description: 🆓多平台聚合游戏管理器
 - name: OpenIV
   url: https://openiv.com/
-  img: /images/logos/openiv.png
+  img: /images/openiv.png
   description: R 星游戏 Mod 工具
 - name: GTA5-Mods
   url: https://zh.gta5-mods.com/
-  img: /images/logos/5mods.png
+  img: /images/5mods.png
   description: GTA V 模组下载
 - name: 植僵工具箱
   url: https://pvz.lmintlcx.com/
-  img: /images/logos/pvz.png
+  img: /images/pvz.png
   description: 植物大战僵尸全版本辅助工具

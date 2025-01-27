@@ -1,32 +1,32 @@
 - name: 植物僵尸相关下载
   url: http://lonelystar.org/download.htm
-  img: /images/logos/pvz.png
+  img: /images/pvz.png
   description: 植物大战僵尸资源
 - name: Ballance Community Resource Center
   url: https://bcrc.site/
-  img: /images/logos/bcrc.png
+  img: /images/bcrc.png
   description: Ballance (平衡球) 游戏资源
 - name: Flash 保存计划
   url: https://flash.homes/
-  img: /images/logos/flashhomes.png
+  img: /images/flashhomes.png
   description: 保存闪客时代的历史，纪念带给我们无限欢乐的 Flash 作品
 - name: 老男人游戏网
   url: https://www.oldmantvg.net/
-  img: /images/logos/oldman.jpg
+  img: /images/oldman.jpg
   description: 掌机主机游戏资源汇总下载
 - name: Smash Custom Music
   url: https://smashcustommusic.net/
-  img: /images/logos/smash.png
+  img: /images/smash.png
   description: 游戏音乐资源站
 - name: The Spriters Resource
   url: https://www.spriters-resource.com/
-  img: /images/logos/spritersresource.png
+  img: /images/spritersresource.png
   description: 游戏素材资源站
 - name: Mario Forever 作品汇总站
   url: https://download.marioforever.net/
-  img: /images/logos/mforever.png
+  img: /images/mforever.png
   description: 👤Mario Forever 全版本及同人作品下载
 - name: Mario Forever 社区资源站
   url: https://file.marioforever.net/
-  img: /images/logos/mforever.png
+  img: /images/mforever.png
   description: 👤旨在打造最全的 Mario Forever 游戏资源平台
