@@ -2,14 +2,14 @@
   url: https://chatgpt.com/
   img: /images/chatgpt.png
   description: AI 聊天机器人 (需代理)
-- name: 智谱清言
-  url: https://chatglm.cn/
-  img: /images/chatglm.png
-  description: 千亿参数对话模型
 - name: DeepSeek
   url: https://chat.deepseek.com/
   img: /images/deepseek.png
   description: 探索未至之境
+- name: 智谱清言
+  url: https://chatglm.cn/
+  img: /images/chatglm.png
+  description: 千亿参数对话模型
 - name: 文心一言
   url: https://yiyan.baidu.com/
   img: /images/yiyan.png
@@ -18,6 +18,14 @@
   url: http://if.caiyunai.com/dream/#/
   img: /images/caiyun.png
   description: AI 续写
+- name: Hugging Face
+  url: https://huggingface.co/
+  img: /images/huggingface.png
+  description: 开源 AI 模型库
+- name: LM Studio
+  url: https://lmstudio.ai/
+  img: /images/lmstudio.png
+  description: 在本地部署 AI 语言模型
 - name: Stable Diffusion
   url: https://www.bilibili.com/video/BV1iM4y1y7oA/
   img: /images/stabilityai.png
