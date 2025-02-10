@@ -32,7 +32,7 @@
   description: 在本地部署 AI 语言模型
 - name: CherryStudio
   url: https://cherry-ai.com/
-  img: /images/cherryai.png
+  img: /images/cherrystudio.png
   description: 支持多模型服务的桌面客户端
 - name: Stable Diffusion
   url: https://www.bilibili.com/video/BV1iM4y1y7oA/
