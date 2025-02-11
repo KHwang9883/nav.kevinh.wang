@@ -70,10 +70,10 @@
   url: https://ruffle.rs/
   img: /images/ruffle.png
   description: 🆓Flash Player 模拟器
-- name: DOSBox
-  url: https://www.dosbox.com/
-  img: /images/dosbox.png
-  description: DOS 模拟器
+- name: DOSBox Staging 
+  url: https://www.dosbox-staging.org/
+  img: /images/dosbox-staging.png
+  description: 🆓DOS 模拟器
 - name: Winlator
   url: https://github.com/brunodev85/winlator
   img: /images/winlator.png
