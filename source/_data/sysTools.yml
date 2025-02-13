@@ -1,6 +1,6 @@
 - name: winget
   url: https://docs.microsoft.com/zh-cn/windows/package-manager/winget/
-  img: /images/windows11.png
+  img: /images/winget.png
   description: 一条命令即可安装 Windows 程序
 - name: 火绒应用商店
   url: https://www.huorong.cn/app_store.html
@@ -30,10 +30,14 @@
   url: https://zh.snipaste.com/
   img: /images/snipaste.png
   description: 简单但强大的截图工具
+- name: Free Download Manager
+  url: https://www.freedownloadmanager.org/zh/
+  img: /images/fdm.png
+  description: 全能下载工具
 - name: Motrix
   url: https://motrix.app/zh-CN/
   img: /images/motrix.png
-  description: 🆓一款全能的下载工具，基本可以替代迅雷
+  description: 🆓全能下载工具
 - name: Honeyview
   url: http://cn.bandisoft.com/honeyview/
   img: /images/honeyview.png
