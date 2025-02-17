@@ -26,10 +26,10 @@
   url: https://www.u.tools/
   img: /images/utools.png
   description: 新一代效率工具平台
-- name: Snipaste
-  url: https://zh.snipaste.com/
-  img: /images/snipaste.png
-  description: 简单但强大的截图工具
+- name: PixPin
+  url: https://pixpin.cn/
+  img: /images/pixpin.png
+  description: 强大且免费的截图贴图工具
 - name: Free Download Manager
   url: https://www.freedownloadmanager.org/zh/
   img: /images/fdm.png
