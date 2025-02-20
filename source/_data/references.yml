@@ -106,4 +106,7 @@
   url: https://areweloongyet.com/
   img: /images/loong.png
   description: 一站式了解 LoongArch 的上游生态建设
-
+- name: Intel ARK
+  url: https://www.intel.cn/content/www/cn/zh/ark.html
+  img: /images/intel.png
+  description: Intel 产品参数查询
