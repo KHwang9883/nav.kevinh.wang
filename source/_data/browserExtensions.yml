@@ -1,7 +1,7 @@
 - name: uBlock Origin
   url: https://ublockorigin.com/
   img: /images/ublock.png
-  description: 广告拦截
+  description: 🆓广告拦截
 - name: Tampermonkey
   url: https://www.tampermonkey.net/
   img: /images/tampermonkey.png
@@ -9,7 +9,7 @@
 - name: Indie Wiki Buddy
   url: https://getindie.wiki/
   img: /images/indiewikibuddy.png
-  description: 将 Fandom 链接重定向到独立 Wiki 的浏览器扩展
+  description: 🆓将 Fandom 链接重定向到独立 Wiki 的浏览器扩展
 - name: Grammarly
   url: https://www.grammarly.com/browser
   img: /images/grammarly.png
