@@ -30,6 +30,9 @@ menu:
       - name: 上网通讯
         icon: fab fa-internet-explorer
         config: socialApps
+      - name: 浏览器扩展
+        icon: fas fa-puzzle-piece
+        config: browserExtensions
       - name: 影音媒体
         icon: far fa-play-circle
         config: mediaApps
@@ -63,14 +66,14 @@ menu:
       - name: 论坛社群
         icon: fab fa-forumbee
         config: gameForums
-      - name: 工具百科
-        icon: fab fa-forumbee
+      - name: 资料百科
+        icon: fas fa-book
         config: gameWikis
       - name: 模拟器
         icon: fab fa-xbox
         config: gameEmulators
       - name: 游戏开发
-        icon: fab fa-dev
+        icon: fas fa-code
         config: gameDev
   - name: 常用网站
     icon: fas fa-globe
@@ -82,13 +85,13 @@ menu:
         icon: fas fa-toolbox
         config: aiTools
       - name: 信息资料
-        icon: fas fa-file-alt
+        icon: fas fa-book
         config: references
       - name: 论坛百科
         icon: fab fa-forumbee
         config: forumsWikis
       - name: 建站运维
-        icon: fas fa-box
+        icon: fas fa-wrench
         config: webEnvironment
   - name: 手机工具
     icon: fas fa-mobile-alt
@@ -108,7 +111,7 @@ menu:
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2025-02-20
+  - name: 最后更新：2025-02-21
     icon: far fa-calendar
 
 about:

@@ -1,7 +1,7 @@
 - name: SteamDB
   url: https://steamdb.info/
   img: /images/steamdb.png
-  description: Steam 游戏数据库
+  description: Steam 游戏价格查询
 - name: 中文 Minecraft Wiki
   url: https://zh.minecraft.wiki/
   img: /images/minecraft.png
