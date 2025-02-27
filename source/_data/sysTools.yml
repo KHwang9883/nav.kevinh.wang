@@ -122,3 +122,7 @@
   url: https://github.com/studyzy/imewlconverter
   img: /images/imewlconverter.png
   description: 🆓一款开源的输入法词库转换程序
+- name: dupeGuru
+  url: https://dupeguru.voltaicideas.net/
+  img: /images/dupeguru.png
+  description: 🆓查找重复文件
