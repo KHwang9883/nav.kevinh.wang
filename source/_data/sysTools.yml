@@ -110,10 +110,10 @@
   url: https://tailscale.com/download/
   img: /images/tailscale.png
   description: 🆓免费内网穿透组网
-- name: LANDrop
-  url: https://landrop.app/
-  img: /images/landrop.png
-  description: 跨平台局域网文件传输工具
+- name: LocalSend
+  url: https://localsend.org/zh-CN/download
+  img: /images/localsend.png
+  description: 🆓跨平台局域网文件传输工具
 - name: DesktopOK
   url: http://softwareok.com/?Download=DesktopOK
   img: /images/desktopok.png
