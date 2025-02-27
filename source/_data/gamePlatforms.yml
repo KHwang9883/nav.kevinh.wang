@@ -24,7 +24,7 @@
   description: 暴雪游戏平台
 - name: 米哈游启动器
   url: https://launcher.mihoyo.com/
-  img: /images/mihoyo.png
+  img: /images/mihoyolauncher.png
   description: 无限世界，一键启程
 - name: GOG Galaxy
   url: https://www.gog.com/galaxy
