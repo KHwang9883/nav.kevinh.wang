@@ -22,6 +22,10 @@
   url: https://www.google.cn/intl/zh-CN/chrome/
   img: /images/chrome.png
   description: 用户量最大的浏览器
+- name: Vivaldi
+  url: https://vivaldi.com/zh-hans/download/
+  img: /images/vivaldi.png
+  description: 可自由定制的浏览器
 - name: Thunderbird
   url: https://www.thunderbird.net/zh-CN/
   img: /images/thunderbird.png
