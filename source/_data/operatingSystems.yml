@@ -38,6 +38,10 @@
   url: https://www.raspberrypi.org/software/operating-systems/
   img: /images/raspi.png
   description: 🆓树莓派官方系统，基于 Debian
+- name: 飞牛私有云 fnOS
+  url: https://fnnas.com/download
+  img: /images/fnos.png
+  description: 基于 Debian 的国产 NAS 操作系统
 - name: 清华大学开源软件镜像站
   url: https://mirrors.tuna.tsinghua.edu.cn/
   img: /images/tuna.png
