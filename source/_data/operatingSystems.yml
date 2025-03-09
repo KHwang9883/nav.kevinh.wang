@@ -42,6 +42,10 @@
   url: https://fnnas.com/download
   img: /images/fnos.png
   description: 基于 Debian 的国产 NAS 操作系统
+- name: Proxmox VE
+  url: https://pve.proxmox.com/wiki/Downloads
+  img: /images/proxmox.png
+  description: 🆓开源虚拟化平台
 - name: 清华大学开源软件镜像站
   url: https://mirrors.tuna.tsinghua.edu.cn/
   img: /images/tuna.png
