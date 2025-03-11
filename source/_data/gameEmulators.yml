@@ -46,9 +46,9 @@
   url: https://github.com/GreemDev/Ryujinx
   img: /images/ryujinx.png
   description: 🆓Ryujinx (GreemDev Fork)
-- name: Suyu
-  url: https://suyu.dev/
-  img: /images/suyu.png
+- name: Citron
+  url: https://citron-emu.org/
+  img: /images/citron.png
   description: 🆓Nintendo Switch 模拟器
 - name: PPSSPP
   url: https://www.ppsspp.org/
