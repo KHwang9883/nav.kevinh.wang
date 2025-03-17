@@ -42,10 +42,6 @@
   url: http://cemu.info
   img: /images/cemu.png
   description: 🆓Wii U 模拟器
-- name: Ryujinx
-  url: https://github.com/GreemDev/Ryujinx
-  img: /images/ryujinx.png
-  description: 🆓Ryujinx (GreemDev Fork)
 - name: Citron
   url: https://citron-emu.org/
   img: /images/citron.png
