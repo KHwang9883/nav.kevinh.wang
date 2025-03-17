@@ -34,8 +34,8 @@
   url: https://cn.dolphin-emu.org/download/
   img: /images/dolphin.png
   description: 🆓Wii/GameCube 模拟器
-- name: Lime3DS
-  url: https://github.com/Lime3DS/Lime3DS
+- name: Azahar
+  url: https://github.com/azahar-emu/azahar
   img: /images/lime.png
   description: 🆓3DS 模拟器
 - name: Cemu
