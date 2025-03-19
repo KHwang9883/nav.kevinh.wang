@@ -70,10 +70,6 @@
   url: https://www.virtualbox.org/wiki/Downloads
   img: /images/virtualbox.png
   description: 🆓Oracle 虚拟机
-- name: WizTree
-  url: https://diskanalyzer.com/download
-  img: /images/wiztree.png
-  description: 轻松查找大文件
 - name: Moonlight
   url: https://moonlight-stream.org/
   img: /images/moonlight.png
@@ -102,6 +98,10 @@
   url: https://twinkletray.com/
   img: /images/twinkletray.png
   description: 🆓快捷调节显示器亮度
+- name: WizTree
+  url: https://diskanalyzer.com/download
+  img: /images/wiztree.png
+  description: 轻松查找大文件
 - name: 菲菲更名宝贝 之 得意非凡
   url: http://www.ffhome.com/works/1406.html
   img: /images/feifei.png
