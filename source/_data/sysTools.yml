@@ -74,10 +74,22 @@
   url: https://diskanalyzer.com/download
   img: /images/wiztree.png
   description: 轻松查找大文件
+- name: Moonlight
+  url: https://moonlight-stream.org/
+  img: /images/moonlight.png
+  description: 🆓串流用户端，配合 Sunshine 使用
+- name: Sunshine
+  url: https://github.com/LizardByte/Sunshine
+  img: /images/sunshine.png
+  description: 🆓串流服务端，配合 Moonlight 使用
 - name: spacedesk
   url: https://www.spacedesk.net/
   img: /images/spacedesk.png
   description: 使你的其他设备变身 Windows PC 的扩展显示器
+- name: Parsec
+  url: https://parsec.app/
+  img: /images/parsec.png
+  description: P2P + 低延迟的远控软件
 - name: IObit Unlocker
   url: https://www.iobit.com/en/iobit-unlocker.php
   img: /images/iobitunlocker.png

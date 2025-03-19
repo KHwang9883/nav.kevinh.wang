@@ -42,18 +42,6 @@
   url: https://www.capcut.cn/
   img: /images/capcut.png
   description: 全能易用的桌面端剪辑软件
-- name: Parsec
-  url: https://parsec.app/
-  img: /images/parsec.png
-  description: P2P + 低延迟的远控软件
-- name: Moonlight
-  url: https://moonlight-stream.org/
-  img: /images/moonlight.png
-  description: 🆓串流用户端，配合 Sunshine 使用
-- name: Sunshine
-  url: https://github.com/LizardByte/Sunshine
-  img: /images/sunshine.png
-  description: 🆓串流服务端，配合 Moonlight 使用
 - name: ScreenToGif
   url: https://www.screentogif.com/downloads
   img: /images/stg.png
