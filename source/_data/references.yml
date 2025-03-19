@@ -50,10 +50,6 @@
   url: https://root.dianas.cyou/
   img: /images/github.png
   description: 为 Android 设备刷机编写的速查手册
-- name: WSA App Compatibility
-  url: https://github.com/riverar/wsa-app-compatibility
-  img: /images/github.png
-  description: WSA 子系统应用兼容列表
 - name: endoflife.date
   url: https://endoflife.date/
   img: /images/eoldate.png

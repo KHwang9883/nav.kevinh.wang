@@ -70,14 +70,6 @@
   url: https://www.virtualbox.org/wiki/Downloads
   img: /images/virtualbox.png
   description: 🆓Oracle 开源虚拟机
-- name: WSA 工具箱
-  url: https://www.microsoft.com/store/productId/9PPSP2MKVTGT
-  img: /images/android.png
-  description: 在 Windows 安卓子系统中安装 APK、管理 APP、查看进程以及传输文件
-- name: MagiskOnWSALocal
-  url: https://github.com/LSPosed/MagiskOnWSALocal/
-  img: /images/android.png
-  description: 在 Windows 安卓子系统中集成 Magisk & GApps，需 GNU/Linux 环境
 - name: WizTree
   url: https://diskanalyzer.com/download
   img: /images/wiztree.png
