@@ -33,6 +33,9 @@ menu:
       - name: 浏览器扩展
         icon: fas fa-puzzle-piece
         config: browserExtensions
+      - name: 云存储
+        icon: fas fa-cloud
+        config: netDisks
       - name: 影音媒体
         icon: far fa-play-circle
         config: mediaApps
@@ -111,7 +114,7 @@ menu:
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2025-03-19
+  - name: 最后更新：2025-03-20
     icon: far fa-calendar
 
 about:

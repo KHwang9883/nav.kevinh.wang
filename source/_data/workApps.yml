@@ -10,18 +10,6 @@
   url: https://docs.qq.com/home/download
   img: /images/tdocs.png
   description: 支持协作的文档软件
-- name: 百度网盘
-  url: https://pan.baidu.com/download
-  img: /images/baidupan.png
-  description: 用户量大的网盘
-- name: 阿里云盘
-  url: https://www.aliyundrive.com/
-  img: /images/aliyundrive.png
-  description: 大容量网盘
-- name: 123 云盘
-  url: https://www.123pan.com/Downloadclient?type=Pc
-  img: /images/123pan.png
-  description: 免费大容量高速云盘
 - name: Adobe Creative Cloud
   url: https://www.adobe.com/cn/creativecloud/catalog/desktop.html
   img: /images/adobe.png
