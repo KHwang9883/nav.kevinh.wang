@@ -37,7 +37,7 @@
 - name: Linux Deploy
   url: https://github.com/lateautumn233/Linuxdeploy-Pro
   img: /images/linuxdeploy.png
-  description: 🆓在已 root 的 Android 设备上部署 GNU/Linux
+  description: 🆓在已 root 的设备上部署 GNU/Linux
 - name: HyperCeiler
   url: https://github.com/ReChronoRain/HyperCeiler
   img: /images/hyperceiler.png
@@ -105,7 +105,7 @@
 - name: Uperf
   url: https://github.com/yc9559/uperf
   img: /images/github.png
-  description: 🆓Android 用户态性能控制器，通常称作「yc 调度」
+  description: 🆓用户态性能控制器，通常称作「yc 调度」
 - name: TWRP Recovery
   url: https://twrp.me/
   img: /images/twrp.png

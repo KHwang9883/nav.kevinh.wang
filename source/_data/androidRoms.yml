@@ -30,10 +30,6 @@
   url: https://www.realme.com/support/software-update
   img: /images/realme.png
   description: 真我手机升级工具
-- name: OriginOS 官网下载
-  url: https://www.vivo.com/upgrade/index
-  img: /images/originos.png
-  description: vivo 新款手机搭载的系统
 - name: Flyme 官网下载
   url: https://www.flyme.com/firmware.html
   img: /images/flyme.png

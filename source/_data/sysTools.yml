@@ -69,7 +69,7 @@
 - name: VirtualBox
   url: https://www.virtualbox.org/wiki/Downloads
   img: /images/virtualbox.png
-  description: 🆓Oracle 开源虚拟机
+  description: 🆓Oracle 虚拟机
 - name: WizTree
   url: https://diskanalyzer.com/download
   img: /images/wiztree.png
@@ -113,7 +113,7 @@
 - name: 深蓝词库转换
   url: https://github.com/studyzy/imewlconverter
   img: /images/imewlconverter.png
-  description: 🆓一款开源的输入法词库转换程序
+  description: 🆓输入法词库转换程序
 - name: dupeGuru
   url: https://dupeguru.voltaicideas.net/
   img: /images/dupeguru.png

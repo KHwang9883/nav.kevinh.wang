@@ -9,7 +9,7 @@
 - name: Via
   url: https://viayoo.com/zh-cn/
   img: /images/via.png
-  description: 🆓轻量、简约的 Android 浏览器
+  description: 🆓轻量、简约的浏览器
 - name: 一个木函
   url: https://www.woobx.cn/
   img: /images/woodbox.png
@@ -45,7 +45,7 @@
 - name: Aurora Store
   url: https://auroraoss.com/AuroraStore/
   img: /images/aurorastore.png
-  description: 🆓开源第三方 Google Play 商店用户端
+  description: 🆓第三方 Google Play 商店用户端
 - name: F-Droid
   url: https://f-droid.org/
   img: /images/fdroid.png
@@ -66,6 +66,10 @@
   url: https://consumer.huawei.com/cn/support/hisuite/
   img: /images/hisuite.png
   description: 华为智能终端管理工具
+- name: O+ 互联
+  url: https://connect.oppo.com/
+  img: /images/oplus.png
+  description: OPPO 设备与 Apple 设备/PC 互联
 - name: vivo 互传
   url: http://es.vivo.com.cn/
   img: /images/huchuan.png
@@ -81,7 +85,7 @@
 - name: KDE Connect
   url: https://kdeconnect.kde.org/download.html
   img: /images/kdeconnect.png
-  description: 🆓开源的跨平台协同工具
+  description: 🆓KDE 出品跨平台协同工具
 - name: Geekbench
   url: https://www.geekbench.com/download/
   img: /images/geekbench.png
@@ -94,10 +98,6 @@
   url: https://epcdiy.org
   img: /images/byakugan.png
   description: 山寨机跑分、甄别工具
-- name: Discuz Hub
-  url: https://discuzhub.kidozh.com/
-  img: /images/discuzhub.png
-  description: 🆓轻量的 Discuz! 安卓应用
 - name: Google Camera Ports Download
   url: https://www.celsoazevedo.com/files/android/google-camera/
   img: /images/gcam.png

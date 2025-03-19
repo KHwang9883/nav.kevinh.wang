@@ -85,11 +85,11 @@
 - name: OpenMPT
   url: https://openmpt.org/
   img: /images/openmpt.png
-  description: 🆓开源的模块音乐编辑器
+  description: 🆓模块音乐编辑器
 - name: B 站录播姬
   url: https://rec.danmuji.org/
   img: /images/lubo.png
-  description: 🆓方便好用、免费开源的 B 站直播录制工具
+  description: 🆓方便好用的 B 站直播录制工具
 - name: 哔哩下载姬
   url: https://github.com/leiurayer/downkyi
   img: /images/downkyi.png

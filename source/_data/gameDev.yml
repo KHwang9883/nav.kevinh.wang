@@ -1,7 +1,7 @@
 - name: Godot
   url: https://godotengine.org/
   img: /images/godot.png
-  description: 🆓开源 2D & 3D 游戏引擎
+  description: 🆓2D & 3D 游戏引擎
 - name: Unity
   url: https://unity.com/cn
   img: /images/unity.png

@@ -1,7 +1,7 @@
 - name: RetroArch
   url: http://www.retroarch.com/
   img: /images/retroarch.png
-  description: 🆓多平台开源模拟器
+  description: 🆓跨平台多机种模拟器
 - name: Mesen
   url: https://www.mesen.ca/
   img: /images/mesen.png
@@ -61,7 +61,7 @@
 - name: BizHawk
   url: https://tasvideos.org/BizHawk
   img: /images/bizhawk.png
-  description: 🆓多平台开源模拟器
+  description: 🆓多机种模拟器
 - name: Ruffle
   url: https://ruffle.rs/
   img: /images/ruffle.png

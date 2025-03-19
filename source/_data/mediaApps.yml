@@ -33,7 +33,7 @@
 - name: Listen1
   url: https://listen1.github.io/listen1/
   img: /images/listen1.png
-  description: 🆓开源多平台聚合音乐播放器
+  description: 🆓多平台聚合音乐播放器
 - name: 洛雪音乐助手
   url: https://github.com/lyswhut/lx-music-desktop
   img: /images/lx.png

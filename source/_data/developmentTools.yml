@@ -21,7 +21,7 @@
 - name: Git
   url: https://git-scm.com/
   img: /images/git.png
-  description: 🆓开源版本控制系统
+  description: 🆓版本控制系统
 - name: WinSCP
   url: https://winscp.net/eng/download.php
   img: /images/winscp.png
