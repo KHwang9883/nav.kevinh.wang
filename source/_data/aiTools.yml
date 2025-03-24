@@ -37,7 +37,7 @@
 - name: CherryStudio
   url: https://cherry-ai.com/
   img: /images/cherrystudio.png
-  description: 🆓支持多模型服务的桌面客户端
+  description: 🆓一款为创造者而生的 AI 助手
 - name: Stable Diffusion
   url: https://www.bilibili.com/video/BV1iM4y1y7oA/
   img: /images/stabilityai.png
