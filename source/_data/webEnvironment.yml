@@ -14,46 +14,46 @@
   url: https://vercel.com/
   img: /images/vercel.png
   description: Web 应用部署
-- name: Docker
+- name: Docker 🆓
   url: https://docs.docker.com/engine/
   img: /images/docker.png
-  description: 🆓应用容器引擎
+  description: 应用容器引擎
 - name: Discuz!
   url: https://www.discuz.vip/
   img: /images/discuzx.png
   description: 国内大部分论坛使用的软件
-- name: Flarum
+- name: Flarum 🆓
   url: https://flarum.org.cn/
   img: /images/flarum.png
-  description: 🆓优雅简洁的轻论坛
-- name: MediaWiki
+  description: 优雅简洁的轻论坛
+- name: MediaWiki 🆓✈️❓
   url: https://www.mediawiki.org/
   img: /images/mediawiki.png
-  description: 🆓驱动 Wikipedia 的软件 (可能需代理)
-- name: Hexo
+  description: 驱动 Wikipedia 的软件
+- name: Hexo 🆓
   url: https://hexo.io/
   img: /images/hexo.png
-  description: 🆓本站和站长的博客使用的框架
-- name: VuePress
+  description: 本站和站长的博客使用的框架
+- name: VuePress 🆓
   url: https://vuepress.vuejs.org/zh/
   img: /images/vuepress.png
-  description: 🆓Vue 驱动的静态网站生成器
-- name: WordPress
+  description: Vue 驱动的静态网站生成器
+- name: WordPress 🆓
   url: https://cn.wordpress.org/download/
   img: /images/wordpress.png
-  description: 🆓全球用户量最多的 CMS 系统
-- name: Typecho
+  description: 全球用户量最多的 CMS 系统
+- name: Typecho 🆓
   url: http://typecho.org/download
   img: /images/typecho.png
-  description: 🆓轻量级 PHP 博客程序
-- name: Gitea
+  description: 轻量级 PHP 博客程序
+- name: Gitea 🆓
   url: https://gitea.io/zh-cn/
   img: /images/gitea.png
-  description: 🆓轻量级代码托管解决方案
-- name: frp
+  description: 轻量级代码托管解决方案
+- name: frp 🆓
   url: https://github.com/fatedier/frp
   img: /images/frp.png
-  description: 🆓一个专注于内网穿透的反向代理应用
+  description: 一个专注于内网穿透的反向代理应用
 - name: UptimeRobot
   url: https://uptimerobot.com/
   img: /images/uptimerobot.png

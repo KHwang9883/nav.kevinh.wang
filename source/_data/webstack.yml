@@ -78,7 +78,7 @@ menu:
       - name: 游戏开发
         icon: fas fa-code
         config: gameDev
-  - name: 常用网站
+  - name: 工具网站
     icon: fas fa-globe
     submenu:
       - name: 工具资源
@@ -96,7 +96,7 @@ menu:
       - name: 建站运维
         icon: fas fa-wrench
         config: webEnvironment
-  - name: 手机工具
+  - name: 手机相关
     icon: fas fa-mobile-alt
     submenu:
       - name: 安卓应用
@@ -114,7 +114,7 @@ menu:
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2025-03-25
+  - name: 最后更新：2025-03-29
     icon: far fa-calendar
 
 about:
@@ -125,7 +125,7 @@ about:
 aboutPage:
   website:
     head: 关于本站
-    html: '<blockquote><p>本站是 Kevin Huang 的个人导航站，站点使用 Hexo 主题 <a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>。</p><br /><p>本站列出的全部软件和操作系统本人都正在使用或曾体验过，表示本人的一种认可。</p><br /><p>标有🆓的均为自由/开源软件（FREE 代表「自由」而非「免费」）；标有💲的均为买断制收费软件（Adobe Creative Cloud 为例外，其不是买断制但有此标注）；标有👤的均为本人参与或有直接关联的项目/网站。</p><br /><p>部分灵感/图标来源于<a href="https://sonic.volf.club/">狼导 - 音速装机</a>。</p><br /><p>如有任何问题，请 <a href="https://github.com/KHwang9883/nav.kevinh.wang/issues">提交 Issue</a>。</p></blockquote>'
+    html: '<blockquote><p>本站是 Kevin Huang 的个人导航站，站点使用 Hexo 主题 <a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>。</p><br /><p>本站列出的全部软件和操作系统本人都正在使用或曾体验过，表示本人的一种认可。</p><br /><p>标有🆓的均为自由/开源软件（FREE 代表「自由」而非「免费」）；标有💲的均为买断制收费软件（Adobe Creative Cloud 为例外，其不是买断制但有此标注）；标有👤的均为本人参与或有直接关联的项目/网站；标有✈️的表示需借助代理等手段访问，✈️❓表示可能需借助代理。</p><br /><p>部分灵感/图标来源于<a href="https://sonic.volf.club/">狼导 - 音速装机</a>。</p><br /><p>如有任何问题，请 <a href="https://github.com/KHwang9883/nav.kevinh.wang/issues">提交 Issue</a>。</p></blockquote>'
   webmaster:
     head: 关于站长
     name: Kevin Huang

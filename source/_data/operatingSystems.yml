@@ -1,11 +1,11 @@
-- name: Windows 11
+- name: Windows 11 💲
   url: https://www.microsoft.com/zh-cn/software-download/windows11
   img: /images/windows11.png
-  description: 💲官方 Windows 11 下载
-- name: Windows 10
+  description: 官方 Windows 11 下载
+- name: Windows 10 💲
   url: https://www.microsoft.com/zh-cn/software-download/windows10
   img: /images/windows.png
-  description: 💲官方 Windows 10 下载
+  description: 官方 Windows 10 下载
 - name: NEXT, ITELLYOU
   url: https://next.itellyou.cn
   img: /images/itellyou.png
@@ -14,38 +14,38 @@
   url: https://uupdump.net/
   img: /images/uupdump.png
   description: 轻松地从 Windows 更新服务器下载 UUP 文件
-- name: Debian
+- name: Debian 🆓
   url: https://www.debian.org/
   img: /images/debian.png
-  description: 🆓自由的 GNU/Linux 发行版，为本人 VPS 所采用
-- name: Ubuntu
+  description: 自由的 GNU/Linux 发行版，为本人 VPS 所采用
+- name: Ubuntu 🆓
   url: https://ubuntu.com/download
   img: /images/ubuntu.png
-  description: 🆓最流行的 GNU/Linux 发行版之一
-- name: Arch Linux
+  description: 最流行的 GNU/Linux 发行版之一
+- name: Arch Linux 🆓
   url: https://www.archlinux.org
   img: /images/archlinux.png
-  description: 🆓大道至简的 GNU/Linux 发行版
-- name: Manjaro
+  description: 大道至简的 GNU/Linux 发行版
+- name: Manjaro 🆓
   url: https://manjaro.org/
   img: /images/manjaro.png
-  description: 🆓基于 Arch Linux 的 GNU/Linux 发行版
-- name: deepin
+  description: 基于 Arch Linux 的 GNU/Linux 发行版
+- name: deepin 🆓
   url: https://www.deepin.org/zh/download/
   img: /images/deepin.png
-  description: 🆓国产 GNU/Linux 发行版
-- name: Raspberry Pi OS
+  description: 国产 GNU/Linux 发行版
+- name: Raspberry Pi OS 🆓
   url: https://www.raspberrypi.org/software/operating-systems/
   img: /images/raspi.png
-  description: 🆓树莓派官方系统，基于 Debian
+  description: 树莓派官方系统，基于 Debian
 - name: 飞牛私有云 fnOS
   url: https://fnnas.com/download
   img: /images/fnos.png
   description: 基于 Debian 的国产 NAS 操作系统
-- name: Proxmox VE
+- name: Proxmox VE 🆓
   url: https://pve.proxmox.com/wiki/Downloads
   img: /images/proxmox.png
-  description: 🆓开源虚拟化平台
+  description: 开源虚拟化平台
 - name: 清华大学开源软件镜像站
   url: https://mirrors.tuna.tsinghua.edu.cn/
   img: /images/tuna.png

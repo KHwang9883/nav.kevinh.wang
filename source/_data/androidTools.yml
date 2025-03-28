@@ -2,10 +2,10 @@
   url: https://developer.android.google.cn/studio/releases/platform-tools
   img: /images/android.png
   description: adb/fastboot 等工具官方下载
-- name: Magisk
+- name: Magisk 🆓
   url: https://github.com/topjohnwu/Magisk
   img: /images/magisk.png
-  description: 🆓Android 的魔法面具
+  description: Android 的魔法面具
 - name: Magisk Alpha
   url: https://install.appcenter.ms/users/vvb2060/apps/magisk/distribution_groups/public
   img: /images/magisk.png
@@ -14,54 +14,54 @@
   url: https://github.com/HuskyDG/magisk-files/releases
   img: /images/kitsunemask.png
   description: 原 Magisk Delta，也称作狐狸面具
-- name: KernelSU
+- name: KernelSU 🆓
   url: https://kernelsu.org/zh_CN/
   img: /images/kernelsu.png
-  description: 🆓Android 上的内核级的 root 方案
-- name: APatch
+  description: Android 上的内核级的 root 方案
+- name: APatch 🆓
   url: https://github.com/bmax121/APatch
   img: /images/apatch.png
-  description: 🆓另一内核级的 root 方案
-- name: LSPosed
+  description: 另一内核级的 root 方案
+- name: LSPosed 🆓
   url: https://github.com/JingMatrix/LSPosed
   img: /images/lsposed.png
-  description: 🆓适用于 Android 8.1+ 的 Xposed 框架 (JingMatrix Fork)
-- name: Shizuku
+  description: 适用于 Android 8.1+ 的 Xposed 框架 (JingMatrix Fork)
+- name: Shizuku 🆓
   url: https://shizuku.rikka.app/
   img: /images/shizuku.png
-  description: 🆓通过 adb/root 权限直接使用系统 API
-- name: Termux
+  description: 通过 adb/root 权限直接使用系统 API
+- name: Termux 🆓
   url: https://termux.dev/
   img: /images/termux.png
-  description: 🆓终端模拟器 + Linux 环境
-- name: Linux Deploy
+  description: 终端模拟器 + Linux 环境
+- name: Linux Deploy 🆓
   url: https://github.com/lateautumn233/Linuxdeploy-Pro
   img: /images/linuxdeploy.png
-  description: 🆓在已 root 的设备上部署 GNU/Linux
-- name: HyperCeiler
+  description: 在已 root 的设备上部署 GNU/Linux
+- name: HyperCeiler 🆓
   url: https://github.com/ReChronoRain/HyperCeiler
   img: /images/hyperceiler.png
-  description: 🆓MIUI/Xiaomi HyperOS 的 Xposed 增强模块
+  description: MIUI/Xiaomi HyperOS 的 Xposed 增强模块
 - name: 爱玩机工具箱
   url: https://www.coolapk.com/apk/com.byyoung.setting
   img: /images/aiwanji.png
   description: 解锁玩机新姿势
-- name: Scene
+- name: Scene 💲
   url: http://vtools.omarea.com/
   img: /images/scene.png
-  description: 💲性能监测与调节
-- name: scrcpy
+  description: 性能监测与调节
+- name: scrcpy 🆓
   url: https://github.com/Genymobile/scrcpy
   img: /images/scrcpy.png
-  description: 🆓将 Android 设备画面投屏到电脑
+  description: 将 Android 设备画面投屏到电脑
 - name: 甲壳虫 ADB 助手
   url: https://github.com/didjdk/adbhelper
   img: /images/adbhelper.png
   description: 在手机上进行 ADB 调试
-- name: DSU Sideloader
+- name: DSU Sideloader 🆓
   url: https://github.com/VegaBobo/DSU-Sideloader
   img: /images/dsusideloader.jpeg
-  description: 🆓为 Android 10 以上设备安装 GSI 系统镜像
+  description: 为 Android 10 以上设备安装 GSI 系统镜像
 - name: 萤火虫资源站
   url: https://www.yhcres.top/
   img: /images/yhc.png
@@ -70,14 +70,14 @@
   url: https://jamcz.com/
   img: /images/jamcz.png
   description: 实用玩机工具、玩机教程
-- name: 柚坛工具箱
+- name: 柚坛工具箱 🆓
   url: https://github.com/Uotan-Dev/UotanToolboxNT
   img: /images/uotan.png
-  description: 🆓为玩机发烧友而生的全新工具箱
-- name: 秋之盒
+  description: 为玩机发烧友而生的全新工具箱
+- name: 秋之盒 🆓
   url: https://www.atmb.top/
   img: /images/autumnbox.png
-  description: 🆓Android 玩机工具集 | 请支持项目作者
+  description: Android 玩机工具集 | 请支持项目作者
 - name: MiFlashUnlock
   url: http://www.miui.com/unlock/download.html
   img: /images/xiaomi.png
@@ -86,14 +86,14 @@
   url: https://optool.daxiaamu.com/optool/
   img: /images/dxam.png
   description: 欧加玩机辅助工具
-- name: Payload Dumper
+- name: Payload Dumper 🆓
   url: https://github.com/5ec1cff/payload-dumper
   img: /images/github.png
-  description: 🆓转储 Android 更新包中的 payload.bin
-- name: MTKClient
+  description: 转储 Android 更新包中的 payload.bin
+- name: MTKClient 🆓
   url: https://github.com/bkerler/mtkclient
   img: /images/mtkclient.png
-  description: 🆓联发科设备固件提取/刷写
+  description: 联发科设备固件提取/刷写
 - name: Lenovo Bootloader 解锁
   url: https://www.zui.com/iunlock
   img: /images/lenovo.png
@@ -102,15 +102,15 @@
   url: https://mroot.flyme.cn/
   img: /images/flyme.png
   description: 魅族手机获取 Root 权限
-- name: Uperf
+- name: Uperf 🆓
   url: https://github.com/yc9559/uperf
   img: /images/github.png
-  description: 🆓用户态性能控制器，通常称作「yc 调度」
-- name: TWRP Recovery
+  description: 用户态性能控制器，通常称作「yc 调度」
+- name: TWRP Recovery 🆓
   url: https://twrp.me/
   img: /images/twrp.png
-  description: 🆓下载 TWRP Recovery
-- name: OrangeFox Recovery
+  description: 下载 TWRP Recovery
+- name: OrangeFox Recovery 🆓
   url: https://orangefox.download/zh-CN
   img: /images/orangefox.png
-  description: 🆓下载橙狐 Recovery
+  description: 下载橙狐 Recovery

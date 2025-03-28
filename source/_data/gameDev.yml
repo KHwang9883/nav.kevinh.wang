@@ -1,7 +1,7 @@
-- name: Godot
+- name: Godot 🆓
   url: https://godotengine.org/
   img: /images/godot.png
-  description: 🆓2D & 3D 游戏引擎
+  description: 2D & 3D 游戏引擎
 - name: Unity
   url: https://unity.com/cn
   img: /images/unity.png
@@ -14,7 +14,7 @@
   url: https://gamemaker.io/
   img: /images/gms2.png
   description: 终极 2D 游戏开发环境
-- name: Clickteam Fusion
+- name: Clickteam Fusion 💲
   url: https://www.clickteam.com/clickteam-fusion-2-5
   img: /images/ctf.png
-  description: 💲易用的游戏制作软件
+  description: 易用的游戏制作软件

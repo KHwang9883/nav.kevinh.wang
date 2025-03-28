@@ -6,55 +6,55 @@
   url: https://code.visualstudio.com/
   img: /images/vscode.png
   description: 强大的代码编辑器
-- name: Windows Terminal
+- name: Windows Terminal 🆓
   url: https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701
   img: /images/terminal.png
-  description: 🆓新版 Windows 终端
-- name: Android Studio
+  description: 新版 Windows 终端
+- name: Android Studio 🆓
   url: https://developer.android.com/studio?hl=zh-cn
   img: /images/androidstudio.png
-  description: 🆓官方 Android IDE
-- name: GitHub Desktop
+  description: 官方 Android IDE
+- name: GitHub Desktop 🆓
   url: https://desktop.github.com/
   img: /images/githubdesktop.png
-  description: 🆓官方 GitHub 桌面用户端
-- name: Git
+  description: 官方 GitHub 桌面用户端
+- name: Git 🆓
   url: https://git-scm.com/
   img: /images/git.png
-  description: 🆓版本控制系统
-- name: WinSCP
+  description: 版本控制系统
+- name: WinSCP 🆓
   url: https://winscp.net/eng/download.php
   img: /images/winscp.png
-  description: 🆓可视化管理远程主机文件
-- name: PuTTY
+  description: 可视化管理远程主机文件
+- name: PuTTY 🆓
   url: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
   img: /images/putty.png
-  description: 🆓SSH 连接远程主机
+  description: SSH 连接远程主机
 - name: FinalShell
   url: https://www.hostbuf.com/t/988.html
   img: /images/finalshell.png
   description: 多功能运维工具
-- name: Node.js
+- name: Node.js 🆓
   url: https://nodejs.org/zh-cn/
   img: /images/nodejs.png
-  description: 🆓Javascript 运行时
-- name: fnm
+  description: Javascript 运行时
+- name: fnm 🆓
   url: https://github.com/Schniz/fnm
   img: /images/nodejs.png
-  description: 🆓Node.js 版本管理
-- name: Python
+  description: Node.js 版本管理
+- name: Python 🆓
   url: https://www.python.org/downloads/
   img: /images/python.png
-  description: 🆓流行的编程语言
+  description: 流行的编程语言
 - name: Java
   url: https://java.com/zh-CN/download/
   img: /images/java.png
   description: 下载 Java 8
-- name: Microsoft Build of OpenJDK
+- name: Microsoft Build of OpenJDK 🆓
   url: https://docs.microsoft.com/zh-cn/java/openjdk/download
   img: /images/java.png
-  description: 🆓微软 OpenJDK 构建
-- name: Rust
+  description: 微软 OpenJDK 构建
+- name: Rust 🆓
   url: https://www.rust-lang.org/
   img: /images/rust.png
-  description: 🆓Rust 编程语言
+  description: Rust 编程语言

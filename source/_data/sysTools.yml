@@ -6,18 +6,18 @@
   url: https://www.huorong.cn/app_store.html
   img: /images/hrappstore.png
   description: 一站式管理应用软件
-- name: UniGetUI
+- name: UniGetUI 🆓
   url: https://github.com/marticliment/UniGetUI
   img: /images/unigetui.png
-  description: 🆓winget 及众多包管理器的图形化界面
+  description: winget 及众多包管理器的图形化界面
 - name: PowerToys
   url: https://github.com/microsoft/PowerToys/releases
   img: /images/powertoys.png
   description: 🆓微软出品系统增强工具
-- name: 7-Zip
+- name: 7-Zip 🆓
   url: https://www.7-zip.org/
   img: /images/7zip.png
-  description: 🆓开源压缩软件
+  description: 开源压缩软件
 - name: Everything
   url: https://www.voidtools.com/zh-cn/downloads/
   img: /images/everything.png
@@ -34,30 +34,30 @@
   url: https://www.freedownloadmanager.org/zh/
   img: /images/fdm.png
   description: 全能下载工具
-- name: Motrix
+- name: Motrix 🆓
   url: https://motrix.app/zh-CN/
   img: /images/motrix.png
-  description: 🆓全能下载工具
+  description: 全能下载工具
 - name: Honeyview
   url: http://cn.bandisoft.com/honeyview/
   img: /images/honeyview.png
   description: 支持众多格式的看图软件
-- name: ExplorerPatcher
+- name: ExplorerPatcher 🆓
   url: https://github.com/valinet/ExplorerPatcher
   img: /images/fileexplorer.png
-  description: 🆓Windows 文件资源管理器体验增强
-- name: TranslucentTB
+  description: Windows 文件资源管理器体验增强
+- name: TranslucentTB 🆓
   url: https://github.com/TranslucentTB/TranslucentTB
   img: /images/translucenttb.png
-  description: 🆓使任务栏透明
-- name: DesktopClock
+  description: 使任务栏透明
+- name: DesktopClock 🆓
   url: https://github.com/danielchalmers/DesktopClock
   img: /images/desktopclock.png
-  description: 🆓简易桌面时钟
-- name: MacType
+  description: 简易桌面时钟
+- name: MacType 🆓
   url: https://www.mactype.net/
   img: /images/mactype.png
-  description: 🆓优化 Windows 字体渲染
+  description: 优化 Windows 字体渲染
 - name: HiPC
   url: https://hipc.cn/
   img: /images/hipc.png
@@ -66,18 +66,18 @@
   url: https://softwareupdate.vmware.com/cds/vmw-desktop/
   img: /images/vmware.png
   description: VMware 虚拟机
-- name: VirtualBox
+- name: VirtualBox 🆓
   url: https://www.virtualbox.org/wiki/Downloads
   img: /images/virtualbox.png
-  description: 🆓Oracle 虚拟机
-- name: Moonlight
+  description: Oracle 虚拟机
+- name: Moonlight 🆓
   url: https://moonlight-stream.org/
   img: /images/moonlight.png
-  description: 🆓串流用户端，配合 Sunshine 使用
-- name: Sunshine
+  description: 串流用户端，配合 Sunshine 使用
+- name: Sunshine 🆓
   url: https://github.com/LizardByte/Sunshine
   img: /images/sunshine.png
-  description: 🆓串流服务端，配合 Moonlight 使用
+  description: 串流服务端，配合 Moonlight 使用
 - name: spacedesk
   url: https://www.spacedesk.net/
   img: /images/spacedesk.png
@@ -90,14 +90,14 @@
   url: https://www.iobit.com/en/iobit-unlocker.php
   img: /images/iobitunlocker.png
   description: 解除文件/文件夹占用的小工具
-- name: Tai
+- name: Tai 🆓
   url: https://github.com/Planshit/Tai
   img: /images/tai.png
-  description: 🆓统计 Windows 电脑软件使用时长和网站浏览时长
-- name: Twinkle Tray
+  description: 统计 Windows 电脑软件使用时长和网站浏览时长
+- name: Twinkle Tray 🆓
   url: https://twinkletray.com/
   img: /images/twinkletray.png
-  description: 🆓快捷调节显示器亮度
+  description: 快捷调节显示器亮度
 - name: WizTree
   url: https://diskanalyzer.com/download
   img: /images/wiztree.png
@@ -106,27 +106,27 @@
   url: http://www.ffhome.com/works/1406.html
   img: /images/feifei.png
   description: 强大的批量重命名工具
-- name: Syncthing
+- name: Syncthing 🆓
   url: https://syncthing.net/
   img: /images/syncthing.png
-  description: 🆓多设备文件同步
-- name: Tailscale
+  description: 多设备文件同步
+- name: Tailscale 🆓
   url: https://tailscale.com/download/
   img: /images/tailscale.png
-  description: 🆓免费内网穿透组网
-- name: LocalSend
+  description: 免费内网穿透组网
+- name: LocalSend 🆓
   url: https://localsend.org/zh-CN/download
   img: /images/localsend.png
-  description: 🆓跨平台局域网文件传输工具
+  description: 跨平台局域网文件传输工具
 - name: DesktopOK
   url: http://softwareok.com/?Download=DesktopOK
   img: /images/desktopok.png
   description: 备份/恢复桌面布局
-- name: 深蓝词库转换
+- name: 深蓝词库转换 🆓
   url: https://github.com/studyzy/imewlconverter
   img: /images/imewlconverter.png
-  description: 🆓输入法词库转换程序
-- name: dupeGuru
+  description: 输入法词库转换程序
+- name: dupeGuru 🆓
   url: https://dupeguru.voltaicideas.net/
   img: /images/dupeguru.png
-  description: 🆓查找重复文件
+  description: 查找重复文件

@@ -1,7 +1,7 @@
-- name: Firefox
+- name: Firefox 🆓
   url: https://www.mozilla.org/zh-CN/firefox/
   img: /images/firefox.png
-  description: 🆓站长正在使用的浏览器
+  description: 站长正在使用的浏览器
 - name: Vivaldi
   url: https://vivaldi.com/zh-hans/download/
   img: /images/vivaldi.png
@@ -26,7 +26,7 @@
   url: https://pc.weixin.qq.com/
   img: /images/wechat.png
   description: 即时通讯软件
-- name: Thunderbird
+- name: Thunderbird 🆓
   url: https://www.thunderbird.net/zh-CN/
   img: /images/thunderbird.png
-  description: 🆓邮箱客户端
+  description: 邮箱客户端

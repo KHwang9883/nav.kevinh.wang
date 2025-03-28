@@ -1,7 +1,7 @@
-- name: Microsoft Office
+- name: Microsoft Office 💲
   url: https://www.office.com/
   img: /images/office.png
-  description: 💲首选办公软件
+  description: 首选办公软件
 - name: WPS Office
   url: https://platform.wps.cn/
   img: /images/wps.png
@@ -10,14 +10,14 @@
   url: https://docs.qq.com/home/download
   img: /images/tdocs.png
   description: 支持协作的文档软件
-- name: Adobe Creative Cloud
+- name: Adobe Creative Cloud 💲
   url: https://www.adobe.com/cn/creativecloud/catalog/desktop.html
   img: /images/adobe.png
-  description: 💲Adobe 生产力软件
-- name: GIMP
+  description: Adobe 生产力软件
+- name: GIMP 🆓
   url: https://www.gimp.org/
   img: /images/gimp.png
-  description: 🆓开源修图软件
+  description: 开源修图软件
 - name: paint.net
   url: https://www.dotpdn.com/downloads/pdn.html
   img: /images/pdn.png
@@ -26,10 +26,10 @@
   url: https://www.blackmagicdesign.com/cn/products/davinciresolve/
   img: /images/davinci.png
   description: 免费剪辑工具
-- name: OBS Studio
+- name: OBS Studio 🆓
   url: https://obsproject.com/zh-cn/download
   img: /images/obs.png
-  description: 🆓视频录制 & 直播
+  description: 视频录制 & 直播
 - name: 哔哩哔哩直播姬
   url: https://live.bilibili.com/liveHime
   img: /images/livehime.png
@@ -42,14 +42,14 @@
   url: https://www.capcut.cn/
   img: /images/capcut.png
   description: 全能易用的桌面端剪辑软件
-- name: ScreenToGif
+- name: ScreenToGif 🆓
   url: https://www.screentogif.com/downloads
   img: /images/stg.png
-  description: 🆓录屏或视频转 Gif
-- name: File Converter
+  description: 录屏或视频转 Gif
+- name: File Converter 🆓
   url: https://github.com/Tichau/FileConverter
   img: /images/converter.png
-  description: 🆓右键菜单转换文件格式
+  description: 右键菜单转换文件格式
 - name: MediaCoder
   url: https://www.mediacoderhq.com/
   img: /images/mcoder.png
@@ -58,18 +58,18 @@
   url: https://maruko.appinn.me/
   img: /images/maruko.png
   description: 视频压制神器
-- name: OpenMPT
+- name: OpenMPT 🆓
   url: https://openmpt.org/
   img: /images/openmpt.png
-  description: 🆓模块音乐编辑器
-- name: B 站录播姬
+  description: 模块音乐编辑器
+- name: B 站录播姬 🆓
   url: https://rec.danmuji.org/
   img: /images/lubo.png
-  description: 🆓方便好用的 B 站直播录制工具
-- name: 哔哩下载姬
+  description: 方便好用的 B 站直播录制工具
+- name: 哔哩下载姬 🆓
   url: https://github.com/leiurayer/downkyi
   img: /images/downkyi.png
-  description: 🆓哔哩哔哩视频下载工具
+  description: 哔哩哔哩视频下载工具
 - name: 唧唧 Down
   url: http://client.jijidown.com/
   img: /images/jijidown.png

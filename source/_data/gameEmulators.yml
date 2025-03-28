@@ -1,80 +1,80 @@
-- name: RetroArch
+- name: RetroArch 🆓
   url: http://www.retroarch.com/
   img: /images/retroarch.png
-  description: 🆓跨平台多机种模拟器
-- name: Mesen
+  description: 跨平台多机种模拟器
+- name: Mesen 🆓
   url: https://www.mesen.ca/
   img: /images/mesen.png
-  description: 🆓高精确 NES/SNES/GameBoy 模拟器
-- name: FCEUX
+  description: 高精确 NES/SNES/GameBoy 模拟器
+- name: FCEUX 🆓
   url: http://fceux.com/web/download.html
   img: /images/fceux.png
-  description: 🆓Famicom/NES 模拟器
-- name: Snes9X
+  description: Famicom/NES 模拟器
+- name: Snes9X 🆓
   url: https://www.snes9x.com/downloads.php
   img: /images/snes9x.png
-  description: 🆓SNES 模拟器
-- name: mGBA
+  description: SNES 模拟器
+- name: mGBA 🆓
   url: https://mgba.io/
   img: /images/mgba.png
-  description: 🆓GameBoy 模拟器 (更推荐这个)
-- name: VisualBoyAdvance-M
+  description: GameBoy 模拟器 (更推荐这个)
+- name: VisualBoyAdvance-M 🆓
   url: https://github.com/visualboyadvance-m/visualboyadvance-m
   img: /images/vbam.png
-  description: 🆓GameBoy 模拟器
-- name: Parallel Launcher
+  description: GameBoy 模拟器
+- name: Parallel Launcher 🆓
   url: https://parallel-launcher.ca/
   img: /images/parallellauncher.png
-  description: 🆓N64 模拟器
-- name: DeSmuME
+  description: N64 模拟器
+- name: DeSmuME 🆓
   url: http://desmume.org/download/
   img: /images/desmume.png
-  description: 🆓NDS 模拟器
-- name: Dolphin
+  description: NDS 模拟器
+- name: Dolphin 🆓
   url: https://cn.dolphin-emu.org/download/
   img: /images/dolphin.png
-  description: 🆓Wii/GameCube 模拟器
-- name: Azahar
+  description: Wii/GameCube 模拟器
+- name: Azahar 🆓
   url: https://github.com/azahar-emu/azahar
   img: /images/lime.png
-  description: 🆓3DS 模拟器
-- name: Cemu
+  description: 3DS 模拟器
+- name: Cemu 🆓
   url: http://cemu.info
   img: /images/cemu.png
-  description: 🆓Wii U 模拟器
-- name: Citron
+  description: Wii U 模拟器
+- name: Citron 🆓
   url: https://citron-emu.org/
   img: /images/citron.png
-  description: 🆓Nintendo Switch 模拟器
-- name: PPSSPP
+  description: Nintendo Switch 模拟器
+- name: PPSSPP 🆓
   url: https://www.ppsspp.org/
   img: /images/ppsspp.png
-  description: 🆓PSP 模拟器
-- name: PCSX2
+  description: PSP 模拟器
+- name: PCSX2 🆓
   url: https://pcsx2.net/
   img: /images/pcsx2.png
-  description: 🆓PS2 模拟器
-- name: RPCS3
+  description: PS2 模拟器
+- name: RPCS3 🆓
   url: https://rpcs3.net/download
   img: /images/rpcs3.png
-  description: 🆓PS3 模拟器
-- name: BizHawk
+  description: PS3 模拟器
+- name: BizHawk 🆓
   url: https://tasvideos.org/BizHawk
   img: /images/bizhawk.png
-  description: 🆓多机种模拟器
-- name: Ruffle
+  description: 多机种模拟器
+- name: Ruffle 🆓
   url: https://ruffle.rs/
   img: /images/ruffle.png
-  description: 🆓Flash Player 模拟器
-- name: DOSBox Staging 
+  description: Flash Player 模拟器
+- name: DOSBox Staging  🆓
   url: https://www.dosbox-staging.org/
   img: /images/dosbox-staging.png
-  description: 🆓DOS 模拟器
-- name: Winlator
+  description: DOS 模拟器
+- name: Winlator 🆓
   url: https://github.com/brunodev85/winlator
   img: /images/winlator.png
-  description: 🆓通过 Box64 和 Wine 运行 Windows 应用程序 (个人推荐使用修改版)
-- name: Mobox
+  description: 通过 Box64 和 Wine 运行 Windows 应用程序 (个人推荐使用修改版)
+- name: Mobox 🆓
   url: https://github.com/olegos2/mobox
   img: /images/termux.png
-  description: 🆓在 Termux 中通过 Box64 和 Wine 运行 Windows 应用程序
+  description: 在 Termux 中通过 Box64 和 Wine 运行 Windows 应用程序

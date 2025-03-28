@@ -1,7 +1,7 @@
-- name: ChatGPT
+- name: ChatGPT ✈️
   url: https://chatgpt.com/
   img: /images/chatgpt.png
-  description: AI 聊天机器人 (需代理)
+  description: AI 聊天机器人
 - name: DeepSeek
   url: https://chat.deepseek.com/
   img: /images/deepseek.png
@@ -9,11 +9,23 @@
 - name: 智谱清言
   url: https://chatglm.cn/
   img: /images/chatglm.png
-  description: 千亿参数对话模型
+  description: GLM 千亿参数对话模型
 - name: 文心一言
   url: https://yiyan.baidu.com/
   img: /images/yiyan.png
   description: 百度的 AI 聊天机器人
+- name: 通义
+  url: https://tongyi.aliyun.com/
+  img: /images/tongyi.png
+  description: 阿里巴巴达摩院推出的 AI 大模型
+- name: 腾讯元宝
+  url: https://yuanbao.tencent.com/
+  img: /images/yuanbao.png
+  description: 轻松工作 多点生活
+- name: 豆包
+  url: https://www.doubao.com/
+  img: /images/doubao.png
+  description: 字节跳动旗下 AI 助手
 - name: 硅基流动 SiliconCloud
   url: https://siliconflow.cn/zh-cn/siliconcloud
   img: /images/siliconflow.png
@@ -26,18 +38,18 @@
   url: https://huggingface.co/
   img: /images/huggingface.png
   description: 开源 AI 模型库
-- name: Ollama
+- name: Ollama 🆓
   url: https://ollama.com/
   img: /images/ollama.png
-  description: 🆓在本地部署 AI 语言模型 (命令行)
+  description: 在本地部署 AI 语言模型 (命令行)
 - name: LM Studio
   url: https://lmstudio.ai/
   img: /images/lmstudio.png
   description: 在本地部署 AI 语言模型 (GUI)
-- name: CherryStudio
+- name: CherryStudio 🆓
   url: https://cherry-ai.com/
   img: /images/cherrystudio.png
-  description: 🆓一款为创造者而生的 AI 助手
+  description: 一款为创造者而生的 AI 助手
 - name: Stable Diffusion
   url: https://www.bilibili.com/video/BV1iM4y1y7oA/
   img: /images/stabilityai.png

@@ -14,10 +14,10 @@
   url: https://winaerotweaker.com/
   img: /images/winaero.png
   description: 系统优化微调软件
-- name: Dism++
+- name: Dism++ 🆓
   url: https://github.com/Chuyu-Team/Dism-Multi-language
   img: /images/dismpp.png
-  description: 🆓全新的 Windows 实用工具
+  description: 全新的 Windows 实用工具
 - name: DiskGenius
   url: https://www.diskgenius.cn/download.php
   img: /images/diskgenius.png
@@ -30,26 +30,26 @@
   url: https://geekuninstaller.com/
   img: /images/geek.png
   description: 极客软件卸载工具
-- name: 软件屏蔽器
+- name: 软件屏蔽器 🆓
   url: https://github.com/the1812/Malware-Patch
   img: /images/mwp.png
-  description: 🆓阻止安装不受欢迎的流氓软件
+  description: 阻止安装不受欢迎的流氓软件
 - name: SoftCnKiller
   url: https://free.lanzoux.com/b0cpu1guf
   img: /images/softcnkiller.png
   description: 清理已安装的流氓软件
-- name: balenaEtcher
+- name: balenaEtcher 🆓
   url: https://www.balena.io/etcher/
   img: /images/etcher.png
-  description: 🆓给 U 盘/SD 卡烧录镜像
-- name: Rufus
+  description: 给 U 盘/SD 卡烧录镜像
+- name: Rufus 🆓
   url: https://rufus.ie/
   img: /images/rufus.png
-  description: 🆓创建 USB 启动盘
-- name: Ventoy
+  description: 创建 USB 启动盘
+- name: Ventoy 🆓
   url: https://www.ventoy.net/cn/index.html
   img: /images/ventoy.png
-  description: 🆓通过 U 盘中的镜像文件启动，而无需反复格式化
+  description: 通过 U 盘中的镜像文件启动，而无需反复格式化
 - name: 微 PE 工具箱
   url: http://www.wepe.com.cn/download.html
   img: /images/wepe.png
