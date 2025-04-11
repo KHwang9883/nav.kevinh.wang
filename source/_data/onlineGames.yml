@@ -14,6 +14,10 @@
   url: https://www.minesweeper.cn/
   img: /images/minesweeper.png
   description: 重温经典，让扫雷游戏更轻松
+- name: cardgames.io
+  url: https://cardgames.io/
+  img: /images/cardgames.png
+  description: 在线玩纸牌游戏
 - name: 在线 DOS 游戏
   url: https://dos.lol/
   img: /images/controller.png
