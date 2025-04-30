@@ -67,12 +67,8 @@
   img: /images/lubo.png
   description: 方便好用的 B 站直播录制工具
 - name: 哔哩下载姬 🆓
-  url: https://github.com/leiurayer/downkyi
+  url: https://github.com/yaobiao131/downkyicore
   img: /images/downkyi.png
-  description: 哔哩哔哩视频下载工具
-- name: 唧唧 Down
-  url: http://client.jijidown.com/
-  img: /images/jijidown.png
   description: 哔哩哔哩视频下载工具
 - name: Fraps
   url: https://www.fraps.com/download.php
