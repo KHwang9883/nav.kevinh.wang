@@ -34,6 +34,10 @@
   url: https://www.deepin.org/zh/download/
   img: /images/deepin.png
   description: 国产 GNU/Linux 发行版
+- name: Bazzite 🆓
+  url: https://bazzite.gg/
+  img: /images/bazzite.png
+  description: 基于 Fedora Kinoite，为游戏设计的 GNU/Linux 发行版
 - name: Raspberry Pi OS 🆓
   url: https://www.raspberrypi.org/software/operating-systems/
   img: /images/raspi.png
