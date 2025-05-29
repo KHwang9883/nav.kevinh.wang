@@ -34,6 +34,10 @@
   url: https://betawiki.net/
   img: /images/betawiki.png
   description: 记录操作系统和应用程序的历史和演变的百科全书
+- name: Uotan Wiki
+  url: https://wiki.uotan.cn/
+  img: /images/uotan.png
+  description: 玩机知识共享平台
 - name: Free Software Directory
   url: https://directory.fsf.org/
   img: /images/gnu.png
