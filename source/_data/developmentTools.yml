@@ -22,6 +22,14 @@
   url: https://git-scm.com/
   img: /images/git.png
   description: 版本控制系统
+- name: Cursor 💲
+  url: https://www.cursor.com/
+  img: /images/cursor.png
+  description: AI IDE
+- name: Trae
+  url: https://www.trae.ai/
+  img: /images/trae.png
+  description: 字节跳动的 AI IDE
 - name: WinSCP 🆓
   url: https://winscp.net/eng/download.php
   img: /images/winscp.png

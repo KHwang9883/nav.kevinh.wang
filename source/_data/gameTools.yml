@@ -42,3 +42,7 @@
   url: https://pvz.lmintlcx.com/
   img: /images/pvz.png
   description: 植物大战僵尸全版本辅助工具
+- name: cnc-ddraw 🆓
+  url: https://github.com/FunkyFr3sh/cnc-ddraw
+  img: /images/cnc-ddraw.png
+  description: 修复老游戏兼容性问题

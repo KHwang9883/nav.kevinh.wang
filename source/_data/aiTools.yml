@@ -26,6 +26,14 @@
   url: https://www.doubao.com/
   img: /images/doubao.png
   description: 字节跳动旗下 AI 助手
+- name: CodeGeeX 🆓
+  url: https://codegeex.cn/
+  img: /images/codegeex.png
+  description: AI 编程插件
+- name: Fitten Code
+  url: https://code.fittentech.com/
+  img: /images/fitten.png
+  description: AI 编程插件
 - name: 硅基流动 SiliconCloud
   url: https://siliconflow.cn/zh-cn/siliconcloud
   img: /images/siliconflow.png
@@ -46,7 +54,7 @@
   url: https://lmstudio.ai/
   img: /images/lmstudio.png
   description: 在本地部署 AI 语言模型 (GUI)
-- name: CherryStudio 🆓
+- name: Cherry Studio 🆓
   url: https://cherry-ai.com/
   img: /images/cherrystudio.png
   description: 一款为创造者而生的 AI 助手
