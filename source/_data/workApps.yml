@@ -78,3 +78,8 @@
   url: http://www.wofficebox.com/
   img: /images/officebox.png
   description: 办公必备的小工具百宝箱
+- name: Pandoc 🆓
+  url: https://pandoc.org/
+  img: /images/github.png
+  description: 文档格式转换工具
+  
