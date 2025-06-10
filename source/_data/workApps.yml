@@ -62,6 +62,10 @@
   url: https://openmpt.org/
   img: /images/openmpt.png
   description: 模块音乐编辑器
+- name: Obsidian
+  url: https://obsidian.md/
+  img: /images/obsidian.png
+  description: 知识库管理软件
 - name: B 站录播姬 🆓
   url: https://rec.danmuji.org/
   img: /images/lubo.png
