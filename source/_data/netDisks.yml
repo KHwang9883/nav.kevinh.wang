@@ -22,7 +22,3 @@
   url: https://www.microsoft.com/zh-cn/microsoft-365/onedrive/online-cloud-storage
   img: /images/onedrive.png
   description: 微软云盘
-- name: AList 🆓
-  url: https://github.com/alist-org/alist
-  img: /images/alist.png
-  description: 支持多种云存储的文件列表程序
