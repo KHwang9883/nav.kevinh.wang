@@ -22,3 +22,7 @@
   url: https://www.microsoft.com/zh-cn/microsoft-365/onedrive/online-cloud-storage
   img: /images/onedrive.png
   description: 微软云盘
+- name: OpenList 🆓
+  url: github.com/OpenListTeam/OpenList
+  img: /images/openlist.png
+  description: AList 的社区 fork 版，支持多种云存储的文件列表程序
