@@ -23,7 +23,7 @@
   img: /images/discuzx.png
   description: 国内大部分论坛使用的软件
 - name: Flarum 🆓
-  url: https://flarum.org.cn/
+  url: https://flarum.org/
   img: /images/flarum.png
   description: 优雅简洁的轻论坛
 - name: MediaWiki 🆓✈️❓
