@@ -10,10 +10,6 @@
   url: https://install.appcenter.ms/users/vvb2060/apps/magisk/distribution_groups/public
   img: /images/magisk.png
   description: Magisk 增强版
-- name: Kitsune Mask
-  url: https://github.com/HuskyDG/magisk-files/releases
-  img: /images/kitsunemask.png
-  description: 原 Magisk Delta，也称作狐狸面具
 - name: KernelSU 🆓
   url: https://kernelsu.org/zh_CN/
   img: /images/kernelsu.png
@@ -22,10 +18,6 @@
   url: https://github.com/bmax121/APatch
   img: /images/apatch.png
   description: 另一内核级的 root 方案
-- name: LSPosed 🆓
-  url: https://github.com/JingMatrix/LSPosed
-  img: /images/lsposed.png
-  description: 适用于 Android 8.1+ 的 Xposed 框架 (JingMatrix Fork)
 - name: Shizuku 🆓
   url: https://shizuku.rikka.app/
   img: /images/shizuku.png
@@ -74,10 +66,6 @@
   url: https://github.com/Uotan-Dev/UotanToolboxNT
   img: /images/uotan.png
   description: 为玩机发烧友而生的全新工具箱
-- name: 秋之盒 🆓
-  url: https://www.atmb.top/
-  img: /images/autumnbox.png
-  description: Android 玩机工具集 | 请支持项目作者
 - name: MiFlashUnlock
   url: http://www.miui.com/unlock/download.html
   img: /images/xiaomi.png
@@ -98,6 +86,10 @@
   url: https://www.zui.com/iunlock
   img: /images/lenovo.png
   description: 联想手机、平板解锁 Bootloader
+- name: Lenovo Bootloader 解锁
+  url: https://lenovobl.neko.ink/
+  img: /images/lenovo.png
+  description: 离线生成 Lenovo Bootloader 解锁文件
 - name: Flyme Root 授权
   url: https://mroot.flyme.cn/
   img: /images/flyme.png
