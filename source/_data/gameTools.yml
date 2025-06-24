@@ -22,9 +22,9 @@
   url: http://hmcl.huangyuhui.net/
   img: /images/minecraft.png
   description: 第三方 Minecraft 启动器
-- name: PojavLauncher 🆓
-  url: https://github.com/PojavLauncherTeam/PojavLauncher
-  img: /images/pojavlauncher.png  
+- name: Amethyst 🆓
+  url: https://github.com/AngelAuraMC/Amethyst-Android
+  img: /images/amethyst.png
   description: 在手机上运行 Java 版 Minecraft
 - name: Playnite 🆓
   url: https://playnite.link/
