@@ -22,6 +22,10 @@
   url: https://download.battlenet.com.cn/zh-cn/
   img: /images/battlenet.png
   description: 暴雪游戏平台
+- name: TapTap
+  url: https://www.taptap.cn/
+  img: /images/taptap.png
+  description: 发现好游戏 (移动端 / PC)
 - name: 米哈游启动器
   url: https://launcher.mihoyo.com/
   img: /images/mihoyolauncher.png

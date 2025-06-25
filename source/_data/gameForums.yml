@@ -2,10 +2,6 @@
   url: https://keylol.com/
   img: /images/keylol.png
   description: 驱动正版游戏的引擎
-- name: TapTap
-  url: https://www.taptap.com/
-  img: /images/taptap.png
-  description: 发现好游戏
 - name: 小黑盒
   url: https://www.xiaoheihe.cn/
   img: /images/xhh.png
