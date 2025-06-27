@@ -1,3 +1,7 @@
+- name: MC 导航网
+  url: https://mcnav.net/
+  img: /images/mcnav.png
+  description: Minecraft 网址导航站
 - name: 植物僵尸相关下载
   url: http://lonelystar.org/download.htm
   img: /images/pvz.png
