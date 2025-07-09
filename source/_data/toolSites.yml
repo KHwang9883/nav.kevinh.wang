@@ -98,3 +98,11 @@
   url: https://excel2wiki.toolforge.org/
   img: /images/excel2wiki.png
   description: Excel 转 Wikitext 格式
+- name: Font Awesome
+  url: https://fontawesome.com/
+  img: /images/fontawesome.png
+  description: 字体图标库
+- name: Lospec
+  url: https://lospec.com/
+  img: /images/lospec.png
+  description: 像素画/调色板分享站

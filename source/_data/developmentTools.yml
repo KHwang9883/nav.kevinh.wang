@@ -42,6 +42,14 @@
   url: https://www.hostbuf.com/t/988.html
   img: /images/finalshell.png
   description: 多功能运维工具
+- name: VMware Workstation Pro
+  url: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+  img: /images/vmware.png
+  description: VMware 虚拟机
+- name: VirtualBox 🆓
+  url: https://www.virtualbox.org/wiki/Downloads
+  img: /images/virtualbox.png
+  description: Oracle 虚拟机
 - name: Node.js 🆓
   url: https://nodejs.org/zh-cn/
   img: /images/nodejs.png

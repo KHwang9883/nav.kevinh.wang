@@ -22,14 +22,6 @@
   url: https://www.voidtools.com/zh-cn/downloads/
   img: /images/everything.png
   description: 文件查找利器
-- name: uTools
-  url: https://www.u.tools/
-  img: /images/utools.png
-  description: 新一代效率工具平台
-- name: PixPin
-  url: https://pixpin.cn/
-  img: /images/pixpin.png
-  description: 强大且免费的截图贴图工具
 - name: Free Download Manager
   url: https://www.freedownloadmanager.org/zh/
   img: /images/fdm.png
@@ -38,10 +30,6 @@
   url: https://motrix.app/zh-CN/
   img: /images/motrix.png
   description: 全能下载工具
-- name: Honeyview
-  url: http://cn.bandisoft.com/honeyview/
-  img: /images/honeyview.png
-  description: 支持众多格式的看图软件
 - name: ExplorerPatcher 🆓
   url: https://github.com/valinet/ExplorerPatcher
   img: /images/fileexplorer.png
@@ -62,14 +50,6 @@
   url: https://hipc.cn/
   img: /images/hipc.png
   description: 用手机，远程监视与控制 PC
-- name: VMware Workstation Pro
-  url: https://softwareupdate.vmware.com/cds/vmw-desktop/
-  img: /images/vmware.png
-  description: VMware 虚拟机
-- name: VirtualBox 🆓
-  url: https://www.virtualbox.org/wiki/Downloads
-  img: /images/virtualbox.png
-  description: Oracle 虚拟机
 - name: Moonlight 🆓
   url: https://moonlight-stream.org/
   img: /images/moonlight.png
@@ -106,10 +86,6 @@
   url: http://www.ffhome.com/works/1406.html
   img: /images/feifei.png
   description: 强大的批量重命名工具
-- name: Syncthing 🆓
-  url: https://syncthing.net/
-  img: /images/syncthing.png
-  description: 多设备文件同步
 - name: Tailscale 🆓
   url: https://tailscale.com/download/
   img: /images/tailscale.png
@@ -122,10 +98,6 @@
   url: http://softwareok.com/?Download=DesktopOK
   img: /images/desktopok.png
   description: 备份/恢复桌面布局
-- name: 深蓝词库转换 🆓
-  url: https://github.com/studyzy/imewlconverter
-  img: /images/imewlconverter.png
-  description: 输入法词库转换程序
 - name: dupeGuru 🆓
   url: https://dupeguru.voltaicideas.net/
   img: /images/dupeguru.png

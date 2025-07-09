@@ -36,12 +36,15 @@ menu:
       - name: 云存储
         icon: fas fa-cloud
         config: netDisks
+      - name: 效率办公
+        icon: fas fa-briefcase
+        config: workApps
       - name: 影音媒体
         icon: far fa-play-circle
         config: mediaApps
-      - name: 生产力
-        icon: fas fa-briefcase
-        config: workApps
+      - name: 媒体创作
+        icon: fas fa-photo-video
+        config: mediaCreations
       - name: 编程开发
         icon: fas fa-code
         config: developmentTools
@@ -114,7 +117,7 @@ menu:
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2025-06-28
+  - name: 最后更新：2025-07-10
     icon: far fa-calendar
 
 about:

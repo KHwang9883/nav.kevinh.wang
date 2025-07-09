@@ -14,6 +14,10 @@
   url: https://www.apple.com.cn/itunes/
   img: /images/itunes.png
   description: Apple Music
+- name: Honeyview
+  url: http://cn.bandisoft.com/honeyview/
+  img: /images/honeyview.png
+  description: 支持众多格式的看图软件
 - name: 哔哩哔哩
   url: https://app.bilibili.com/
   img: /images/bili.png
@@ -38,3 +42,11 @@
   url: https://github.com/lyswhut/lx-music-desktop
   img: /images/lx.png
   description: 下载无损歌曲
+- name: B 站录播姬 🆓
+  url: https://rec.danmuji.org/
+  img: /images/lubo.png
+  description: 方便好用的 B 站直播录制工具
+- name: 哔哩下载姬 🆓
+  url: https://github.com/yaobiao131/downkyicore
+  img: /images/downkyi.png
+  description: 哔哩哔哩视频下载工具

@@ -46,3 +46,7 @@
   url: https://github.com/FunkyFr3sh/cnc-ddraw
   img: /images/cnc-ddraw.png
   description: 修复老游戏兼容性问题
+- name: PyMusicLooper
+  url: https://github.com/arkrow/PyMusicLooper
+  img: /images/github.png
+  description: 音乐循环点自动查找
