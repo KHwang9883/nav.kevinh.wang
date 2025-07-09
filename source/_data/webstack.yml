@@ -33,7 +33,7 @@ menu:
       - name: 浏览器扩展
         icon: fas fa-puzzle-piece
         config: browserExtensions
-      - name: 云存储
+      - name: 云盘存储
         icon: fas fa-cloud
         config: netDisks
       - name: 效率办公
