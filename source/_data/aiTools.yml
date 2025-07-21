@@ -34,6 +34,10 @@
   url: https://code.fittentech.com/
   img: /images/fitten.png
   description: AI 编程插件
+- name: CodeBuddy
+  url: https://copilot.tencent.com/
+  img: /images/codebuddy.png
+  description: 腾讯云 AI 代码助手
 - name: 硅基流动 SiliconCloud
   url: https://siliconflow.cn/zh-cn/siliconcloud
   img: /images/siliconflow.png
