@@ -51,6 +51,9 @@ menu:
       - name: 安全维护
         icon: fas fa-shield-alt
         config: maintainTools
+  - name: AI 相关
+    icon: fas fa-toolbox
+    config: aiTools
   - name: 游戏相关
     icon: fas fa-gamepad
     submenu:
@@ -87,9 +90,6 @@ menu:
       - name: 工具资源
         icon: fas fa-dice-d6
         config: toolSites
-      - name: AI 相关
-        icon: fas fa-toolbox
-        config: aiTools
       - name: 信息资料
         icon: fas fa-book
         config: references
@@ -117,7 +117,7 @@ menu:
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2025-07-22
+  - name: 最后更新：2025-08-07
     icon: far fa-calendar
 
 about:
