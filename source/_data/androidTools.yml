@@ -94,10 +94,6 @@
   url: https://mroot.flyme.cn/
   img: /images/flyme.png
   description: 魅族手机获取 Root 权限
-- name: Uperf 🆓
-  url: https://github.com/yc9559/uperf
-  img: /images/github.png
-  description: 用户态性能控制器，通常称作「yc 调度」
 - name: TWRP Recovery 🆓
   url: https://twrp.me/
   img: /images/twrp.png
