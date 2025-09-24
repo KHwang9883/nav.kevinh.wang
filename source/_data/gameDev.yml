@@ -2,10 +2,6 @@
   url: https://godotengine.org/
   img: /images/godot.png
   description: 2D & 3D 游戏引擎
-- name: Unity
-  url: https://unity.com/cn
-  img: /images/unity.png
-  description: 使用广泛的游戏引擎
 - name: Unreal Engine
   url: https://www.unrealengine.com/zh-CN
   img: /images/unrealengine.png

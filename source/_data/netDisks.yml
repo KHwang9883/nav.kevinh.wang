@@ -22,6 +22,10 @@
   url: https://www.microsoft.com/zh-cn/microsoft-365/onedrive/online-cloud-storage
   img: /images/onedrive.png
   description: 微软云盘
+- name: Syncthing 🆓
+  url: https://syncthing.net/
+  img: /images/syncthing.png
+  description: 多设备文件同步
 - name: OpenList 🆓
   url: github.com/OpenListTeam/OpenList
   img: /images/openlist.png

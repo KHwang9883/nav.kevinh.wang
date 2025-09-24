@@ -18,10 +18,6 @@
   url: https://obsidian.md/
   img: /images/obsidian.png
   description: 知识库管理软件
-- name: Syncthing 🆓
-  url: https://syncthing.net/
-  img: /images/syncthing.png
-  description: 多设备文件同步
 - name: 深蓝词库转换 🆓
   url: https://github.com/studyzy/imewlconverter
   img: /images/imewlconverter.png
