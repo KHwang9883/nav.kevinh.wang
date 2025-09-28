@@ -14,6 +14,10 @@
   url: https://pc.woozooo.com/
   img: /images/lanzou.png
   description: 免费高速云盘
+- name: 中国移动云盘
+  url: https://yun.139.com/
+  img: /images/mcloud.png
+  description: 移动用户免流量的网盘
 - name: 天翼云盘
   url: https://cloud.189.cn/web/static/download-client/index.html
   img: /images/189pan.png
