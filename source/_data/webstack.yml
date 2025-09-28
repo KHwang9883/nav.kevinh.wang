@@ -108,12 +108,9 @@ menu:
       - name: 安卓玩机
         icon: fas fa-hashtag
         config: androidTools
-      - name: 定制 ROM
+      - name: 安卓 ROM
         icon: fab fa-android
         config: androidRoms
-      - name: 类原生 ROM
-        icon: fab fa-android
-        config: androidStockRoms
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools

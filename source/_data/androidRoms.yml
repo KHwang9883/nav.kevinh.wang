@@ -13,7 +13,7 @@
 - name: Xiaomi.EU
   url: https://xiaomi.eu/community/
   img: /images/xiaomihyperos.png
-  description: 小米 ROM 官改，俗称波兰版
+  description: 小米 ROM 官改
 - name: Xiaomi Firmware Updater
   url: https://xmfirmwareupdater.com/
   img: /images/xfu.png
@@ -38,3 +38,7 @@
   url: https://mirrors.lolinet.com/firmware/
   img: /images/lenovo.png
   description: 联想、摩托罗拉手机/平板固件下载
+- name: LineageOS
+  url: https://download.lineageos.org/
+  img: /images/lineageos.png
+  description: 下载 LineageOS
