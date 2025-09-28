@@ -70,11 +70,11 @@
   url: https://www.dosbox-staging.org/
   img: /images/dosbox-staging.png
   description: DOS 模拟器
+- name: 盖世游戏
+  url: https://gamehub.xiaoji.com/
+  img: /images/gamehub.png
+  description: PC 游戏转译运行
 - name: Winlator 🆓
   url: https://github.com/brunodev85/winlator
   img: /images/winlator.png
   description: 通过 Box64 和 Wine 运行 Windows 应用程序 (个人推荐使用修改版)
-- name: Mobox 🆓
-  url: https://github.com/olegos2/mobox
-  img: /images/termux.png
-  description: 在 Termux 中通过 Box64 和 Wine 运行 Windows 应用程序
