@@ -2,10 +2,6 @@
   url: https://www.microsoft.com/zh-cn/software-download/windows11
   img: /images/windows11.png
   description: 官方 Windows 11 下载
-- name: Windows 10 💲
-  url: https://www.microsoft.com/zh-cn/software-download/windows10
-  img: /images/windows.png
-  description: 官方 Windows 10 下载
 - name: NEXT, ITELLYOU
   url: https://next.itellyou.cn
   img: /images/itellyou.png
