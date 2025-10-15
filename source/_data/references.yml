@@ -74,6 +74,10 @@
   url: https://www.landiannews.com/
   img: /images/landian.png
   description: 给你感兴趣的内容
+- name: 移动电源数据库
+  url: https://chargedb.cn/
+  img: /images/chargedb.png
+  description: 测试数据收集与量化评分
 - name: 半导小芯
   url: http://www.semiee.com/
   img: /images/semiee.png
