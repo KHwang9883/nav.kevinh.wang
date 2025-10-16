@@ -42,6 +42,10 @@
   url: http://cemu.info
   img: /images/cemu.png
   description: Wii U 模拟器
+- name: Eden 🆓
+  url: https://eden-emu.dev/
+  img: /images/eden.webp
+  description: Nintendo Switch 模拟器
 - name: Citron 🆓
   url: https://citron-emu.org/
   img: /images/citron.png
