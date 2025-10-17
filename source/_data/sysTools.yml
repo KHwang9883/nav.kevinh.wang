@@ -50,14 +50,10 @@
   url: https://hipc.cn/
   img: /images/hipc.png
   description: 用手机，远程监视与控制 PC
-- name: Moonlight 🆓
-  url: https://moonlight-stream.org/
-  img: /images/moonlight.png
-  description: 串流用户端，配合 Sunshine 使用
-- name: Sunshine 🆓
-  url: https://github.com/LizardByte/Sunshine
+- name: Sunshine 基地版 🆓
+  url: https://github.com/qiin2333/Sunshine-Foundation
   img: /images/sunshine.png
-  description: 串流服务端，配合 Moonlight 使用
+  description: Sunshine 的修改版，配合 Moonlight V+ 使用
 - name: spacedesk
   url: https://www.spacedesk.net/
   img: /images/spacedesk.png
