@@ -34,6 +34,14 @@
   url: https://www.trae.ai/
   img: /images/trae.png
   description: 字节跳动的 AI IDE
+- name: Trae CN
+  url: https://www.trae.cn/
+  img: /images/trae.png
+  description: 字节跳动的 AI IDE
+- name: JetBrains IDE
+  url: https://www.jetbrains.com/zh-cn/ides/
+  img: /images/jetbrains.png
+  description: 量身定制的针对特定语言的开发者体验
 - name: WinSCP 🆓
   url: https://winscp.net/eng/download.php
   img: /images/winscp.png
