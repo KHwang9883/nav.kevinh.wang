@@ -38,6 +38,10 @@
   url: https://www.trae.cn/
   img: /images/trae.png
   description: 字节跳动的 AI IDE
+- name: CodeBuddy
+  url: https://copilot.tencent.com/
+  img: /images/codebuddy.png
+  description: 腾讯云 AI 编程插件/IDE
 - name: JetBrains IDE
   url: https://www.jetbrains.com/zh-cn/ides/
   img: /images/jetbrains.png
