@@ -22,6 +22,10 @@
   url: https://docs.docker.com/engine/
   img: /images/docker.png
   description: 应用容器引擎
+- name: 1Panel 🆓
+  url: https://1panel.cn/
+  img: /images/1panel.png
+  description: 现代化、开源的 Linux 服务器运维管理面板
 - name: Discuz!
   url: https://www.discuz.vip/
   img: /images/discuzx.png
