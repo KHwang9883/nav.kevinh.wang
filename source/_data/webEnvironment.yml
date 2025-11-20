@@ -62,6 +62,10 @@
   url: https://github.com/fatedier/frp
   img: /images/frp.png
   description: 一个专注于内网穿透的反向代理应用
+- name: Anubis 🆓
+  url: https://github.com/TecharoHQ/anubis
+  img: /images/anubis.png
+  description: 阻止不受欢迎的爬虫
 - name: UptimeRobot
   url: https://uptimerobot.com/
   img: /images/uptimerobot.png
