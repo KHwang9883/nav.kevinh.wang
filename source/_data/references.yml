@@ -74,6 +74,10 @@
   url: https://www.landiannews.com/
   img: /images/landian.png
   description: 给你感兴趣的内容
+- name: AIbase
+  url: https://top.aibase.com/
+  img: /images/aibase.png
+  description: 发现最新最佳 AI 产品
 - name: 移动电源数据库
   url: https://chargedb.cn/
   img: /images/chargedb.png

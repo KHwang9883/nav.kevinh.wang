@@ -31,6 +31,10 @@
   img: /images/syncthing.png
   description: 多设备文件同步
 - name: OpenList 🆓
-  url: github.com/OpenListTeam/OpenList
+  url: https://github.com/OpenListTeam/OpenList
   img: /images/openlist.png
   description: AList 的社区 fork 版，支持多种云存储的文件列表程序
+- name: Nextcloud
+  url: https://nextcloud.com/
+  img: /images/nextcloud.png
+  description: 自建云存储

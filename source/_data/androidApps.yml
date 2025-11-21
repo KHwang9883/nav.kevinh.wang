@@ -62,34 +62,6 @@
   url: https://apkcombo.com/zh/
   img: /images/apkcombo.png
   description: 第三方 Android 应用市场
-- name: HiSuite 华为手机助手
-  url: https://consumer.huawei.com/cn/support/hisuite/
-  img: /images/hisuite.png
-  description: 华为智能终端管理工具
-- name: 小米互联服务 Windows 版
-  url: https://hyperos.mi.com/continuity/abilities/ab0019
-  img: /images/miconnect.png
-  description: Xiaomi HyperOS 3 设备与 PC 互联
-- name: OPPO 互联
-  url: https://connect.oppo.com/
-  img: /images/oplus.png
-  description: OPPO 设备与 Apple 设备/PC 互联
-- name: vivo 互传
-  url: http://es.vivo.com.cn/
-  img: /images/huchuan.png
-  description: Android 设备互传文件、vivo 一键换机/PC 助手
-- name: vivo 办公套件
-  url: https://quantumkit.vivo.com/
-  img: /images/quantumkit.png
-  description: vivo 跨设备协同工具
-- name: Flyme PC 互联
-  url: https://linkpc.flyme.com/
-  img: /images/flyme.png
-  description: 基于网页端的魅族 PC 互联工具
-- name: KDE Connect 🆓
-  url: https://kdeconnect.kde.org/download.html
-  img: /images/kdeconnect.png
-  description: KDE 出品跨平台协同工具
 - name: Geekbench
   url: https://www.geekbench.com/download/
   img: /images/geekbench.png

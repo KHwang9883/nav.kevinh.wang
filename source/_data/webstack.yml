@@ -52,8 +52,17 @@ menu:
         icon: fas fa-shield-alt
         config: maintainTools
   - name: AI 相关
-    icon: fas fa-toolbox
-    config: aiTools
+    icon: fas fa-brain
+    submenu:
+      - name: 聊天助手
+        icon: far fa-comments
+        config: aiChat
+      - name: 氛围编程
+        icon: far fa-comments
+        config: vibeCoding
+      - name: 生产力
+        icon: fas fa-toolbox
+        config: aiTools
   - name: 游戏相关
     icon: fas fa-gamepad
     submenu:
@@ -105,6 +114,9 @@ menu:
       - name: 安卓应用
         icon: fab fa-google-play
         config: androidApps
+      - name: 生态互联
+        icon: fas fa-infinity
+        config: phoneAssistants
       - name: 安卓玩机
         icon: fas fa-hashtag
         config: androidTools
@@ -114,7 +126,7 @@ menu:
       - name: iOS 工具
         icon: fab fa-apple
         config: iOSTools
-  - name: 最后更新：2025-11-20
+  - name: 最后更新：2025-11-22
     icon: far fa-calendar
 
 about:

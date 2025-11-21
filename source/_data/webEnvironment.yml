@@ -42,10 +42,6 @@
   url: https://hexo.io/
   img: /images/hexo.png
   description: 本站和站长的博客使用的框架
-- name: VuePress 🆓
-  url: https://vuepress.vuejs.org/zh/
-  img: /images/vuepress.png
-  description: Vue 驱动的静态网站生成器
 - name: WordPress 🆓
   url: https://cn.wordpress.org/download/
   img: /images/wordpress.png

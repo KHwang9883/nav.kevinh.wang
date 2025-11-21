@@ -2,10 +2,6 @@
   url: https://www.huorong.cn
   img: /images/huorong.png
   description: 国内屈指可数的不骚扰用户的防病毒软件
-- name: CCleaner
-  url: https://www.ccleaner.com/
-  img: /images/ccleaner.png
-  description: 知名的系统清理工具
 - name: Winaero Tweaker
   url: https://winaerotweaker.com/
   img: /images/winaero.png

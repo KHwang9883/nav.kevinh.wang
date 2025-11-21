@@ -1,51 +1,3 @@
-- name: ChatGPT ✈️
-  url: https://chatgpt.com/
-  img: /images/chatgpt.png
-  description: AI 聊天机器人
-- name: DeepSeek
-  url: https://chat.deepseek.com/
-  img: /images/deepseek.png
-  description: 探索未至之境
-- name: 智谱清言
-  url: https://chatglm.cn/
-  img: /images/chatglm.png
-  description: GLM 千亿参数对话模型
-- name: 文心一言
-  url: https://yiyan.baidu.com/
-  img: /images/yiyan.png
-  description: 百度的 AI 聊天机器人
-- name: 通义
-  url: https://www.tongyi.com/
-  img: /images/tongyi.png
-  description: 阿里巴巴达摩院推出的 AI 大模型
-- name: 腾讯元宝
-  url: https://yuanbao.tencent.com/
-  img: /images/yuanbao.png
-  description: 轻松工作 多点生活
-- name: 豆包
-  url: https://www.doubao.com/
-  img: /images/doubao.png
-  description: 字节跳动旗下 AI 助手
-- name: CodeGeeX 🆓
-  url: https://codegeex.cn/
-  img: /images/codegeex.png
-  description: AI 编程插件
-- name: Fitten Code
-  url: https://code.fittentech.com/
-  img: /images/fitten.png
-  description: AI 编程插件
-- name: 硅基流动 SiliconCloud
-  url: https://siliconflow.cn/zh-cn/siliconcloud
-  img: /images/siliconflow.png
-  description: 高性价比的 GenAI 云服务
-- name: 彩云小梦
-  url: http://if.caiyunai.com/dream/#/
-  img: /images/caiyun.png
-  description: AI 续写
-- name: Hugging Face
-  url: https://huggingface.co/
-  img: /images/huggingface.png
-  description: 开源 AI 模型库
 - name: Ollama 🆓
   url: https://ollama.com/
   img: /images/ollama.png
@@ -66,7 +18,11 @@
   url: https://github.com/RVC-Boss/GPT-SoVITS
   img: /images/sovits.png
   description: 少样本语音转换与语音合成
-- name: AIbase
-  url: https://top.aibase.com/
-  img: /images/aibase.png
-  description: 发现最新最佳 AI 产品
+- name: 硅基流动 SiliconCloud
+  url: https://siliconflow.cn/zh-cn/siliconcloud
+  img: /images/siliconflow.png
+  description: 高性价比的 GenAI 云服务
+- name: Hugging Face
+  url: https://huggingface.co/
+  img: /images/huggingface.png
+  description: 开源 AI 模型库
