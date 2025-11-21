@@ -60,7 +60,7 @@ menu:
       - name: 氛围编程
         icon: fas fa-code
         config: vibeCoding
-      - name: 生产力
+      - name: AI 生产力
         icon: fas fa-toolbox
         config: aiTools
   - name: 游戏相关
