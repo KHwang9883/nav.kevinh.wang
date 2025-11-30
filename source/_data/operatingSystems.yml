@@ -22,9 +22,9 @@
   url: https://www.archlinux.org
   img: /images/archlinux.png
   description: 大道至简的 GNU/Linux 发行版
-- name: Manjaro 🆓
-  url: https://manjaro.org/
-  img: /images/manjaro.png
+- name: EndeavourOS 🆓
+  url: https://endeavouros.com/
+  img: /images/endeavour.webp
   description: 基于 Arch Linux 的 GNU/Linux 发行版
 - name: deepin 🆓
   url: https://www.deepin.org/zh/download/
