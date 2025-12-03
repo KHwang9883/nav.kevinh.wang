@@ -14,10 +14,10 @@
   url: https://yiyan.baidu.com/
   img: /images/yiyan.png
   description: 百度的 AI 聊天机器人
-- name: 通义
-  url: https://www.tongyi.com/
+- name: 千问
+  url: https://www.qianwen.com/
   img: /images/tongyi.png
-  description: 阿里巴巴达摩院推出的 AI 大模型
+  description: 阿里巴巴通义千问 Qwen 模型
 - name: 腾讯元宝
   url: https://yuanbao.tencent.com/
   img: /images/yuanbao.png
