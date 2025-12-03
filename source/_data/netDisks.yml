@@ -2,7 +2,7 @@
   url: https://pan.baidu.com/download
   img: /images/baidupan.png
   description: 用户量大的网盘
-- name: 123 云盘
+- name: 123 云盘 🔥
   url: https://www.123pan.com/Downloadclient?type=Pc
   img: /images/123pan.png
   description: 免费大容量高速云盘
@@ -30,7 +30,7 @@
   url: https://syncthing.net/
   img: /images/syncthing.png
   description: 多设备文件同步
-- name: OpenList 🆓
+- name: OpenList 🆓🔥
   url: https://github.com/OpenListTeam/OpenList
   img: /images/openlist.png
   description: AList 的社区 fork 版，支持多种云存储的文件列表程序

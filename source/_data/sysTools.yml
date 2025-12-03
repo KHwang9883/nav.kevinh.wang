@@ -6,7 +6,7 @@
   url: https://www.huorong.cn/app_store.html
   img: /images/hrappstore.png
   description: 一站式管理应用软件
-- name: UniGetUI 🆓
+- name: UniGetUI 🆓🔥
   url: https://github.com/marticliment/UniGetUI
   img: /images/unigetui.png
   description: winget 及众多包管理器的图形化界面
@@ -18,7 +18,7 @@
   url: https://www.7-zip.org/
   img: /images/7zip.png
   description: 开源压缩软件
-- name: Everything
+- name: Everything 🔥
   url: https://www.voidtools.com/zh-cn/downloads/
   img: /images/everything.png
   description: 文件查找利器
@@ -26,23 +26,23 @@
   url: https://www.freedownloadmanager.org/zh/
   img: /images/fdm.png
   description: 全能下载工具
-- name: Motrix 🆓
+- name: Motrix 🆓⏹️
   url: https://motrix.app/zh-CN/
   img: /images/motrix.png
   description: 全能下载工具
-- name: ExplorerPatcher 🆓
+- name: ExplorerPatcher 🆓⏹️
   url: https://github.com/valinet/ExplorerPatcher
   img: /images/fileexplorer.png
   description: Windows 文件资源管理器体验增强
-- name: TranslucentTB 🆓
+- name: TranslucentTB 🆓⏹️
   url: https://github.com/TranslucentTB/TranslucentTB
   img: /images/translucenttb.png
   description: 使任务栏透明
-- name: DesktopClock 🆓
+- name: DesktopClock 🆓⏹️
   url: https://github.com/danielchalmers/DesktopClock
   img: /images/desktopclock.png
   description: 简易桌面时钟
-- name: MacType 🆓
+- name: MacType 🆓⏹️
   url: https://www.mactype.net/
   img: /images/mactype.png
   description: 优化 Windows 字体渲染
@@ -50,15 +50,15 @@
   url: https://hipc.cn/
   img: /images/hipc.png
   description: 用手机，远程监视与控制 PC
-- name: Sunshine 基地版 🆓
+- name: Sunshine 基地版 🆓🔥
   url: https://github.com/qiin2333/Sunshine-Foundation
   img: /images/sunshine.png
   description: Sunshine 的修改版，配合 Moonlight V+ 使用
-- name: spacedesk
+- name: spacedesk ⏹️
   url: https://www.spacedesk.net/
   img: /images/spacedesk.png
   description: 使你的其他设备变身 Windows PC 的扩展显示器
-- name: Parsec
+- name: Parsec ⏹️
   url: https://parsec.app/
   img: /images/parsec.png
   description: P2P + 低延迟的远控软件

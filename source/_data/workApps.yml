@@ -2,11 +2,11 @@
   url: https://www.office.com/
   img: /images/office.png
   description: 首选办公软件
-- name: WPS Office
+- name: WPS Office ⏹️
   url: https://platform.wps.cn/
   img: /images/wps.png
   description: 国产办公软件
-- name: 腾讯文档
+- name: 腾讯文档 🔥
   url: https://docs.qq.com/home/download
   img: /images/tdocs.png
   description: 支持协作的文档软件
@@ -14,7 +14,7 @@
   url: https://www.u.tools/
   img: /images/utools.png
   description: 新一代效率工具平台
-- name: Obsidian
+- name: Obsidian ⏹️
   url: https://obsidian.md/
   img: /images/obsidian.png
   description: 知识库管理软件
@@ -26,7 +26,7 @@
   url: https://pandoc.org/
   img: /images/github.png
   description: 文档格式转换工具
-- name: 万彩办公大师
+- name: 万彩办公大师 ⏹️
   url: http://www.wofficebox.com/
   img: /images/officebox.png
   description: 办公必备的小工具百宝箱

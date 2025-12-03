@@ -2,7 +2,7 @@
   url: https://visualstudio.microsoft.com/zh-hans/vs/
   img: /images/visualstudio.png
   description: 地表最硬 IDE
-- name: Visual Studio Code
+- name: Visual Studio Code 🔥
   url: https://code.visualstudio.com/
   img: /images/vscode.png
   description: 强大的代码编辑器
@@ -10,11 +10,11 @@
   url: https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701
   img: /images/terminal.png
   description: 新版 Windows 终端
-- name: Android Studio 🆓
+- name: Android Studio 🆓⏹️
   url: https://developer.android.com/studio?hl=zh-cn
   img: /images/androidstudio.png
   description: 官方 Android IDE
-- name: GitHub Desktop 🆓
+- name: GitHub Desktop 🆓🔥
   url: https://desktop.github.com/
   img: /images/githubdesktop.png
   description: 官方 GitHub 桌面用户端
@@ -26,7 +26,7 @@
   url: https://www.jetbrains.com/zh-cn/ides/
   img: /images/jetbrains.png
   description: 量身定制的针对特定语言的开发者体验
-- name: WinSCP 🆓
+- name: WinSCP 🆓🔥
   url: https://winscp.net/eng/download.php
   img: /images/winscp.png
   description: 可视化管理远程主机文件
@@ -42,7 +42,7 @@
   url: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
   img: /images/vmware.png
   description: VMware 虚拟机
-- name: VirtualBox 🆓
+- name: VirtualBox 🆓⏹️
   url: https://www.virtualbox.org/wiki/Downloads
   img: /images/virtualbox.png
   description: Oracle 虚拟机

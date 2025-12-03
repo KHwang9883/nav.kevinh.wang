@@ -1,4 +1,4 @@
-- name: 网易云音乐
+- name: 网易云音乐 🔥
   url: https://music.163.com/#/download
   img: /images/cloudmusic.png
   description: 音乐的力量
@@ -6,7 +6,7 @@
   url: https://y.qq.com/download/download.html
   img: /images/qqmusic.png
   description: 国内用户量第一的音乐软件
-- name: foobar2000
+- name: foobar2000 🔥
   url: http://www.foobar2000.org/download
   img: /images/foobar.png
   description: 可扩展的音乐播放器
@@ -14,7 +14,7 @@
   url: https://www.apple.com.cn/itunes/
   img: /images/itunes.png
   description: Apple Music
-- name: Honeyview
+- name: Honeyview ⏹️
   url: http://cn.bandisoft.com/honeyview/
   img: /images/honeyview.png
   description: 支持众多格式的看图软件
@@ -34,11 +34,11 @@
   url: https://github.com/qier222/YesPlayMusic
   img: /images/yesplaymusic.png
   description: 第三方网易云音乐用户端
-- name: Listen1 🆓
+- name: Listen1 🆓⏹️
   url: https://listen1.github.io/listen1/
   img: /images/listen1.png
   description: 多平台聚合音乐播放器
-- name: 洛雪音乐助手 🆓
+- name: 洛雪音乐助手 🆓⏹️
   url: https://github.com/lyswhut/lx-music-desktop
   img: /images/lx.png
   description: 下载无损歌曲

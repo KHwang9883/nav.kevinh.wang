@@ -1,8 +1,8 @@
-- name: Steam
+- name: Steam 🔥
   url: https://store.steampowered.com/about/
   img: /images/steam.png
   description: 顶级在线游戏平台
-- name: Epic Games
+- name: Epic Games 🔥
   url: https://www.epicgames.com/store/zh-CN/
   img: /images/epic.png
   description: 每周都有喜加一
@@ -18,7 +18,7 @@
   url: https://zh-cn.ubisoft.com/uplay
   img: /images/uplay.png
   description: 育碧游戏平台
-- name: 暴雪战网
+- name: 暴雪战网 ⏹️
   url: https://download.battlenet.com.cn/zh-cn/
   img: /images/battlenet.png
   description: 暴雪游戏平台

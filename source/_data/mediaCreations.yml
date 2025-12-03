@@ -6,7 +6,7 @@
   url: https://www.gimp.org/
   img: /images/gimp.png
   description: 开源修图软件
-- name: paint.net
+- name: paint.net ⏹️
   url: https://www.dotpdn.com/downloads/pdn.html
   img: /images/pdn.png
   description: 免费画图软件
@@ -42,7 +42,7 @@
   url: https://www.screentogif.com/downloads
   img: /images/stg.png
   description: 录屏或视频转 Gif
-- name: File Converter 🆓
+- name: File Converter 🆓🔥
   url: https://github.com/Tichau/FileConverter
   img: /images/converter.png
   description: 右键菜单转换媒体文件格式
