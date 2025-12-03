@@ -13,7 +13,7 @@
 - name: Debian 🆓
   url: https://www.debian.org/
   img: /images/debian.png
-  description: 自由的 GNU/Linux 发行版，为本人 VPS 所采用
+  description: 稳定、自由的 GNU/Linux 发行版，为本人 VPS 所采用
 - name: Ubuntu 🆓
   url: https://ubuntu.com/download
   img: /images/ubuntu.png
