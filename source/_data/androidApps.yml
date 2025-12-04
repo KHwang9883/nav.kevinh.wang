@@ -2,15 +2,15 @@
   url: https://github.com/LibChecker/LibChecker
   img: /images/libchecker.png
   description: 查看本机 Android 应用架构与第三方库
-- name: MT 管理器
+- name: MT 管理器 🔥
   url: https://mt2.cn/
   img: /images/mt.png
   description: 文件管理器 + APK 逆向工具
-- name: Via 🆓
+- name: Via 🆓🔥
   url: https://viayoo.com/zh-cn/
   img: /images/via.png
   description: 轻量、简约的浏览器
-- name: Moonlight V+ 威力加强版 🆓
+- name: Moonlight V+ 威力加强版 🆓🔥
   url: https://github.com/qiin2333/moonlight-vplus
   img: /images/moonlight.png
   description: Moonlight 的修改版，配合 Sunshine 基地版使用
@@ -18,7 +18,7 @@
   url: https://www.woobx.cn/
   img: /images/woodbox.png
   description: 多功能效率工具箱
-- name: Flix
+- name: Flix ⏹️
   url: https://flix.center/
   img: /images/flix.png
   description: 像聊天一样传文件
@@ -26,7 +26,7 @@
   url: https://www.smartisan.com/apps/#/notes
   img: /images/smartisannotes.png
   description: 可能是史上最漂亮的便签应用
-- name: gkd 🆓
+- name: gkd 🆓⏹️
   url: https://gkd.li/
   img: /images/gkd.png
   description: 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP
@@ -38,7 +38,7 @@
   url: https://play.google.com/store/apps/details?id=com.sonelli.juicessh
   img: /images/juicessh.png
   description: Android SSH 用户端
-- name: AppShare
+- name: AppShare 🔥
   url: https://appshare.muge.info/
   img: /images/appshare.png
   description: 第三方 APP 分享平台
