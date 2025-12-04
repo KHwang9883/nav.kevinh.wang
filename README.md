@@ -1,10 +1,19 @@
 # Kevin Huang 的导航站
 
-Kevin Huang 的导航站计划收录我本人使用的一些软件和游戏的下载地址，以及一些常用的网址链接。
+Kevin Huang 的导航站收录了我本人常用的一些软件和游戏的官方地址，以及一些我收藏或推荐的网址链接。
 
 导航站地址：https://nav.kevinh.wang/
 
-导航站部分灵感/图标来源于 [狼导 - 音速装机](https://sonic.volf.club/)，使用的框架是 [hexo-theme-webstack](https://github.com/HCLonely/hexo-theme-webstack/)。
+导航站灵感/部分应用图标来源于 [狼导 - 音速装机](https://sonic.volf.club/)，使用的主题是 [hexo-theme-webstack](https://github.com/HCLonely/hexo-theme-webstack/)。
+
+## 标识含义
+
+- 标有🆓的均为自由/开源软件（FREE 表示「自由」而非「免费」）
+- 标有🔥的软件为本人常用（「主力」级别）且特别推荐的软件
+- 标有💲的均为买断制收费软件（Adobe Creative Cloud 为例外，其不是买断制但有此标注）
+- 标有⏹️的软件为我有段时间未使用且可能已被卸载，但仍作为推荐列出
+- 标有👤的均为本人参与或有直接关联的项目/网站
+- 标有✈️的表示需借助代理等手段访问，✈️❓表示可能需借助代理也可能直连即可访问
 
 ## 发现有所缺失？
 
