@@ -49,11 +49,15 @@
 - name: Node.js 🆓
   url: https://nodejs.org/zh-cn/
   img: /images/nodejs.png
-  description: Javascript 运行时
+  description: JavaScript 运行时
 - name: fnm 🆓
   url: https://github.com/Schniz/fnm
   img: /images/nodejs.png
   description: Node.js 版本管理
+- name: Bun 🆓
+  url: https://bun.com/
+  img: /images/bun.png
+  description: 新 JavaScript 运行时
 - name: Python 🆓
   url: https://www.python.org/downloads/
   img: /images/python.png
