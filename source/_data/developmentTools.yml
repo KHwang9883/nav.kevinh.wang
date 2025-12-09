@@ -34,7 +34,7 @@
   url: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
   img: /images/putty.png
   description: SSH 连接远程主机
-- name: FinalShell
+- name: FinalShell ⏹️
   url: https://www.hostbuf.com/t/988.html
   img: /images/finalshell.png
   description: 多功能运维工具
@@ -50,7 +50,7 @@
   url: https://nodejs.org/zh-cn/
   img: /images/nodejs.png
   description: JavaScript 运行时
-- name: fnm 🆓
+- name: fnm 🆓⏹️
   url: https://github.com/Schniz/fnm
   img: /images/nodejs.png
   description: Node.js 版本管理
