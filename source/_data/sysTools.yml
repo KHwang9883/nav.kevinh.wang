@@ -30,6 +30,10 @@
   url: https://motrix.app/zh-CN/
   img: /images/motrix.png
   description: 全能下载工具
+- name: Wallpaper Engine 💲
+  url: https://store.steampowered.com/app/431960/
+  img: /images/wallpaper.webp
+  description: 不止壁纸自定义
 - name: ExplorerPatcher 🆓⏹️
   url: https://github.com/valinet/ExplorerPatcher
   img: /images/fileexplorer.png
