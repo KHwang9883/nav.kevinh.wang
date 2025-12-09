@@ -1,4 +1,4 @@
-- name: winget
+- name: winget 🔥
   url: https://docs.microsoft.com/zh-cn/windows/package-manager/winget/
   img: /images/winget.png
   description: 一条命令即可安装 Windows 程序
@@ -14,7 +14,7 @@
   url: https://github.com/microsoft/PowerToys/releases
   img: /images/powertoys.png
   description: 🆓微软出品系统增强工具
-- name: 7-Zip 🆓
+- name: 7-Zip 🆓🔥
   url: https://www.7-zip.org/
   img: /images/7zip.png
   description: 开源压缩软件

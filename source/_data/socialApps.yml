@@ -2,10 +2,6 @@
   url: https://www.mozilla.org/zh-CN/firefox/
   img: /images/firefox.png
   description: 站长正在使用的浏览器
-- name: Vivaldi
-  url: https://vivaldi.com/zh-hans/download/
-  img: /images/vivaldi.png
-  description: 可自由定制的浏览器
 - name: Microsoft Edge
   url: https://www.microsoft.com/zh-cn/edge
   img: /images/edge.png

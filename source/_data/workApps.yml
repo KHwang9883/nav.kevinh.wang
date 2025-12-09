@@ -10,6 +10,10 @@
   url: https://docs.qq.com/home/download
   img: /images/tdocs.png
   description: 支持协作的文档软件
+- name: Notepad3 🆓
+  url: https://github.com/rizonesoft/Notepad3
+  img: /images/notepad3.png
+  description: 记事本替代品
 - name: uTools
   url: https://www.u.tools/
   img: /images/utools.png
