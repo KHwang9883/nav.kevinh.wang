@@ -22,7 +22,7 @@
   url: https://shizuku.rikka.app/
   img: /images/shizuku.png
   description: 通过 adb/root 权限直接使用系统 API
-- name: Termux 🆓
+- name: Termux 🆓🔥
   url: https://termux.dev/
   img: /images/termux.png
   description: 终端模拟器 + Linux 环境

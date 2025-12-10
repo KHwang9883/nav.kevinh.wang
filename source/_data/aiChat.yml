@@ -1,7 +1,7 @@
 - name: ChatGPT ✈️
   url: https://chatgpt.com/
   img: /images/chatgpt.png
-  description: AI 聊天机器人
+  description: OpenAI 聊天机器人
 - name: DeepSeek
   url: https://chat.deepseek.com/
   img: /images/deepseek.png
