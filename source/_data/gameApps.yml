@@ -2,10 +2,6 @@
   url: https://www.minecraft.net/zh-hans/get-minecraft
   img: /images/minecraft.png
   description: 流行像素风游戏
-- name: 原神
-  url: https://ys.mihoyo.com/
-  img: /images/genshin.png
-  description: 开放世界大型游戏
 - name: 糖豆人
   url: https://www.fallguys.com/
   img: /images/fallguys.png
