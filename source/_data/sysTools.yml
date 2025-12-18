@@ -30,6 +30,10 @@
   url: https://motrix.app/zh-CN/
   img: /images/motrix.png
   description: 全能下载工具
+- name: qBittorrent 🆓
+  url: https://www.qbittorrent.org/download
+  img: /images/qbittorrent.png
+  description: BT 下载工具
 - name: Wallpaper Engine 💲
   url: https://store.steampowered.com/app/431960/
   img: /images/wallpaper.webp

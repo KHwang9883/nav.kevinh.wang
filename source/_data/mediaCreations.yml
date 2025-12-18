@@ -14,6 +14,10 @@
   url: https://pixpin.cn/
   img: /images/pixpin.png
   description: 强大且免费的截图贴图工具
+- name: ShareX 🆓
+  url: https://getsharex.com/
+  img: /images/sharex.png
+  description: 多功能开源截图工具
 - name: DaVinci Resolve
   url: https://www.blackmagicdesign.com/cn/products/davinciresolve/
   img: /images/davinci.png
