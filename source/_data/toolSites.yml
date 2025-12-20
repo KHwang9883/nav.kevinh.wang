@@ -1,11 +1,11 @@
-- name: winstall
-  url: https://winstall.app/
-  img: /images/winstall.png
-  description: 生成 winget 一键安装脚本
 - name: winget.run
   url: https://winget.run/
   img: /images/winget.run.png
   description: 在线搜索 winget 软件包
+- name: winstall
+  url: https://winstall.app/
+  img: /images/winstall.png
+  description: 生成 winget 一键安装脚本
 - name: LDTools
   url: https://tool.pc.wiki/
   img: /images/laodi.png

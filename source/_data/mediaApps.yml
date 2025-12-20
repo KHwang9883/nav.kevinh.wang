@@ -14,10 +14,6 @@
   url: https://www.apple.com.cn/itunes/
   img: /images/itunes.png
   description: Apple Music
-- name: Honeyview ⏹️
-  url: http://cn.bandisoft.com/honeyview/
-  img: /images/honeyview.png
-  description: 支持众多格式的看图软件
 - name: 哔哩哔哩
   url: https://app.bilibili.com/
   img: /images/bili.png
