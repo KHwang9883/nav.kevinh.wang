@@ -70,10 +70,6 @@
   url: https://uptimerobot.com/
   img: /images/uptimerobot.png
   description: 网站在线状态监测
-- name: BestTrace
-  url: https://www.ipip.net/product/client.html
-  img: /images/besttrace.png
-  description: 发起 traceroute 请求，附带链路可视化
 - name: 百度贴吧云签到
   url: https://github.com/MoeNetwork/Tieba-Cloud-Sign
   img: /images/cloudsign.png

@@ -54,6 +54,10 @@
   url: https://u.sb/
   img: /images/u.sb.png
   description: 专注于服务器运维的博客
+- name: DigVPS
+  url: https://digvps.com/
+  img: /images/digvps.png
+  description: 专注 VPS 测评
 - name: Topbook
   url: https://topbook.cc
   img: /images/topbook.png
