@@ -38,6 +38,14 @@
   url: https://www.raspberrypi.org/software/operating-systems/
   img: /images/raspi.png
   description: 树莓派官方系统，基于 Debian
+- name: Armbian 🆓
+  url: https://www.armbian.com/download/
+  img: /images/armbian.png
+  description: 适配 ARM 开发板的 GNU/Linux
+- name: Amlogic-s9xxx-armbian 🆓
+  url: https://github.com/ophub/amlogic-s9xxx-armbian
+  img: /images/armbian.png
+  description: 为 Amlogic、Rockchip 和 Allwinner 盒子构建的 Armbian
 - name: 飞牛私有云 fnOS
   url: https://fnnas.com/download
   img: /images/fnos.png
@@ -46,6 +54,10 @@
   url: https://pve.proxmox.com/wiki/Downloads
   img: /images/proxmox.png
   description: 开源虚拟化平台
+- name: Kwrt
+  url: https://openwrt.ai/
+  img: /images/kwrt.png
+  description: OpenWrt 固件下载与在线定制编译
 - name: 清华大学开源软件镜像站
   url: https://mirrors.tuna.tsinghua.edu.cn/
   img: /images/tuna.png
@@ -54,7 +66,3 @@
   url: http://mirrors.ustc.edu.cn/
   img: /images/ustc.png
   description: USTC open source software mirror
-- name: Kwrt
-  url: https://openwrt.ai/
-  img: /images/kwrt.png
-  description: 软路由固件下载与在线定制编译
