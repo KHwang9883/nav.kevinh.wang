@@ -2,10 +2,6 @@
   url: https://www.office.com/
   img: /images/office.png
   description: 首选办公软件
-- name: WPS Office ⏹️
-  url: https://platform.wps.cn/
-  img: /images/wps.png
-  description: 国产办公软件
 - name: 腾讯文档 🔥
   url: https://docs.qq.com/home/download
   img: /images/tdocs.png
