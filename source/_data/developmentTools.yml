@@ -62,6 +62,10 @@
   url: https://www.python.org/downloads/
   img: /images/python.png
   description: 流行的编程语言
+- name: pyenv 🆓
+  url: https://github.com/pyenv/pyenv
+  img: /images/python.png
+  description: Python 多版本管理
 - name: Java
   url: https://java.com/zh-CN/download/
   img: /images/java.png
