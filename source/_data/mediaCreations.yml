@@ -6,6 +6,10 @@
   url: https://www.gimp.org/
   img: /images/gimp.png
   description: 开源修图软件
+- name: Affinity
+  url: https://www.affinity.studio/download
+  img: /images/affinity.png
+  description: 修图设计软件
 - name: paint.net ⏹️
   url: https://www.dotpdn.com/downloads/pdn.html
   img: /images/pdn.png
