@@ -54,6 +54,10 @@
   url: https://www.mediacoderhq.com/
   img: /images/mcoder.png
   description: 不止是音视频转码器
+- name: FFmpeg 🆓
+  url: https://www.ffmpeg.org/download.html
+  img: /images/ffmpeg.png
+  description: 跨平台媒体文件格式处理
 - name: 小丸工具箱
   url: https://maruko.appinn.me/
   img: /images/maruko.png

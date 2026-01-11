@@ -1,28 +1,36 @@
-- name: Cursor
-  url: https://www.cursor.com/
-  img: /images/cursor.png
-  description: AI IDE
-- name: Windsurf
-  url: https://windsurf.com/editor
-  img: /images/windsurf.png
-  description: AI IDE
+- name: OpenCode 🆓
+  url: https://opencode.ai/
+  img: /images/opencode.png
+  description: 开源 Agent 编程工具
 - name: Trae 🔥
   url: https://www.trae.ai/
   img: /images/trae.png
-  description: 字节跳动的 AI IDE
+  description: 字节跳动 AI IDE
 - name: Trae CN 🔥
   url: https://www.trae.cn/
   img: /images/trae.png
-  description: 字节跳动的 AI IDE
-- name: CodeBuddy
-  url: https://copilot.tencent.com/
-  img: /images/codebuddy.png
-  description: 腾讯云 AI 编程插件/IDE
+  description: 字节跳动 AI IDE
+- name: Cursor ⏹️
+  url: https://www.cursor.com/
+  img: /images/cursor.png
+  description: 知名 AI IDE
+- name: Windsurf ⏹️
+  url: https://windsurf.com/editor
+  img: /images/windsurf.png
+  description: 知名 AI IDE
 - name: CodeGeeX 🆓
   url: https://codegeex.cn/
   img: /images/codegeex.png
-  description: AI 编程插件
-- name: Fitten Code
+  description: 智谱 Agent 编程插件
+- name: CodeBuddy
+  url: https://copilot.tencent.com/
+  img: /images/codebuddy.png
+  description: 腾讯云 Agent 编程插件/IDE
+- name: 通义灵码
+  url: https://lingma.aliyun.com/
+  img: /images/tongyi.png
+  description: 阿里云 Agent 编程插件
+- name: Fitten Code ⏹️
   url: https://code.fittentech.com/
   img: /images/fitten.png
-  description: AI 编程插件
+  description: 非十科技 Agent 编程插件
