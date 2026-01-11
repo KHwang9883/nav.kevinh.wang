@@ -58,8 +58,8 @@
   url: https://hipc.cn/
   img: /images/hipc.png
   description: 用手机，远程监视与控制 PC
-- name: Sunshine 基地版 🆓🔥
-  url: https://github.com/qiin2333/Sunshine-Foundation
+- name: Foundation Sunshine 🆓🔥
+  url: https://github.com/qiin2333/foundation-sunshine
   img: /images/sunshine.png
   description: Sunshine 的修改版，配合 Moonlight V+ 使用
 - name: spacedesk ⏹️
