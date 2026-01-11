@@ -30,3 +30,7 @@
   url: http://if.caiyunai.com/dream/#/
   img: /images/caiyun.png
   description: AI 续写
+- name: RikkaHub 🆓
+  url: https://rikka-ai.com/download
+  img: /images/rikkahub.png
+  description: 支持多种模型供应商的 LLM 客户端 (Android)
