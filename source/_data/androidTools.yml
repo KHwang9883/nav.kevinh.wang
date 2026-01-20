@@ -7,13 +7,17 @@
   img: /images/magisk.png
   description: Android 的魔法面具
 - name: Magisk Alpha
-  url: https://install.appcenter.ms/users/vvb2060/apps/magisk/distribution_groups/public
+  url: https://mrzzoxo.lanzoue.com/b0zk06l6j
   img: /images/magisk.png
   description: Magisk 增强版
 - name: KernelSU 🆓
   url: https://kernelsu.org/zh_CN/
   img: /images/kernelsu.png
   description: Android 上的内核级的 root 方案
+- name: SukiSU-Ultra 🆓
+  url: https://sukisu.org/zh/
+  img: /images/sukisu.png
+  description: 新一代的 Android Root 方案
 - name: APatch 🆓
   url: https://github.com/bmax121/APatch
   img: /images/apatch.png
