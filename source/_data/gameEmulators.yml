@@ -46,10 +46,6 @@
   url: https://eden-emu.dev/
   img: /images/eden.webp
   description: Nintendo Switch 模拟器
-- name: Citron 🆓
-  url: https://citron-emu.org/
-  img: /images/citron.png
-  description: Nintendo Switch 模拟器
 - name: PPSSPP 🆓
   url: https://www.ppsspp.org/
   img: /images/ppsspp.png
