@@ -94,6 +94,10 @@
   url: https://tiermaker.com/
   img: /images/tiermaker.png
   description: 在线排名制作工具
+- name: Paste to markdown
+  url: https://www.pastetomarkdown.com/
+  img: /image/markdown.png
+  description: 轻松粘贴并转换为 Markdown 格式
 - name: excel2wiki
   url: https://excel2wiki.toolforge.org/
   img: /images/excel2wiki.png
