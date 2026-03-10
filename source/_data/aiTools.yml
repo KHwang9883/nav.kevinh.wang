@@ -6,6 +6,10 @@
   url: https://openclaw.ai/
   img: /images/openclaw.png
   description: 开源 Agent AI 助手
+- name: ClawHub
+  url: https://clawhub.ai/
+  img: /images/openclaw.png
+  description: OpenClaw skills 平台
 - name: Ollama 🆓⏹️
   url: https://ollama.com/
   img: /images/ollama.png
