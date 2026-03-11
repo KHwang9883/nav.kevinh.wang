@@ -86,6 +86,10 @@
   url: https://testufo.com/
   img: /images/ufotest.png
   description: 检测显示器刷新率
+- name: WhatIsMyBrowser.com
+  url: https://www.whatismybrowser.com/
+  img: whatbrowser.png
+  description: 查看浏览器信息
 - name: 煎饼搜音乐下载网
   url: https://www.jbsou.cn/
   img: /images/jbsou.png
