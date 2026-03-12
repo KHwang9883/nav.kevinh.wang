@@ -114,3 +114,7 @@
   url: https://lospec.com/
   img: /images/lospec.png
   description: 像素画/调色板分享站
+- name: UI Colors
+  url: https://uicolors.app/
+  img: /images/uicolors.png
+  description: Tailwind CSS 调色盘生成器
