@@ -88,7 +88,7 @@
   description: 检测显示器刷新率
 - name: WhatIsMyBrowser.com
   url: https://www.whatismybrowser.com/
-  img: whatbrowser.png
+  img: /images/whatbrowser.png
   description: 查看浏览器信息
 - name: 煎饼搜音乐下载网
   url: https://www.jbsou.cn/
@@ -100,7 +100,7 @@
   description: 在线排名制作工具
 - name: Paste to markdown
   url: https://www.pastetomarkdown.com/
-  img: /image/markdown.png
+  img: /images/markdown.png
   description: 轻松粘贴并转换为 Markdown 格式
 - name: excel2wiki
   url: https://excel2wiki.toolforge.org/
