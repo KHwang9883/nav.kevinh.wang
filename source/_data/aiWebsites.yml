@@ -1,0 +1,28 @@
+- name: ClawHub
+  url: https://clawhub.ai/
+  img: /images/openclaw.png
+  description: OpenClaw skills 平台
+- name: SkillHub
+  url: https://skillhub.tencent.com/
+  img: /images/skillhub.png
+  description: 腾讯的 ClawHub 同步站
+- name: Hugging Face
+  url: https://huggingface.co/
+  img: /images/huggingface.png
+  description: 开源 AI 模型库
+- name: 硅基流动 SiliconCloud
+  url: https://siliconflow.cn/zh-cn/siliconcloud
+  img: /images/siliconflow.png
+  description: 高性价比的 GenAI 云服务
+- name: 超算互联网
+  url: https://www.scnet.cn/ui/mall/
+  img: /images/scnet.png
+  description: 国家超算互联网平台
+- name: 彩云小梦
+  url: http://if.caiyunai.com/dream/#/
+  img: /images/caiyun.png
+  description: AI 续写
+- name: AIbase
+  url: https://top.aibase.com/
+  img: /images/aibase.png
+  description: 发现最新最佳 AI 产品

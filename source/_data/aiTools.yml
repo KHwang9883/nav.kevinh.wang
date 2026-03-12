@@ -6,10 +6,6 @@
   url: https://openclaw.ai/
   img: /images/openclaw.png
   description: 开源 Agent AI 助手
-- name: ClawHub
-  url: https://clawhub.ai/
-  img: /images/openclaw.png
-  description: OpenClaw skills 平台
 - name: Ollama 🆓⏹️
   url: https://ollama.com/
   img: /images/ollama.png
@@ -26,11 +22,3 @@
   url: https://github.com/RVC-Boss/GPT-SoVITS
   img: /images/sovits.png
   description: 少样本语音转换与语音合成
-- name: 硅基流动 SiliconCloud
-  url: https://siliconflow.cn/zh-cn/siliconcloud
-  img: /images/siliconflow.png
-  description: 高性价比的 GenAI 云服务
-- name: Hugging Face
-  url: https://huggingface.co/
-  img: /images/huggingface.png
-  description: 开源 AI 模型库
