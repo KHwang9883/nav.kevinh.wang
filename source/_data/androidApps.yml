@@ -38,6 +38,10 @@
   url: https://play.google.com/store/apps/details?id=com.sonelli.juicessh
   img: /images/juicessh.png
   description: Android SSH 用户端
+- name: Stratum 🆓
+  url: https://github.com/stratumauth/app
+  img: /image/stratum.png
+  description: 开源 2FA 验证器 app
 - name: AppShare 🔥
   url: https://appshare.muge.info/
   img: /images/appshare.png
@@ -74,7 +78,7 @@
   url: https://epcdiy.org
   img: /images/byakugan.png
   description: 山寨机跑分、甄别工具
-- name: Google Camera Ports Download
+- name: GCam Hub
   url: https://www.celsoazevedo.com/files/android/google-camera/
   img: /images/gcam.png
   description: Google 相机机型适配
