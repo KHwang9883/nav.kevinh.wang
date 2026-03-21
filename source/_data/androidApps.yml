@@ -40,7 +40,7 @@
   description: Android SSH 用户端
 - name: Stratum 🆓
   url: https://github.com/stratumauth/app
-  img: /image/stratum.png
+  img: /images/stratum.png
   description: 开源 2FA 验证器 app
 - name: AppShare 🔥
   url: https://appshare.muge.info/
