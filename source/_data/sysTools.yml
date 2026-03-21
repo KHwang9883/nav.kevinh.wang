@@ -30,7 +30,7 @@
   url: https://motrix.app/zh-CN/
   img: /images/motrix.png
   description: 全能下载工具
-- name: qBittorrent 🆓
+- name: qBittorrent 🆓⏹️
   url: https://www.qbittorrent.org/download
   img: /images/qbittorrent.png
   description: BT 下载工具
@@ -90,6 +90,10 @@
   url: http://www.ffhome.com/works/1406.html
   img: /images/feifei.png
   description: 强大的批量重命名工具
+- name: Bitwarden 🆓
+  url: https://bitwarden.com/
+  img: /images/bitwarden.png
+  description: 跨平台密码管理器
 - name: Tailscale 🆓
   url: https://tailscale.com/download/
   img: /images/tailscale.png
