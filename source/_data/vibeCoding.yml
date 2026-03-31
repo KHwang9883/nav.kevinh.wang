@@ -1,3 +1,7 @@
+- name: Codex
+  url: https://openai.com/zh-Hans-CN/codex/
+  img: /images/codex.png
+  description: OpenAI Agent 编程工具
 - name: OpenCode 🆓
   url: https://opencode.ai/
   img: /images/opencode.png
