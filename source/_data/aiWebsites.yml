@@ -10,6 +10,18 @@
   url: https://huggingface.co/
   img: /images/huggingface.png
   description: 开源 AI 模型库
+- name: Xiaomi MiMo
+  url: https://mimo.xiaomi.com/zh/
+  img: /images/xiaomimimo.png
+  description: Xiaomi MiMo 大模型
+- name: 智谱开放平台
+  url: https://bigmodel.cn/
+  img: /images/zai.png
+  description: 智谱 GLM 大模型
+- name: MiniMax
+  url: https://minimaxi.com/
+  img: /images/minimax.png
+  description: MiniMax 大模型
 - name: 硅基流动 SiliconCloud
   url: https://siliconflow.cn/zh-cn/siliconcloud
   img: /images/siliconflow.png
