@@ -7,7 +7,7 @@
   img: /images/hrappstore.png
   description: 一站式管理应用软件
 - name: UniGetUI 🆓🔥
-  url: https://github.com/marticliment/UniGetUI
+  url: https://github.com/Devolutions/UniGetUI
   img: /images/unigetui.png
   description: winget 及众多包管理器的图形化界面
 - name: PowerToys
