@@ -2,14 +2,22 @@
   url: https://chatgpt.com/
   img: /images/chatgpt.png
   description: OpenAI 聊天机器人
-- name: DeepSeek
-  url: https://chat.deepseek.com/
-  img: /images/deepseek.png
-  description: 探索未至之境
+- name: Gemini ✈️
+  url: https://gemini.google.com/
+  img: /images/gemini.png
+  description: Google 聊天机器人
 - name: 智谱清言
   url: https://chatglm.cn/
   img: /images/chatglm.png
   description: GLM 千亿参数对话模型
+- name: DeepSeek
+  url: https://chat.deepseek.com/
+  img: /images/deepseek.png
+  description: 探索未至之境
+- name: 豆包
+  url: https://www.doubao.com/
+  img: /images/doubao.png
+  description: 字节跳动旗下 AI 助手
 - name: 千问
   url: https://www.qianwen.com/
   img: /images/tongyi.png
@@ -18,10 +26,6 @@
   url: https://yuanbao.tencent.com/
   img: /images/yuanbao.png
   description: 轻松工作 多点生活
-- name: 豆包
-  url: https://www.doubao.com/
-  img: /images/doubao.png
-  description: 字节跳动旗下 AI 助手
 - name: 文心一言
   url: https://yiyan.baidu.com/
   img: /images/yiyan.png
