@@ -21,11 +21,15 @@
 - name: HMCL 🆓
   url: http://hmcl.huangyuhui.net/
   img: /images/minecraft.png
-  description: 第三方 Minecraft 启动器
+  description: 第三方 Minecraft Java 版启动器
 - name: Fold Craft Launcher 🆓
   url: https://github.com/FCL-Team/FoldCraftLauncher
   img: /images/fcl.png
-  description: 在 Android 手机上运行 Java 版 Minecraft
+  description: 在 Android 设备上运行 Minecraft Java 版
+- name: Zalith Launcher 🆓
+  url: https://www.zalithlauncher.cn/
+  img: /images/zl2.png
+  description: 在 Android 设备上运行 Minecraft Java 版
 - name: Playnite 🆓
   url: https://playnite.link/
   img: /images/playnite.png
