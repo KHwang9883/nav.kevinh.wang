@@ -14,6 +14,10 @@
   url: https://chat.deepseek.com/
   img: /images/deepseek.png
   description: 探索未至之境
+- name: Xiaomi MiMo Studio
+  url: https://aistudio.xiaomimimo.com/
+  img: /images/xiaomimimo.png
+  description: MiMo Claw + MiMo Chat
 - name: 豆包
   url: https://www.doubao.com/
   img: /images/doubao.png
