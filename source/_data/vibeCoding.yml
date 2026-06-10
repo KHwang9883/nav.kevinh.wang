@@ -1,7 +1,7 @@
 - name: Codex
   url: https://openai.com/zh-Hans-CN/codex/
   img: /images/codex.png
-  description: OpenAI Agent 编程工具
+  description: OpenAI Agent 助手
 - name: OpenCode 🆓
   url: https://opencode.ai/
   img: /images/opencode.png
@@ -9,32 +9,20 @@
 - name: Trae 🔥
   url: https://www.trae.ai/
   img: /images/trae.png
-  description: 字节跳动 AI IDE
+  description: 字节跳动 AI IDE + Agent 工作助手
 - name: Trae CN 🔥
   url: https://www.trae.cn/
   img: /images/trae.png
-  description: 字节跳动 AI IDE
-- name: Cursor ⏹️
-  url: https://www.cursor.com/
-  img: /images/cursor.png
-  description: 知名 AI IDE
-- name: Windsurf ⏹️
-  url: https://windsurf.com/editor
-  img: /images/windsurf.png
-  description: 知名 AI IDE
+  description: 字节跳动 AI IDE + Agent 工作助手
 - name: CodeGeeX 🆓
   url: https://codegeex.cn/
   img: /images/codegeex.png
   description: 智谱 Agent 编程插件
+- name: Qoder
+  url: https://qoder.com/
+  img: /images/qoder.png
+  description: 阿里云 Agent 编程平台
 - name: CodeBuddy
   url: https://copilot.tencent.com/
   img: /images/codebuddy.png
-  description: 腾讯云 Agent 编程插件/IDE
-- name: 通义灵码
-  url: https://lingma.aliyun.com/
-  img: /images/tongyi.png
-  description: 阿里云 Agent 编程插件
-- name: Fitten Code ⏹️
-  url: https://code.fittentech.com/
-  img: /images/fitten.png
-  description: 非十科技 Agent 编程插件
+  description: 腾讯云 Agent 编程平台
