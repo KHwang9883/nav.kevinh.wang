@@ -14,6 +14,10 @@
   url: https://mimo.xiaomi.com/zh/
   img: /images/xiaomimimo.png
   description: Xiaomi MiMo 大模型
+- name: 即梦 AI
+  url: https://jimeng.jianying.com/
+  img: /images/jimeng.png
+  description: 支持 Seedance
 - name: 智谱开放平台
   url: https://bigmodel.cn/
   img: /images/zai.png

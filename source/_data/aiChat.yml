@@ -30,10 +30,6 @@
   url: https://yuanbao.tencent.com/
   img: /images/yuanbao.png
   description: 轻松工作 多点生活
-- name: 文心一言
-  url: https://yiyan.baidu.com/
-  img: /images/yiyan.png
-  description: 百度的 AI 聊天机器人
 - name: RikkaHub 🆓
   url: https://rikka-ai.com/download
   img: /images/rikkahub.png

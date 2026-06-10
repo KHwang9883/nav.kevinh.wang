@@ -6,6 +6,10 @@
   url: https://openclaw.ai/
   img: /images/openclaw.png
   description: 开源 Agent AI 助手
+- name: Hermes Agent 🆓
+  url: https://hermes-agent.nousresearch.com/
+  img: /images/hermesagent.png
+  description: 开源 Agent AI 助手
 - name: Ollama 🆓⏹️
   url: https://ollama.com/
   img: /images/ollama.png
