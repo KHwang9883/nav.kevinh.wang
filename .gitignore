@@ -1,7 +1,28 @@
-.DS_Store
-Thumbs.db
-db.json
+# Nuxt dev/build outputs
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+# Node dependencies
+node_modules
+bun.lockb
+
+# Logs
+logs
 *.log
-node_modules/
-public/
-.deploy*/
+
+# Misc
+.DS_Store
+.fleet
+.idea
+.vscode
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Hexo legacy (keep data and images)

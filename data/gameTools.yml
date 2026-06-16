@@ -1,0 +1,61 @@
+- name: 网易 UU 加速器
+  url: https://uu.163.com/
+  img: /images/uu.png
+  description: 多平台游戏加速器
+- name: 雷神加速器
+  url: https://www.leigod.com/
+  img: /images/leigod.png
+  description: 按小时计费的加速器
+  winget: LeiGod.LeiGodAcc
+- name: Steamcommunity302
+  abandoned: true
+  url: https://www.dogfight360.com/blog/18682/
+  img: /images/steamcommunity.png
+  description: 解决 Steam Community 访问问题
+- name: Watt Toolkit
+  abandoned: true
+  foss: true
+  url: http://steampp.net/
+  img: /images/steampp.png
+  description: 跨平台游戏工具箱
+- name: MCSManager
+  foss: true
+  url: https://github.com/Suwings/MCSManager/
+  img: /images/minecraft.png
+  description: 开箱即用，多实例，轻量级的 Minecraft 服务端管理面板
+- name: HMCL
+  foss: true
+  url: http://hmcl.huangyuhui.net/
+  img: /images/minecraft.png
+  description: 第三方 Minecraft Java 版启动器
+  winget: HMCL.HMCL.Stable
+- name: Fold Craft Launcher
+  foss: true
+  url: https://github.com/FCL-Team/FoldCraftLauncher
+  img: /images/fcl.png
+  description: 在 Android 设备上运行 Minecraft Java 版
+- name: Zalith Launcher
+  foss: true
+  url: https://www.zalithlauncher.cn/
+  img: /images/zl2.png
+  description: 在 Android 设备上运行 Minecraft Java 版
+- name: Playnite
+  foss: true
+  url: https://playnite.link/
+  img: /images/playnite.png
+  description: 多平台聚合游戏管理器
+  winget: Playnite.Playnite
+- name: 植僵工具箱
+  url: https://pvz.lmintlcx.com/
+  img: /images/pvz.png
+  description: 植物大战僵尸全版本辅助工具
+- name: cnc-ddraw
+  foss: true
+  url: https://github.com/FunkyFr3sh/cnc-ddraw
+  img: /images/cnc-ddraw.png
+  description: 修复老游戏兼容性问题
+- name: PyMusicLooper
+  foss: true
+  url: https://github.com/arkrow/PyMusicLooper
+  img: /images/github.png
+  description: 音乐循环点自动查找

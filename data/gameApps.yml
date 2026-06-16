@@ -1,0 +1,27 @@
+- name: Minecraft
+  paid: true
+  url: https://www.minecraft.net/zh-hans/get-minecraft
+  img: /images/minecraft.png
+  description: 像素风沙盒游戏
+  winget: Mojang.MinecraftLauncher
+- name: 糖豆人
+  url: https://www.fallguys.com/
+  img: /images/fallguys.png
+  description: 多人派对乱斗游戏
+- name: 跑跑卡丁车
+  url: https://popkart.tiancity.com/homepage/download/
+  img: /images/kartrider.png
+  description: 在线竞速赛车游戏
+- name: osu!
+  url: https://osu.ppy.sh/home/download
+  img: /images/osu.png
+  description: 棒到不行的免费音游
+  winget: ppy.osu
+- name: Windows 7 Games for Windows 11/10
+  url: https://win7games.com/
+  img: /images/windows11.png
+  description: Windows 7 自带的小游戏
+- name: 象棋巫师
+  url: https://www.xqbase.com/
+  img: /images/xqws.png
+  description: 中国象棋教学、电脑对弈和棋谱编辑软件

@@ -1,0 +1,138 @@
+favicon: /favicon.ico
+banner: /images/banner.png
+
+logo:
+  expanded: /images/logo2x.png
+  collapsed: /images/logocollapsed2x.png
+  dark: /images/logodark2x.png
+
+menu:
+  - name: 操作系统
+    icon: fab fa-microsoft
+    config: operatingSystems
+  - name: PC 软件
+    icon: fab fa-app-store
+    submenu:
+      - name: 系统增强
+        icon: fas fa-tools
+        config: sysTools
+      - name: 上网通讯
+        icon: fab fa-internet-explorer
+        config: socialApps
+      - name: 浏览器扩展
+        icon: fas fa-puzzle-piece
+        config: browserExtensions
+      - name: 云盘存储
+        icon: fas fa-cloud
+        config: netDisks
+      - name: 效率办公
+        icon: fas fa-briefcase
+        config: workApps
+      - name: 影音媒体
+        icon: far fa-play-circle
+        config: mediaApps
+      - name: 媒体创作
+        icon: fas fa-photo-video
+        config: mediaCreations
+      - name: 编程开发
+        icon: fas fa-code
+        config: developmentTools
+      - name: 安全维护
+        icon: fas fa-shield-alt
+        config: maintainTools
+  - name: AI 相关
+    icon: fas fa-brain
+    submenu:
+      - name: 聊天助手
+        icon: far fa-comments
+        config: aiChat
+      - name: 氛围编程
+        icon: fas fa-code
+        config: vibeCoding
+      - name: AI 生产力
+        icon: fas fa-toolbox
+        config: aiTools
+      - name: 相关网站
+        icon: fas fa-dice-d6
+        config: aiWebsites
+  - name: 游戏相关
+    icon: fas fa-gamepad
+    submenu:
+      - name: 游戏平台
+        icon: fas fa-gamepad
+        config: gamePlatforms
+      - name: 常玩游戏
+        icon: fas fa-gamepad
+        config: gameApps
+      - name: 网页游戏
+        icon: fas fa-globe
+        config: onlineGames
+      - name: 游戏资源
+        icon: fas fa-dice-d6
+        config: gameRes
+      - name: 游戏工具
+        icon: fas fa-dice
+        config: gameTools
+      - name: 论坛社群
+        icon: fab fa-forumbee
+        config: gameForums
+      - name: 资料百科
+        icon: fas fa-book
+        config: gameWikis
+      - name: 模拟器
+        icon: fab fa-xbox
+        config: gameEmulators
+      - name: 游戏开发
+        icon: fas fa-code
+        config: gameDev
+  - name: 工具网站
+    icon: fas fa-globe
+    submenu:
+      - name: 工具资源
+        icon: fas fa-dice-d6
+        config: toolSites
+      - name: 信息资料
+        icon: fas fa-book
+        config: references
+      - name: 论坛百科
+        icon: fab fa-forumbee
+        config: forumsWikis
+      - name: 建站运维
+        icon: fas fa-wrench
+        config: webEnvironment
+  - name: 手机相关
+    icon: fas fa-mobile-alt
+    submenu:
+      - name: 安卓应用
+        icon: fab fa-google-play
+        config: androidApps
+      - name: 生态互联
+        icon: fas fa-infinity
+        config: phoneAssistants
+      - name: 安卓玩机
+        icon: fas fa-hashtag
+        config: androidTools
+      - name: 安卓 ROM
+        icon: fab fa-android
+        config: androidRoms
+      - name: iOS 工具
+        icon: fab fa-apple
+        config: iOSTools
+
+about:
+  url: /about/
+  icon: far fa-heart
+  name: 关于本站
+
+aboutPage:
+  website:
+    head: 关于本站
+    md: about.md
+  webmaster:
+    head: 本站站长
+    name: Kevin Huang
+    url: https://kevinh.wang/
+    img: /images/blog.png
+    description: 行稳致远，创造价值
+
+since: 2020

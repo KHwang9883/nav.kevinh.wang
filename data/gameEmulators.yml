@@ -1,0 +1,114 @@
+- name: RetroArch
+  foss: true
+  url: http://www.retroarch.com/
+  img: /images/retroarch.png
+  description: 跨平台多机种模拟器
+  winget: Libretro.RetroArch
+- name: Mesen
+  foss: true
+  url: https://www.mesen.ca/
+  img: /images/mesen.png
+  description: 高精确 NES/SNES/GameBoy 模拟器
+  winget: SourMesen.Mesen2
+- name: FCEUX
+  foss: true
+  url: http://fceux.com/web/download.html
+  img: /images/fceux.png
+  description: Famicom/NES 模拟器
+  winget: FCEUX.FCEUX
+- name: Snes9X
+  foss: true
+  url: https://www.snes9x.com/downloads.php
+  img: /images/snes9x.png
+  description: SNES 模拟器
+- name: mGBA
+  foss: true
+  url: https://mgba.io/
+  img: /images/mgba.png
+  description: GameBoy 模拟器 (更推荐这个)
+  winget: JeffreyPfau.mGBA
+- name: VisualBoyAdvance-M
+  foss: true
+  url: https://github.com/visualboyadvance-m/visualboyadvance-m
+  img: /images/vbam.png
+  description: GameBoy 模拟器
+  winget: VisualBoyAdvance-M.VisualBoyAdvance-M
+- name: Parallel Launcher
+  foss: true
+  url: https://parallel-launcher.ca/
+  img: /images/parallellauncher.png
+  description: N64 模拟器
+- name: DeSmuME
+  foss: true
+  url: http://desmume.org/download/
+  img: /images/desmume.png
+  description: NDS 模拟器
+  winget: DeSmuMETeam.DeSmuME
+- name: Dolphin
+  foss: true
+  url: https://cn.dolphin-emu.org/download/
+  img: /images/dolphin.png
+  description: Wii/GameCube 模拟器
+  winget: DolphinEmulator.Dolphin
+- name: Azahar
+  foss: true
+  url: https://github.com/azahar-emu/azahar
+  img: /images/lime.png
+  description: 3DS 模拟器
+  winget: AzaharEmu.Azahar
+- name: Cemu
+  foss: true
+  url: http://cemu.info
+  img: /images/cemu.png
+  description: Wii U 模拟器
+  winget: Cemu.Cemu
+- name: Eden
+  foss: true
+  url: https://eden-emu.dev/
+  img: /images/eden.webp
+  description: Nintendo Switch 模拟器
+  winget: Utopia.Eden.MinGW
+- name: PPSSPP
+  foss: true
+  url: https://www.ppsspp.org/
+  img: /images/ppsspp.png
+  description: PSP 模拟器
+  winget: PPSSPPTeam.PPSSPP
+- name: PCSX2
+  foss: true
+  url: https://pcsx2.net/
+  img: /images/pcsx2.png
+  description: PS2 模拟器
+  winget: PCSX2Team.PCSX2
+- name: RPCS3
+  foss: true
+  url: https://rpcs3.net/download
+  img: /images/rpcs3.png
+  description: PS3 模拟器
+- name: BizHawk
+  foss: true
+  url: https://tasvideos.org/BizHawk
+  img: /images/bizhawk.png
+  description: 多机种模拟器
+  winget: TASEmulators.BizHawk
+- name: Ruffle
+  foss: true
+  url: https://ruffle.rs/
+  img: /images/ruffle.png
+  description: Flash Player 模拟器
+  winget: Ruffle.Ruffle.Nightly
+- name: DOSBox Staging 
+  foss: true
+  url: https://www.dosbox-staging.org/
+  img: /images/dosbox-staging.png
+  description: DOS 模拟器
+  winget: DOSBoxStaging.DOSBoxStaging
+- name: 盖世游戏
+  url: https://gamehub.xiaoji.com/
+  img: /images/gamehub.png
+  description: PC 游戏转译运行
+- name: Winlator
+  foss: true
+  url: https://github.com/brunodev85/winlator
+  img: /images/winlator.png
+  description: 通过 Box64 和 Wine 运行 Windows 应用程序 (个人推荐使用修改版)

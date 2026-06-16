@@ -1,0 +1,43 @@
+- name: ChatGPT
+  require_proxy: required
+  url: https://chatgpt.com/
+  img: /images/chatgpt.png
+  description: OpenAI 聊天机器人
+- name: Gemini
+  require_proxy: required
+  url: https://gemini.google.com/
+  img: /images/gemini.png
+  description: Google 聊天机器人
+- name: 智谱清言
+  url: https://chatglm.cn/
+  img: /images/chatglm.png
+  description: GLM 千亿参数对话模型
+  winget: ZhipuAI.ChatGLM
+- name: DeepSeek
+  url: https://chat.deepseek.com/
+  img: /images/deepseek.png
+  description: 探索未至之境
+- name: Xiaomi MiMo Studio
+  url: https://aistudio.xiaomimimo.com/
+  img: /images/xiaomimimo.png
+  description: MiMo Claw + MiMo Chat
+- name: 豆包
+  url: https://www.doubao.com/
+  img: /images/doubao.png
+  description: 字节跳动旗下 AI 助手
+  winget: ByteDance.Doubao
+- name: 千问
+  url: https://www.qianwen.com/
+  img: /images/tongyi.png
+  description: 阿里巴巴通义千问 Qwen 模型
+  winget: Alibaba.Qianwen
+- name: 元宝
+  url: https://yuanbao.tencent.com/
+  img: /images/yuanbao.png
+  description: 轻松工作 多点生活
+  winget: Tencent.Yuanbao
+- name: RikkaHub
+  foss: true
+  url: https://rikka-ai.com/download
+  img: /images/rikkahub.png
+  description: 支持多种模型供应商的 LLM 客户端 (Android)

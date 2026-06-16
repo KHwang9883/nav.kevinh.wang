@@ -1,0 +1,95 @@
+- name: Adobe Creative Cloud
+  paid: true
+  url: https://www.adobe.com/cn/creativecloud/catalog/desktop.html
+  img: /images/adobe.png
+  description: Adobe 生产力软件
+- name: GIMP
+  foss: true
+  url: https://www.gimp.org/
+  img: /images/gimp.png
+  description: 开源修图软件
+  winget: GIMP.GIMP
+- name: Affinity
+  url: https://www.affinity.studio/download
+  img: /images/affinity.jpg
+  description: 修图设计软件
+  winget: Canva.Affinity
+- name: paint.net
+  abandoned: true
+  url: https://paint.net/
+  img: /images/pdn.png
+  description: 免费画图软件
+  winget: dotPDN.PaintDotNet
+- name: PixPin
+  url: https://pixpin.cn/
+  img: /images/pixpin.png
+  description: 强大且免费的截图贴图工具
+  winget: PixPin.PixPin
+- name: DaVinci Resolve
+  url: https://www.blackmagicdesign.com/cn/products/davinciresolve/
+  img: /images/davinci.png
+  description: 免费剪辑工具
+- name: OBS Studio
+  foss: true
+  url: https://obsproject.com/zh-cn/download
+  img: /images/obs.png
+  description: 视频录制 & 直播软件
+  winget: OBSProject.OBSStudio
+- name: Audacity
+  foss: true
+  url: https://www.audacityteam.org/download/
+  img: /images/audacity.png
+  description: 开源音频编辑软件
+  winget: Audacity.Audacity
+- name: 哔哩哔哩直播姬
+  url: https://live.bilibili.com/liveHime
+  img: /images/livehime.png
+  description: B 站直播用户端软件
+  winget: Bilibili.Livehime
+- name: 必剪
+  url: https://bcut.bilibili.cn/
+  img: /images/bcut.png
+  description: B 站出品的视频剪辑软件
+  winget: Bilibili.Bcut
+- name: 剪映
+  url: https://www.capcut.cn/
+  img: /images/capcut.png
+  description: 全能易用的桌面端剪辑软件
+  winget: ByteDance.JianyingPro
+- name: ScreenToGif
+  foss: true
+  url: https://www.screentogif.com/downloads
+  img: /images/stg.png
+  description: 录屏或视频转 Gif
+  winget: NickeManarin.ScreenToGif
+- name: File Converter
+  hot: true
+  foss: true
+  url: https://github.com/Tichau/FileConverter
+  img: /images/converter.png
+  description: 右键菜单转换媒体文件格式
+  winget: AdrienAllard.FileConverter
+- name: MediaCoder
+  url: https://www.mediacoderhq.com/
+  img: /images/mcoder.png
+  description: 不止是音视频转码器
+- name: FFmpeg
+  foss: true
+  url: https://www.ffmpeg.org/download.html
+  img: /images/ffmpeg.png
+  description: 跨平台媒体文件格式处理
+  winget: Gyan.FFmpeg
+- name: 小丸工具箱
+  url: https://maruko.appinn.me/
+  img: /images/maruko.png
+  description: 视频压制神器
+- name: OpenMPT
+  foss: true
+  url: https://openmpt.org/
+  img: /images/openmpt.png
+  description: 模块音乐编辑器
+  winget: OpenMPT.OpenMPT
+- name: Fraps
+  url: https://www.fraps.com/download.php
+  img: /images/fraps.png
+  description: 显示游戏帧数并录制 AVI

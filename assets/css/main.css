@@ -1,0 +1,737 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Arimo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #f5f5f5;
+    color: #373e4a;
+  }
+
+  .dark body {
+    background-color: #2c2e2f;
+    color: #b8bcc0;
+  }
+
+  /* Original site custom styles */
+  .img-circle {
+    border-radius: 0 !important;
+  }
+}
+
+@layer components {
+  /* Sidebar overlay - mobile only */
+  .sidebar-overlay {
+    @apply fixed inset-0 bg-black/50 z-40 md:hidden;
+  }
+
+  /* Sidebar styles - mobile first: hidden by default, shown on md+ */
+  .sidebar-menu {
+    @apply fixed left-0 top-0 h-full w-[260px] z-50 transition-transform duration-300 transform -translate-x-full md:translate-x-0 md:border-r overflow-hidden md:overflow-y-auto;
+    background-color: #f8f9fa;
+    border-color: #e5e7eb;
+  }
+
+  /* Desktop: sidebar starts below topnav */
+  @media (min-width: 768px) {
+    .sidebar-menu {
+      top: 56px;
+      height: calc(100vh - 56px);
+    }
+  }
+
+  .sidebar-menu.mobile-open {
+    @apply translate-x-0 overflow-y-auto;
+  }
+
+  /* Sidebar colors - light mode */
+  .sidebar-nav-link {
+    color: #374151;
+  }
+
+  .sidebar-nav-link:hover {
+    background: rgba(0, 0, 0, 0.04);
+    color: #1f2937;
+  }
+
+  .sidebar-submenu-link {
+    color: #6b7280;
+  }
+
+  .sidebar-submenu-link:hover {
+    background: rgba(0, 0, 0, 0.04);
+    color: #374151;
+  }
+
+  .sidebar-last-update {
+    color: #374151;
+  }
+
+  .sidebar-last-update:hover {
+    background: rgba(0, 0, 0, 0.04);
+    color: #374151;
+  }
+
+  .sidebar-about-link {
+    color: #374151;
+  }
+
+  .sidebar-about-link:hover {
+    background: rgba(0, 0, 0, 0.04);
+    color: #1f2937;
+  }
+
+  /* Sidebar dark mode */
+  .dark .sidebar-menu {
+    background-color: #2c2e2f;
+    border-color: #3a3c3f;
+  }
+
+  .dark .sidebar-nav-link {
+    color: #9ca3af;
+  }
+
+  .dark .sidebar-nav-link:hover {
+    background: rgba(255, 255, 255, 0.06);
+    color: #e5e7eb;
+  }
+
+  .dark .sidebar-submenu-link {
+    color: #8b9299;
+  }
+
+  .dark .sidebar-submenu-link:hover {
+    background: rgba(255, 255, 255, 0.06);
+    color: #d4d4d8;
+  }
+
+  .dark .sidebar-last-update {
+    color: #9ca3af;
+  }
+
+  .dark .sidebar-last-update:hover {
+    background: rgba(255, 255, 255, 0.06);
+    color: #e5e7eb;
+  }
+
+  .dark .sidebar-about-link {
+    color: #9ca3af;
+  }
+
+  .dark .sidebar-about-link:hover {
+    background: rgba(255, 255, 255, 0.06);
+    color: #e5e7eb;
+  }
+
+  /* Main content area - mobile first: no margin, md+ has sidebar margin */
+  .main-content {
+    @apply ml-0 md:ml-[260px] min-h-screen transition-all duration-300 bg-[#f5f5f5];
+  }
+
+  /* Desktop: padding-top to clear fixed topnav */
+  @media (min-width: 768px) {
+    .main-content {
+      padding-top: 56px;
+    }
+  }
+
+  .dark .main-content {
+    background-color: #1a1b1c;
+  }
+
+  /* Card styles */
+  .nav-card {
+    @apply bg-white rounded-lg border border-card-border p-3 cursor-pointer
+      transition-all duration-300 ease-out;
+    display: flex;
+    align-items: center;
+  }
+
+  .nav-card:hover {
+    box-shadow: 0 12px 20px -8px rgba(0,0,0,0.1);
+    border-color: transparent;
+    transform: translateY(-2px);
+  }
+
+  .dark .nav-card {
+    background-color: #3a3c3f;
+    border-color: #4a4c4f;
+    color: #b8bcc0;
+  }
+
+  .dark .nav-card:hover {
+    background-color: #374140;
+    box-shadow: 0 16px 28px -16px rgba(130,130,130,0.13);
+    transform: translateY(-2px);
+  }
+
+  /* Card image */
+  .nav-card-img {
+    @apply w-9 h-9 rounded object-cover shrink-0;
+  }
+
+  /* Category title */
+  .category-title {
+    @apply text-lg font-semibold text-gray-600 mt-8 mb-4 first:mt-0;
+  }
+
+  .category-title i {
+    margin-right: 7px;
+  }
+
+  .dark .category-title {
+    color: #d4d4d8;
+  }
+
+  /* Footer - base styles */
+  .site-footer {
+    border-top: 1px solid #e5e7eb;
+    background: #fff;
+    font-size: 0.875rem;
+    color: #6b7280;
+  }
+
+  .dark .site-footer {
+    border-color: #333;
+    background-color: #1a1b1c;
+    color: #9ca3af;
+  }
+
+  /* Top nav bar - mobile: sticky, desktop: fixed full width */
+  .top-nav {
+    @apply bg-white border-b border-gray-100 h-[56px] flex items-center px-4 sticky top-0 z-30;
+  }
+
+  /* Desktop: topnav fixed full viewport width */
+  @media (min-width: 768px) {
+    .top-nav {
+      @apply fixed top-0 left-0 right-0;
+    }
+  }
+
+  .dark .top-nav {
+    background-color: #2c2e2f;
+    border-color: #4a4c4f;
+  }
+
+  .top-nav-toggle {
+    color: #6b7280;
+  }
+
+  .top-nav-toggle:hover {
+    background: #f3f4f6;
+    color: #1f2937;
+  }
+
+  .top-nav-logo {
+    color: #1f2937;
+  }
+
+  .top-nav-action {
+    color: #6b7280;
+  }
+
+  .top-nav-action:hover {
+    background: #f3f4f6;
+    color: #1f2937;
+  }
+
+  .dark .top-nav-logo {
+    color: #e0e0e0;
+  }
+
+  .dark .top-nav-toggle:hover {
+    background: #3a3c3f;
+    color: #d4d4d8;
+  }
+
+  .dark .top-nav-action {
+    color: #8b9299;
+  }
+
+  .dark .top-nav-action:hover {
+    background: #3a3c3f;
+    color: #d4d4d8;
+  }
+
+  /* Link card styles */
+  .nav-card-name {
+    color: #1f2937;
+  }
+
+  .nav-card:hover .nav-card-name {
+    color: #667eea;
+  }
+
+  .nav-card-desc {
+    color: #6b7280;
+  }
+
+  .nav-card-tag.foss {
+    color: #22c55e;
+  }
+
+  .nav-card-tag.paid {
+    color: #f59e0b;
+  }
+
+  .nav-card-tag.affiliate {
+    color: #3b82f6;
+  }
+
+  .nav-card-tag.proxy-required {
+    color: #ef4444;
+  }
+
+  .nav-card-tag.proxy-optional {
+    color: #a3a3a3;
+  }
+
+  /* Name tag colors */
+  .nav-card-name-tag.hot {
+    color: #ef4444;
+  }
+
+  .nav-card-name-tag.abandoned {
+    color: #f59e0b;
+  }
+
+  .nav-card-winget {
+    color: #667eea;
+  }
+
+  .nav-card-winget:hover {
+    background: rgba(102, 126, 234, 0.2);
+    border-color: #667eea;
+  }
+
+  /* Link card dark mode */
+  .dark .nav-card-name {
+    color: #b8bcc0 !important;
+  }
+
+  .dark .nav-card:hover .nav-card-name {
+    color: #8b9cf7 !important;
+  }
+
+  .dark .nav-card-desc {
+    color: #8b9299 !important;
+  }
+
+  .dark .nav-card-tag.foss {
+    color: #4ade80;
+  }
+
+  .dark .nav-card-tag.paid {
+    color: #fbbf24;
+  }
+
+  .dark .nav-card-tag.affiliate {
+    color: #60a5fa;
+  }
+
+  .dark .nav-card-tag.proxy-required {
+    color: #f87171;
+  }
+
+  .dark .nav-card-tag.proxy-optional {
+    color: #d4d4d8;
+  }
+
+  /* Name tag colors - dark mode */
+  .dark .nav-card-name-tag.hot {
+    color: #f87171;
+  }
+
+  .dark .nav-card-name-tag.abandoned {
+    color: #fbbf24;
+  }
+
+  .dark .nav-card-winget {
+    color: #8b9cf7;
+    background: rgba(139, 156, 247, 0.1);
+    border-color: rgba(139, 156, 247, 0.3);
+  }
+
+  .dark .nav-card-winget:hover {
+    background: rgba(139, 156, 247, 0.2);
+    border-color: #8b9cf7;
+  }
+
+  /* Back to top button dark mode */
+  .dark .back-to-top {
+    background: #3a3c3f;
+    border-color: #4a4c4f;
+    color: #9ca3af;
+  }
+
+  .dark .back-to-top:hover {
+    background: #374140;
+    color: #8b9cf7;
+    border-color: #8b9cf7;
+  }
+}
+
+/* Tooltip (teleported to body) */
+.nav-card-tooltip {
+  position: fixed;
+  transform: translateX(-50%);
+  background: #1f2937;
+  color: #fff;
+  font-size: 0.75rem;
+  padding: 6px 10px;
+  border-radius: 6px;
+  max-width: 300px;
+  width: max-content;
+  word-break: break-all;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+.nav-card-tooltip::after {
+  content: '';
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 5px solid transparent;
+  border-bottom-color: #1f2937;
+}
+
+.dark .nav-card-tooltip {
+  background: #4a4c4f;
+}
+
+.dark .nav-card-tooltip::after {
+  border-bottom-color: #4a4c4f;
+}
+
+/* Footer styles */
+.footer-left {
+  color: #9ca3af;
+}
+
+.footer-copyright {
+  color: #6b7280;
+}
+
+.footer-author {
+  color: #6b7280;
+}
+
+.footer-author:hover {
+  color: #667eea;
+}
+
+.footer-divider {
+  color: #d1d5db;
+}
+
+.footer-credit a {
+  color: #6b7280;
+}
+
+.footer-credit a:hover {
+  color: #667eea;
+}
+
+/* Footer dark mode */
+.dark .footer-left {
+  color: #8b9299;
+}
+
+.dark .footer-copyright {
+  color: #8b9299;
+}
+
+.dark .footer-author {
+  color: #b8bcc0;
+}
+
+.dark .footer-author:hover {
+  color: #8b9cf7;
+}
+
+.dark .footer-divider {
+  color: #6b7280;
+}
+
+.dark .footer-credit a {
+  color: #b8bcc0;
+}
+
+.dark .footer-credit a:hover {
+  color: #8b9cf7;
+}
+
+.dark .footer-go-up:hover {
+  background: #333;
+  color: #8b9cf7;
+}
+
+/* About page - light mode */
+.about-page {
+  background: #f5f5f5;
+}
+
+.about-navbar {
+  background: #fff;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.about-logo-text {
+  color: #1f2937;
+}
+
+.about-nav-action {
+  color: #6b7280;
+}
+
+.about-nav-action:hover {
+  background: #f3f4f6;
+  color: #1f2937;
+}
+
+.about-section {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+}
+
+.about-section-header {
+  border-bottom: 1px solid #f3f4f6;
+}
+
+.about-section-icon {
+  background: #f0f0ff;
+  color: #667eea;
+}
+
+.about-section-title {
+  color: #1f2937;
+}
+
+.about-html {
+  color: #4b5563;
+}
+
+.about-html blockquote {
+  background: #f9fafb;
+  color: #4b5563;
+  border-left-color: #667eea;
+}
+
+.about-html a {
+  color: #667eea;
+}
+
+.about-html a:hover {
+  border-bottom-color: #667eea;
+}
+
+/* Icon colors in about page */
+.about-html .fa-osi {
+  color: #22c55e;
+}
+
+.about-html .fa-fire {
+  color: #ef4444;
+}
+
+.about-html .fa-dollar-sign {
+  color: #f59e0b;
+}
+
+.about-html .fa-stop-circle {
+  color: #f59e0b;
+}
+
+.about-html .fa-user {
+  color: #3b82f6;
+}
+
+.about-html .fa-plane {
+  color: #ef4444;
+}
+
+.about-html .proxy-optional .fa-plane {
+  color: #a3a3a3;
+}
+
+.about-html ul {
+  list-style-type: disc;
+}
+
+.about-html li::marker {
+  color: #667eea;
+}
+
+.webmaster-card {
+  background: #f9fafb;
+}
+
+.webmaster-card:hover {
+  background: #f3f4f6;
+  border-color: #667eea;
+}
+
+.webmaster-avatar {
+  border: 3px solid #fff;
+}
+
+.webmaster-name {
+  color: #1f2937;
+}
+
+.webmaster-desc {
+  color: #6b7280;
+}
+
+.webmaster-link {
+  color: #667eea;
+}
+
+/* About page dark mode */
+.dark .about-page {
+  background: #1a1b1c;
+}
+
+.dark .about-navbar {
+  background: #2c2e2f;
+  border-color: #4a4c4f;
+}
+
+.dark .about-nav-action {
+  color: #8b9299;
+}
+
+.dark .about-nav-action:hover {
+  background: #4a4c4f;
+  color: #d4d4d8;
+}
+
+.dark .about-logo-text {
+  color: #e0e0e0 !important;
+}
+
+.dark .about-section {
+  background: #3a3c3f;
+  border-color: #4a4c4f;
+}
+
+.dark .about-section-header {
+  border-color: #4a4c4f;
+}
+
+.dark .about-section-icon {
+  background: rgba(102, 126, 234, 0.15);
+  color: #8b9cf7;
+}
+
+.dark .about-section-title {
+  color: #d4d4d8;
+}
+
+.dark .about-html {
+  color: #b8bcc0;
+}
+
+.dark .about-html blockquote {
+  background: rgba(255, 255, 255, 0.05);
+  border-left-color: #8b9cf7;
+  color: #b8bcc0;
+}
+
+.dark .about-html a {
+  color: #8b9cf7;
+}
+
+.dark .about-html a:hover {
+  border-bottom-color: #8b9cf7;
+}
+
+.dark .about-html ul {
+  list-style-type: disc;
+}
+
+.dark .about-html li::marker {
+  color: #8b9cf7;
+}
+
+/* Icon colors in dark mode */
+.dark .about-html .fa-osi {
+  color: #4ade80;
+}
+
+.dark .about-html .fa-fire {
+  color: #f87171;
+}
+
+.dark .about-html .fa-dollar-sign {
+  color: #fbbf24;
+}
+
+.dark .about-html .fa-stop-circle {
+  color: #fbbf24;
+}
+
+.dark .about-html .fa-user {
+  color: #60a5fa;
+}
+
+.dark .about-html .fa-plane {
+  color: #f87171;
+}
+
+.dark .about-html .proxy-optional .fa-plane {
+  color: #d4d4d8;
+}
+
+.dark .webmaster-card {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.dark .webmaster-card:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: #8b9cf7;
+  box-shadow: 0 8px 24px rgba(139, 156, 247, 0.1);
+}
+
+.dark .webmaster-avatar {
+  border-color: #4a4c4f;
+}
+
+.dark .webmaster-name {
+  color: #d4d4d8;
+}
+
+.dark .webmaster-desc {
+  color: #8b9299;
+}
+
+.dark .webmaster-link {
+  color: #8b9cf7;
+}
+
+/* Go up button - used in default layout */
+.go-up-btn {
+  @apply bg-white border border-gray-200 rounded-full w-10 h-10
+    flex items-center justify-center cursor-pointer shadow-sm
+    hover:bg-gray-100 transition-all;
+}
+
+.dark .go-up-btn {
+  background-color: #3a3c3f;
+  border-color: #4a4c4f;
+  color: #a9a9a9;
+}
+
+.dark .go-up-btn:hover {
+  background-color: #374140;
+}
