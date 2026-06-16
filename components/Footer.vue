@@ -5,9 +5,7 @@
         <span class="footer-copyright">&copy; {{ sinceRange }}</span>
         <a href="https://kevinh.wang/" class="footer-author" target="_blank">Kevin Huang</a>
         <span class="footer-divider">|</span>
-        <span class="footer-credit">Design by <a href="http://viggoz.com" target="_blank">Viggo</a></span>
-        <span class="footer-divider">|</span>
-        <span class="footer-credit">Power by <a href="https://nuxt.com/" target="_blank">Nuxt</a></span>
+        <span class="footer-credit">Powered by <a href="https://nuxt.com/" target="_blank">Nuxt</a></span>
       </div>
     </div>
   </footer>
