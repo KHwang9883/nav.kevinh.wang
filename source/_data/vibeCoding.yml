@@ -6,7 +6,11 @@
   url: https://opencode.ai/
   img: /images/opencode.png
   description: 开源 Agent 编程工具
-- name: Trae 🔥
+- name: Claude Code
+  url: https://claude.com/product/claude-code
+  img: /images/claude.png
+  description: Anthropic Agent 助手
+- name: Trae
   url: https://www.trae.ai/
   img: /images/trae.png
   description: 字节跳动 AI IDE + Agent 工作助手
