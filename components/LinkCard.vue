@@ -12,7 +12,7 @@
         <a class="nav-card-name">
           {{ item.name }}
           <i v-if="item.hot" class="fas fa-fire nav-card-name-tag hot" title="特别推荐"></i>
-          <i v-if="item.abandoned" class="fas fa-stop-circle nav-card-name-tag abandoned" title="已停用"></i>
+          <i v-if="item.abandoned" class="fas fa-stop-circle nav-card-name-tag abandoned" title="近期未使用"></i>
         </a>
         <p class="nav-card-desc">{{ item.description }}</p>
       </div>
