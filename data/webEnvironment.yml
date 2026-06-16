@@ -48,11 +48,27 @@
   url: https://www.mediawiki.org/
   img: /images/mediawiki.png
   description: 驱动 Wikipedia 的软件
+- name: Astro
+  foss: true
+  url: https://astro.build/
+  img: /images/astro.png
+  description: 站长的博客使用的 SSG 框架
+- name: Nuxt
+  foss: true
+  url: https://nuxt.com/
+  img: /images/nuxt.png
+  description: 本站使用的 SSG 框架
+- name: Tailwind CSS
+  foss: true
+  url: https://tailwindcss.com/
+  img: /images/tailwindcss.png
+  description: 前端 CSS 框架
 - name: Hexo
   foss: true
+  abandoned: true
   url: https://hexo.io/
   img: /images/hexo.png
-  description: 本站和站长的博客使用的框架
+  description: 本站和站长的博客曾使用的框架
 - name: WordPress
   foss: true
   url: https://cn.wordpress.org/download/
@@ -60,6 +76,7 @@
   description: 全球用户量最多的 CMS 系统
 - name: Typecho
   foss: true
+  abandoned: true
   url: http://typecho.org/download
   img: /images/typecho.png
   description: 轻量级 PHP 博客程序
