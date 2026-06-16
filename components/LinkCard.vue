@@ -5,7 +5,6 @@
         :src="item.img"
         :alt="item.name"
         class="nav-card-img"
-        loading="lazy"
         @error="handleImgError"
       />
       <div class="nav-card-text">
