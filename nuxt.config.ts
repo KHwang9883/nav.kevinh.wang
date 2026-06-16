@@ -24,7 +24,6 @@ export default defineNuxtConfig({
       ],
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-        { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css' },
       ],
     },
   },
@@ -37,6 +36,7 @@ export default defineNuxtConfig({
 
   css: [
     '~/assets/css/main.css',
+    '@fortawesome/fontawesome-free/css/all.min.css',
   ],
 
   nitro: {
