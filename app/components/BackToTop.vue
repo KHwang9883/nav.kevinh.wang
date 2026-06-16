@@ -1,13 +1,28 @@
 <template>
-  <div class="back-to-top" @click="scrollToTop" title="回到顶部">
+  <div v-show="show" class="back-to-top" @click="scrollToTop" title="回到顶部">
     <i class="fas fa-arrow-up"></i>
   </div>
 </template>
 
 <script setup lang="ts">
+const show = ref(false)
+
 function scrollToTop() {
   window.scrollTo({ top: 0, behavior: 'smooth' })
 }
+
+function onScroll() {
+  show.value = window.scrollY > 300
+}
+
+onMounted(() => {
+  window.addEventListener('scroll', onScroll, { passive: true })
+  onScroll()
+})
+
+onUnmounted(() => {
+  window.removeEventListener('scroll', onScroll)
+})
 </script>
 
 <style scoped>
