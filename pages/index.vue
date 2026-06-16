@@ -33,6 +33,5 @@ const { data } = useNavData()
 .content-area {
   max-width: 1200px;
   margin: 16px auto;
-  padding: 8px;
 }
 </style>
