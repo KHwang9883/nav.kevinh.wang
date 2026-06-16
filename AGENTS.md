@@ -30,7 +30,7 @@ All site content comes from YAML files in `data/`. The server API (`server/api/d
 
 The API assembles the full nav tree by matching `config` keys to YAML files. To add/rename/reorder categories, edit `webstack.yml`. To add/remove items, edit the corresponding category YAML.
 
-### Data model (`composables/useNavData.ts`)
+### Data model (`app/composables/useNavData.ts`)
 
 ```typescript
 interface NavItem {
@@ -50,7 +50,7 @@ interface NavItem {
 
 ### Component flow
 
-`app.vue` → `NuxtPage` → `pages/index.vue` (fetches via `useNavData()`) → `layouts/default.vue` → `Sidebar` + `CategorySection` → `LinkCard`.
+`pages/index.vue` (fetches via `useNavData()`) → `NuxtLayout` → `layouts/default.vue` → `Sidebar` + `CategorySection` → `LinkCard`.
 
 ### Image assets
 
