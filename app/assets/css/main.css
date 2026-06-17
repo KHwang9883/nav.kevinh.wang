@@ -152,6 +152,8 @@
       transition-all duration-300 ease-out;
     display: flex;
     align-items: center;
+    text-decoration: none;
+    color: inherit;
   }
 
   .nav-card:hover {
@@ -411,6 +413,123 @@
 
 .dark .nav-card-tooltip::after {
   border-bottom-color: #4a4c4f;
+}
+
+/* Toast modal (teleported to body) */
+.nav-card-toast-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+  animation: fade-in 0.2s ease;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.nav-card-toast {
+  position: relative;
+  background: #fff;
+  color: #1f2937;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  max-width: 480px;
+  width: 90%;
+  animation: scale-in 0.2s ease;
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.nav-card-toast-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: none;
+  border: none;
+  color: #9ca3af;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 4px;
+  line-height: 1;
+  transition: color 0.2s;
+}
+
+.nav-card-toast-close:hover {
+  color: #4b5563;
+}
+
+.nav-card-toast-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.nav-card-toast-header i {
+  color: #10b981;
+  font-size: 1.25rem;
+}
+
+.nav-card-toast-command {
+  font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+  font-size: 0.9375rem;
+  background: #f3f4f6;
+  padding: 12px 16px;
+  border-radius: 6px;
+  word-break: break-all;
+  margin-bottom: 12px;
+}
+
+.nav-card-toast-hint {
+  font-size: 0.8125rem;
+  color: #6b7280;
+  margin: 0;
+}
+
+.dark .nav-card-toast-overlay {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.dark .nav-card-toast {
+  background: #1f2937;
+  color: #e5e7eb;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+}
+
+.dark .nav-card-toast-close {
+  color: #6b7280;
+}
+
+.dark .nav-card-toast-close:hover {
+  color: #9ca3af;
+}
+
+.dark .nav-card-toast-command {
+  background: #374151;
+}
+
+.dark .nav-card-toast-hint {
+  color: #9ca3af;
 }
 
 /* Footer styles */

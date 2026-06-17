@@ -1,10 +1,4 @@
 favicon: /favicon.ico
-banner: /images/banner.png
-
-logo:
-  expanded: /images/logo2x.png
-  collapsed: /images/logocollapsed2x.png
-  dark: /images/logodark2x.png
 
 menu:
   - name: 操作系统

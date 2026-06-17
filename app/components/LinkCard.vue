@@ -1,5 +1,5 @@
 <template>
-  <div class="nav-card" ref="cardRef" @mouseenter="showTooltip" @mouseleave="hideTooltip" @click="openLink">
+  <a :href="item.url" target="_blank" rel="noopener noreferrer" class="nav-card" ref="cardRef" @mouseenter="showTooltip" @mouseleave="hideTooltip">
     <div class="nav-card-inner">
       <img
         :src="item.img"
@@ -8,11 +8,11 @@
         @error="handleImgError"
       />
       <div class="nav-card-text">
-        <a class="nav-card-name">
+        <span class="nav-card-name">
           {{ item.name }}
           <i v-if="item.hot" class="fas fa-fire nav-card-name-tag hot" title="特别推荐"></i>
           <i v-if="item.abandoned" class="fas fa-stop-circle nav-card-name-tag abandoned" title="近期未使用"></i>
-        </a>
+        </span>
         <p class="nav-card-desc">{{ item.description }}</p>
       </div>
       <!-- Tags: foss/paid/affiliate/require_proxy icons + winget button -->
@@ -22,19 +22,34 @@
         <i v-if="item.affiliate" class="fas fa-user nav-card-tag affiliate" title="本人参与"></i>
         <i v-if="item.require_proxy === 'required'" class="fas fa-plane nav-card-tag proxy-required" title="国内需借助特殊手段"></i>
         <i v-if="item.require_proxy === 'optional'" class="fas fa-plane nav-card-tag proxy-optional" title="国内可能需特殊手段"></i>
-        <button v-if="item.winget" class="nav-card-winget" @click.stop="installWinget" title="使用 winget 安装">
+        <button v-if="item.winget" class="nav-card-winget" @click.stop.prevent="installWinget" title="使用 winget 安装">
           <i class="fas fa-download"></i>
           安装
         </button>
       </div>
     </div>
-  </div>
+  </a>
   <Teleport to="body">
     <div
       v-if="visible"
       class="nav-card-tooltip"
       :style="tooltipStyle"
     >{{ item.url }}</div>
+  </Teleport>
+  <Teleport to="body">
+    <div v-if="toastVisible" class="nav-card-toast-overlay" @click="hideToast">
+      <div class="nav-card-toast" @click.stop>
+        <button class="nav-card-toast-close" @click="hideToast">
+          <i class="fas fa-times"></i>
+        </button>
+        <div class="nav-card-toast-header">
+          <i class="fas fa-check-circle"></i>
+          <span>安装命令已复制到剪贴板</span>
+        </div>
+        <div class="nav-card-toast-command">{{ commandText }}</div>
+        <p class="nav-card-toast-hint">请在 Windows 终端中粘贴执行</p>
+      </div>
+    </div>
   </Teleport>
 </template>
 
@@ -60,6 +75,8 @@ const props = defineProps<{
 const cardRef = ref<HTMLElement | null>(null)
 const visible = ref(false)
 const tooltipPosition = ref({ top: 0, left: 0 })
+const toastVisible = ref(false)
+const commandText = ref('')
 
 const tooltipStyle = computed(() => ({
   top: `${tooltipPosition.value.top}px`,
@@ -80,20 +97,19 @@ function hideTooltip() {
   visible.value = false
 }
 
-function openLink() {
-  window.open(props.item.url, '_blank')
-}
-
 function installWinget() {
   if (!props.item.winget) return
   const command = `winget install --id "${props.item.winget}"`
-  // Copy command to clipboard and show alert
+  commandText.value = command
   navigator.clipboard.writeText(command).then(() => {
-    alert(`安装命令已复制到剪贴板：\n${command}\n\n请在 Windows 终端中粘贴执行。`)
+    toastVisible.value = true
   }).catch(() => {
-    // Fallback for older browsers
-    alert(`请在 Windows 终端中执行以下命令：\n${command}`)
+    toastVisible.value = true
   })
+}
+
+function hideToast() {
+  toastVisible.value = false
 }
 
 function handleImgError(e: Event) {
