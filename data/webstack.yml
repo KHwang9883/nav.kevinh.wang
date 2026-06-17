@@ -59,7 +59,7 @@ menu:
     icon: fas fa-gamepad
     submenu:
       - name: 游戏平台
-        icon: fas fa-gamepad
+        icon: fab fa-itch-io
         config: gamePlatforms
       - name: 常玩游戏
         icon: fas fa-gamepad
