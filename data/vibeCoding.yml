@@ -42,6 +42,7 @@
   url: https://ccswitch.io/zh/
   img: cc-switch.png
   description: 统一管理 AI 编程工具工作流
+  winget: farion1231.CC-Switch
 - name: CodeGeeX
   foss: true
   url: https://codegeex.cn/
