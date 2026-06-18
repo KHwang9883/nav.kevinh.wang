@@ -27,11 +27,6 @@
   img: trae.png
   description: 字节跳动 AI IDE + Agent 工作助手
   winget: ByteDance.Trae.CN
-- name: CodeGeeX
-  foss: true
-  url: https://codegeex.cn/
-  img: codegeex.png
-  description: 智谱 Agent 编程插件
 - name: Qoder
   url: https://qoder.com/
   img: qoder.png
@@ -42,3 +37,13 @@
   img: codebuddy.png
   description: 腾讯云 Agent 编程平台
   winget: Tencent.CodeBuddy
+- name: CC Switch
+  foss: true
+  url: https://ccswitch.io/zh/
+  img: cc-switch.png
+  description: 统一管理 AI 编程工具工作流
+- name: CodeGeeX
+  foss: true
+  url: https://codegeex.cn/
+  img: codegeex.png
+  description: 智谱 Agent 编程插件
