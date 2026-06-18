@@ -1,24 +1,7 @@
 <template>
   <div class="about-page">
     <!-- Navbar -->
-    <nav class="about-navbar">
-      <div class="about-navbar-inner">
-        <NuxtLink to="/" class="about-logo-link">
-          <span class="about-logo-text">Kevin Huang 的导航站</span>
-        </NuxtLink>
-        <div class="about-navbar-actions">
-          <!-- Dark mode toggle -->
-          <button class="about-nav-action" @click="toggleDarkMode" title="切换主题">
-            <i v-if="colorMode.value === 'dark'" class="fas fa-sun"></i>
-            <i v-else class="fas fa-moon"></i>
-          </button>
-          <!-- GitHub link -->
-          <a href="https://github.com/KHwang9883/nav.kevinh.wang" class="about-nav-action" target="_blank" title="GitHub">
-            <i class="fab fa-github"></i>
-          </a>
-        </div>
-      </div>
-    </nav>
+    <TopNav :show-toggle="false" />
 
     <!-- Main content -->
     <div class="about-content">
@@ -63,20 +46,11 @@
 </template>
 
 <script setup lang="ts">
-const colorMode = useColorMode()
 const { data: rawData } = useNavData()
 const data = computed(() => rawData.value!)
 
 const aboutPage = computed(() => data.value?.aboutPage || { website: { head: '', html: '' }, webmaster: { head: '', name: '', url: '', img: '', description: '', html: '' } })
 const since = computed(() => data.value?.since || 2020)
-
-function toggleDarkMode() {
-  if (colorMode.value === 'dark') {
-    colorMode.preference = 'light'
-  } else {
-    colorMode.preference = 'dark'
-  }
-}
 
 function openWebmasterLink() {
   if (aboutPage.value.webmaster?.url) {
@@ -86,55 +60,6 @@ function openWebmasterLink() {
 </script>
 
 <style scoped>
-/* Navbar */
-.about-navbar {
-  position: sticky;
-  top: 0;
-  z-index: 30;
-}
-
-.about-navbar-inner {
-  padding: 0 24px;
-  height: 64px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.about-navbar-actions {
-  display: flex;
-  align-items: center;
-  gap: 2px;
-}
-
-.about-nav-action {
-  width: 40px;
-  height: 40px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 8px;
-  cursor: pointer;
-  background: transparent;
-  border: none;
-  font-size: 16px;
-  text-decoration: none;
-  transition: all 0.2s ease;
-}
-
-.about-logo-link {
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-}
-
-.about-logo-text {
-  font-size: 1.125rem;
-  font-weight: 700;
-  letter-spacing: -0.01em;
-  white-space: nowrap;
-}
-
 /* Page layout */
 .about-page {
   min-height: 100vh;
@@ -294,15 +219,6 @@ function openWebmasterLink() {
 }
 
 @media (max-width: 480px) {
-  .about-navbar-inner {
-    padding: 0 16px;
-    height: 56px;
-  }
-
-  .about-logo-text {
-    font-size: 1rem;
-  }
-
   .about-content {
     padding: 20px 12px 40px;
   }

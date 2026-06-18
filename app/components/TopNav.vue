@@ -3,8 +3,8 @@
     <div class="top-nav-inner">
       <!-- Left: sidebar toggle + logo -->
       <div class="top-nav-left">
-        <!-- Sidebar toggle (mobile only) -->
-        <button @click="$emit('toggle-mobile-sidebar')" class="top-nav-toggle md:hidden" title="打开菜单">
+        <!-- Sidebar toggle (mobile only, hidden when showToggle is false) -->
+        <button v-if="showToggle" @click="$emit('toggle-mobile-sidebar')" class="top-nav-toggle md:hidden" title="打开菜单">
           <i class="fas fa-bars"></i>
         </button>
         <!-- Text logo -->
@@ -32,6 +32,12 @@
 
 <script setup lang="ts">
 const colorMode = useColorMode()
+
+const props = withDefaults(defineProps<{
+  showToggle?: boolean
+}>(), {
+  showToggle: true
+})
 
 defineEmits(['toggle-mobile-sidebar'])
 

@@ -600,24 +600,6 @@
   background: #f5f5f5;
 }
 
-.about-navbar {
-  background: #fff;
-  border-bottom: 1px solid #e5e7eb;
-}
-
-.about-logo-text {
-  color: #1f2937;
-}
-
-.about-nav-action {
-  color: #6b7280;
-}
-
-.about-nav-action:hover {
-  background: #f3f4f6;
-  color: #1f2937;
-}
-
 .about-section {
   background: #fff;
   border: 1px solid #e5e7eb;
@@ -719,24 +701,6 @@
 /* About page dark mode */
 .dark .about-page {
   background: #1a1b1c;
-}
-
-.dark .about-navbar {
-  background: #2c2e2f;
-  border-color: #4a4c4f;
-}
-
-.dark .about-nav-action {
-  color: #8b9299;
-}
-
-.dark .about-nav-action:hover {
-  background: #4a4c4f;
-  color: #d4d4d8;
-}
-
-.dark .about-logo-text {
-  color: #e0e0e0 !important;
 }
 
 .dark .about-section {
