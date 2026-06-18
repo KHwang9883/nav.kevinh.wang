@@ -1,168 +1,168 @@
 - name: winget
   hot: true
   url: https://docs.microsoft.com/zh-cn/windows/package-manager/winget/
-  img: /images/winget.png
+  img: winget.png
   description: 一条命令即可安装 Windows 程序
 - name: 火绒应用商店
   url: https://www.huorong.cn/app_store.html
-  img: /images/hrappstore.png
+  img: hrappstore.png
   description: 一站式管理应用软件
 - name: UniGetUI
   hot: true
   foss: true
   url: https://github.com/Devolutions/UniGetUI
-  img: /images/unigetui.png
+  img: unigetui.png
   description: winget 及众多包管理器的图形化界面
   winget: Devolutions.UniGetUI
 - name: PowerToys
   foss: true
   url: https://github.com/microsoft/PowerToys/releases
-  img: /images/powertoys.png
+  img: powertoys.png
   description: 微软出品系统增强工具
   winget: Microsoft.PowerToys
 - name: 7-Zip
   hot: true
   foss: true
   url: https://www.7-zip.org/
-  img: /images/7zip.png
+  img: 7zip.png
   description: 开源压缩软件
   winget: 7zip.7zip
 - name: Everything
   hot: true
   url: https://www.voidtools.com/zh-cn/downloads/
-  img: /images/everything.png
+  img: everything.png
   description: 文件查找利器
   winget: voidtools.Everything
 - name: Free Download Manager
   url: https://www.freedownloadmanager.org/zh/
-  img: /images/fdm.png
+  img: fdm.png
   description: 全能下载工具
   winget: SoftDeluxe.FreeDownloadManager
 - name: Motrix
   foss: true
   url: https://motrix.app/zh-CN/
-  img: /images/motrix.png
+  img: motrix.png
   description: 全能下载工具
   winget: agalwood.Motrix
 - name: qBittorrent
   abandoned: true
   foss: true
   url: https://www.qbittorrent.org/download
-  img: /images/qbittorrent.png
+  img: qbittorrent.png
   description: BT 下载工具
   winget: qBittorrent.qBittorrent
 - name: Wallpaper Engine
   paid: true
   url: https://store.steampowered.com/app/431960/
-  img: /images/wallpaper.webp
+  img: wallpaper.webp
   description: 不止壁纸自定义
 - name: ExplorerPatcher
   abandoned: true
   foss: true
   url: https://github.com/valinet/ExplorerPatcher
-  img: /images/fileexplorer.png
+  img: fileexplorer.png
   description: Windows 文件资源管理器体验增强
   winget: valinet.ExplorerPatcher
 - name: TranslucentTB
   abandoned: true
   foss: true
   url: https://github.com/TranslucentTB/TranslucentTB
-  img: /images/translucenttb.png
+  img: translucenttb.png
   description: 使任务栏透明
   winget: CharlesMilette.TranslucentTB
 - name: DesktopClock
   abandoned: true
   foss: true
   url: https://github.com/danielchalmers/DesktopClock
-  img: /images/desktopclock.png
+  img: desktopclock.png
   description: 简易桌面时钟
 - name: MacType
   abandoned: true
   foss: true
   url: https://www.mactype.net/
-  img: /images/mactype.png
+  img: mactype.png
   description: 优化 Windows 字体渲染
   winget: MacType.MacType
 - name: HiPC
   url: https://hipc.cn/
-  img: /images/hipc.png
+  img: hipc.png
   description: 用手机，远程监视与控制 PC
 - name: Foundation Sunshine
   hot: true
   foss: true
   url: https://github.com/qiin2333/foundation-sunshine
-  img: /images/sunshine.png
+  img: sunshine.png
   description: Sunshine 的修改版，配合 Moonlight V+ 使用
 - name: spacedesk
   abandoned: true
   url: https://www.spacedesk.net/
-  img: /images/spacedesk.png
+  img: spacedesk.png
   description: 使你的其他设备变身 Windows PC 的扩展显示器
   winget: Datronicsoft.SpacedeskDriver.Server
 - name: Parsec
   abandoned: true
   url: https://parsec.app/
-  img: /images/parsec.png
+  img: parsec.png
   description: P2P + 低延迟的远控软件
   winget: Parsec.Parsec
 - name: IObit Unlocker
   url: https://www.iobit.com/en/iobit-unlocker.php
-  img: /images/iobitunlocker.png
+  img: iobitunlocker.png
   description: 解除文件/文件夹占用的小工具
   winget: IObit.IObitUnlocker
 - name: Tai
   foss: true
   url: https://github.com/Planshit/Tai
-  img: /images/tai.png
+  img: tai.png
   description: 统计 Windows 电脑软件使用时长和网站浏览时长
 - name: Twinkle Tray
   foss: true
   url: https://twinkletray.com/
-  img: /images/twinkletray.png
+  img: twinkletray.png
   description: 快捷调节显示器亮度
   winget: xanderfrangos.twinkletray
 - name: WizTree
   url: https://diskanalyzer.com/download
-  img: /images/wiztree.png
+  img: wiztree.png
   description: 轻松查找大文件
   winget: AntibodySoftware.WizTree
 - name: 菲菲更名宝贝 之 得意非凡
   url: http://www.ffhome.com/works/1406.html
-  img: /images/feifei.png
+  img: feifei.png
   description: 强大的批量重命名工具
 - name: Bitwarden
   foss: true
   url: https://bitwarden.com/
-  img: /images/bitwarden.png
+  img: bitwarden.png
   description: 跨平台密码管理器
   winget: Bitwarden.Bitwarden
 - name: Tailscale
   foss: true
   url: https://tailscale.com/download/
-  img: /images/tailscale.png
+  img: tailscale.png
   description: 免费内网穿透组网
   winget: Tailscale.Tailscale
 - name: LocalSend
   abandoned: true
   foss: true
   url: https://localsend.org/zh-CN/download
-  img: /images/localsend.png
+  img: localsend.png
   description: 跨平台局域网文件传输工具
   winget: LocalSend.LocalSend
 - name: DesktopOK
   url: http://softwareok.com/?Download=DesktopOK
-  img: /images/desktopok.png
+  img: desktopok.png
   description: 备份/恢复桌面布局
   winget: SoftwareOK.DesktopOK
 - name: dupeGuru
   foss: true
   url: https://dupeguru.voltaicideas.net/
-  img: /images/dupeguru.png
+  img: dupeguru.png
   description: 查找重复文件
   winget: DupeGuru.DupeGuru
 - name: ViVeTool
   foss: true
   url: https://github.com/thebookisclosed/ViVe
-  img: /images/windows11.png
+  img: windows11.png
   description: 启用 Windows 隐藏功能
   winget: thebookisclosed.Vive

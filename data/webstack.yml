@@ -126,7 +126,7 @@ aboutPage:
     head: 本站站长
     name: Kevin Huang
     url: https://kevinh.wang/
-    img: /images/blog.png
+    img: blog.png
     description: 行稳致远，创造价值
 
 since: 2020

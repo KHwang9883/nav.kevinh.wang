@@ -1,118 +1,118 @@
 - name: Visual Studio
   url: https://visualstudio.microsoft.com/zh-hans/vs/
-  img: /images/visualstudio.png
+  img: visualstudio.png
   description: 地表最硬 IDE
   winget: Microsoft.VisualStudio.Community
 - name: Visual Studio Code
   hot: true
   url: https://code.visualstudio.com/
-  img: /images/vscode.png
+  img: vscode.png
   description: 强大的代码编辑器
   winget: Microsoft.VisualStudioCode
 - name: Windows Terminal
   foss: true
   url: https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701
-  img: /images/terminal.png
+  img: terminal.png
   description: 新版 Windows 终端
   winget: Microsoft.WindowsTerminal
 - name: Android Studio
   abandoned: true
   foss: true
   url: https://developer.android.com/studio?hl=zh-cn
-  img: /images/androidstudio.png
+  img: androidstudio.png
   description: 官方 Android IDE
   winget: Google.AndroidStudio
 - name: GitHub Desktop
   hot: true
   foss: true
   url: https://desktop.github.com/
-  img: /images/githubdesktop.png
+  img: githubdesktop.png
   description: 官方 GitHub 桌面用户端
   winget: GitHub.GitHubDesktop
 - name: Git
   foss: true
   url: https://git-scm.com/
-  img: /images/git.png
+  img: git.png
   description: 版本控制系统
   winget: Git.Git
 - name: JetBrains IDE
   url: https://www.jetbrains.com/zh-cn/ides/
-  img: /images/jetbrains.png
+  img: jetbrains.png
   description: 量身定制的针对特定语言的开发者体验
   winget: JetBrains.Toolbox
 - name: WinSCP
   hot: true
   foss: true
   url: https://winscp.net/eng/download.php
-  img: /images/winscp.png
+  img: winscp.png
   description: 可视化管理远程主机文件
   winget: WinSCP.WinSCP
 - name: PuTTY
   foss: true
   url: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
-  img: /images/putty.png
+  img: putty.png
   description: SSH 连接远程主机
   winget: PuTTY.PuTTY
 - name: FinalShell
   abandoned: true
   url: https://www.hostbuf.com/t/988.html
-  img: /images/finalshell.png
+  img: finalshell.png
   description: 多功能运维工具
 - name: VMware Workstation Pro
   url: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
-  img: /images/vmware.png
+  img: vmware.png
   description: VMware 虚拟机
 - name: VirtualBox
   abandoned: true
   foss: true
   url: https://www.virtualbox.org/wiki/Downloads
-  img: /images/virtualbox.png
+  img: virtualbox.png
   description: Oracle 虚拟机
   winget: Oracle.VirtualBox
 - name: Node.js
   foss: true
   url: https://nodejs.org/zh-cn/
-  img: /images/nodejs.png
+  img: nodejs.png
   description: JavaScript 运行时
   winget: OpenJS.NodeJS
 - name: fnm
   abandoned: true
   foss: true
   url: https://github.com/Schniz/fnm
-  img: /images/nodejs.png
+  img: nodejs.png
   description: Node.js 版本管理
   winget: Schniz.fnm
 - name: Bun
   foss: true
   url: https://bun.com/
-  img: /images/bun.png
+  img: bun.png
   description: 新 JavaScript 运行时
   winget: Oven-sh.Bun
 - name: Python
   foss: true
   url: https://www.python.org/downloads/
-  img: /images/python.png
+  img: python.png
   description: 流行的编程语言
   winget: Python.Python.3.13
 - name: pyenv
   foss: true
   url: https://github.com/pyenv/pyenv
-  img: /images/python.png
+  img: python.png
   description: Python 多版本管理
 - name: Java 8
   url: https://java.com/zh-CN/download/
-  img: /images/java.png
+  img: java.png
   description: 下载 Java 8
   winget: Oracle.JavaRuntimeEnvironment
 - name: Microsoft Build of OpenJDK
   foss: true
   url: https://docs.microsoft.com/zh-cn/java/openjdk/download
-  img: /images/java.png
+  img: java.png
   description: 微软 OpenJDK 构建
   winget: Microsoft.OpenJDK.21
 - name: Rust
   foss: true
   url: https://www.rust-lang.org/
-  img: /images/rust.png
+  img: rust.png
   description: Rust 编程语言
   winget: Rustlang.Rust.MSVC

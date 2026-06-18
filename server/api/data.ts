@@ -4,6 +4,31 @@ import yaml from 'js-yaml'
 import { marked } from 'marked'
 
 const dataDir = path.join(process.cwd(), 'data')
+const IMG_BASE_URL = '/images/'
+
+interface NavItem {
+  name: string
+  url: string
+  img: string
+  description: string
+  foss?: boolean
+  paid?: boolean
+  affiliate?: boolean
+  require_proxy?: 'required' | 'optional'
+  hot?: boolean
+  abandoned?: boolean
+  winget?: string
+}
+
+function processImgUrl(img: string | undefined): string | undefined {
+  if (!img) return img
+  if (img.startsWith('/') || img.startsWith('http')) return img
+  return IMG_BASE_URL + img
+}
+
+function processNavItemImg(item: NavItem): NavItem {
+  return { ...item, img: processImgUrl(item.img)! }
+}
 
 function loadYaml(filename: string): any {
   const filePath = path.join(dataDir, filename)
@@ -35,12 +60,14 @@ export default defineEventHandler(() => {
   const webstackConfig = loadYaml('webstack.yml') as any
 
   // Load all category data files
-  const categoryData: Record<string, any[]> = {}
+  const categoryData: Record<string, NavItem[]> = {}
   const dataFiles = fs.readdirSync(dataDir).filter(f => f.endsWith('.yml') && f !== 'webstack.yml')
 
   for (const file of dataFiles) {
     const key = file.replace('.yml', '')
-    categoryData[key] = loadYaml(file) as any[]
+    const items = loadYaml(file) as NavItem[]
+    // Process img field to add base URL
+    categoryData[key] = items.map(processNavItemImg)
   }
 
   // Build structured menu with data
@@ -73,6 +100,10 @@ export default defineEventHandler(() => {
   }
   if (aboutPage?.webmaster?.md) {
     aboutPage.webmaster.html = loadMarkdown(aboutPage.webmaster.md)
+  }
+  // Process webmaster img URL
+  if (aboutPage?.webmaster?.img) {
+    aboutPage.webmaster.img = processImgUrl(aboutPage.webmaster.img)
   }
 
   return {

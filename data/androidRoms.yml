@@ -1,44 +1,44 @@
 - name: XiaomiROM.com
   url: https://xiaomirom.com/
-  img: /images/xiaomihyperos.png
+  img: xiaomihyperos.png
   description: MIUI/Xiaomi HyperOS 下载站
 - name: HyperOS.fans
   url: https://hyperos.fans/
-  img: /images/hyperosfans.png
+  img: hyperosfans.png
   description: 另一个 Xiaomi HyperOS 下载站
 - name: MIUI 历史版本
   url: https://miuiver.com/
-  img: /images/xiaomihyperos.png
+  img: xiaomihyperos.png
   description: 各机型 MIUI/Xiaomi HyperOS 版本分类索引，需注册
 - name: Xiaomi.EU
   url: https://xiaomi.eu/community/
-  img: /images/xiaomihyperos.png
+  img: xiaomihyperos.png
   description: 小米 ROM 官改
 - name: Xiaomi Firmware Updater
   url: https://xmfirmwareupdater.com/
-  img: /images/xfu.png
+  img: xfu.png
   description: 小米手机 ROM & 底包下载
 - name: 一加手机官方 ROM 下载
   url: https://oplusrom.com/
-  img: /images/oneplus.png
+  img: oneplus.png
   description: 大侠阿木的一加 ROM 汇总站
 - name: ColorOS 升级工具
   url: https://www.coloros.com/rom
-  img: /images/coloros.png
+  img: coloros.png
   description: OPPO 设备升级工具
 - name: realme UI 升级工具
   url: https://www.realme.com/support/software-update
-  img: /images/realme.png
+  img: realme.png
   description: 真我手机升级工具
 - name: Flyme 官网下载
   url: https://www.flyme.com/firmware.html
-  img: /images/flyme.png
+  img: flyme.png
   description: 魅族手机搭载的系统
 - name: 联想移动设备固件
   url: https://mirrors.lolinet.com/firmware/
-  img: /images/lenovo.png
+  img: lenovo.png
   description: 联想、摩托罗拉手机/平板固件下载
 - name: LineageOS
   url: https://download.lineageos.org/
-  img: /images/lineageos.png
+  img: lineageos.png
   description: 下载 LineageOS

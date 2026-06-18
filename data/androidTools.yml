@@ -1,125 +1,125 @@
 - name: Android Platform Tools
   url: https://developer.android.google.cn/studio/releases/platform-tools
-  img: /images/android.png
+  img: android.png
   description: adb/fastboot 等工具官方下载
 - name: Magisk
   foss: true
   url: https://github.com/topjohnwu/Magisk
-  img: /images/magisk.png
+  img: magisk.png
   description: Android 的魔法面具
 - name: Magisk Alpha
   url: https://mrzzoxo.lanzoue.com/b0zk06l6j
-  img: /images/magisk.png
+  img: magisk.png
   description: Magisk 增强版
 - name: KernelSU
   foss: true
   url: https://kernelsu.org/zh_CN/
-  img: /images/kernelsu.png
+  img: kernelsu.png
   description: Android 上的内核级的 root 方案
 - name: SukiSU-Ultra
   foss: true
   url: https://sukisu.org/zh/
-  img: /images/sukisu.png
+  img: sukisu.png
   description: 新一代的 Android Root 方案
 - name: APatch
   foss: true
   url: https://github.com/bmax121/APatch
-  img: /images/apatch.png
+  img: apatch.png
   description: 另一内核级的 root 方案
 - name: Shizuku
   foss: true
   url: https://shizuku.rikka.app/
-  img: /images/shizuku.png
+  img: shizuku.png
   description: 通过 adb/root 权限直接使用系统 API
 - name: Termux
   hot: true
   foss: true
   url: https://termux.dev/
-  img: /images/termux.png
+  img: termux.png
   description: 终端模拟器 + Linux 环境
 - name: Linux Deploy
   foss: true
   url: https://github.com/lateautumn233/Linuxdeploy-Pro
-  img: /images/linuxdeploy.png
+  img: linuxdeploy.png
   description: 在已 root 的设备上部署 GNU/Linux
 - name: HyperCeiler
   foss: true
   url: https://github.com/ReChronoRain/HyperCeiler
-  img: /images/hyperceiler.png
+  img: hyperceiler.png
   description: MIUI/Xiaomi HyperOS 的 Xposed 增强模块
 - name: 爱玩机工具箱
   url: https://www.coolapk.com/apk/com.byyoung.setting
-  img: /images/aiwanji.png
+  img: aiwanji.png
   description: 解锁玩机新姿势
 - name: Scene
   paid: true
   url: http://vtools.omarea.com/
-  img: /images/scene.png
+  img: scene.png
   description: 性能监测与调节
 - name: scrcpy
   foss: true
   url: https://github.com/Genymobile/scrcpy
-  img: /images/scrcpy.png
+  img: scrcpy.png
   description: 将 Android 设备画面投屏到电脑
 - name: 甲壳虫 ADB 助手
   url: https://github.com/didjdk/adbhelper
-  img: /images/adbhelper.png
+  img: adbhelper.png
   description: 在手机上进行 ADB 调试
 - name: DSU Sideloader
   foss: true
   url: https://github.com/VegaBobo/DSU-Sideloader
-  img: /images/dsusideloader.jpeg
+  img: dsusideloader.jpeg
   description: 为 Android 10 以上设备安装 GSI 系统镜像
 - name: 萤火虫资源站
   url: https://www.yhcres.top/
-  img: /images/yhc.png
+  img: yhc.png
   description: 专注于安卓玩机和分享资源
 - name: 晨钟网络科技
   url: https://jamcz.com/
-  img: /images/jamcz.png
+  img: jamcz.png
   description: 实用玩机工具、玩机教程
 - name: 柚坛工具箱
   foss: true
   url: https://github.com/Uotan-Dev/UotanToolboxNT
-  img: /images/uotan.png
+  img: uotan.png
   description: 为玩机发烧友而生的全新工具箱
 - name: MiFlashUnlock
   url: http://www.miui.com/unlock/download.html
-  img: /images/xiaomi.png
+  img: xiaomi.png
   description: 小米 Bootloader 解锁工具
 - name: 一加全能盒子 | 工具箱 by 大侠阿木
   url: https://optool.daxiaamu.com/optool/
-  img: /images/dxam.png
+  img: dxam.png
   description: 欧加玩机辅助工具
 - name: Payload Dumper
   foss: true
   url: https://github.com/5ec1cff/payload-dumper
-  img: /images/github.png
+  img: github.png
   description: 转储 Android 更新包中的 payload.bin
 - name: MTKClient
   foss: true
   url: https://github.com/bkerler/mtkclient
-  img: /images/mtkclient.png
+  img: mtkclient.png
   description: 联发科设备固件提取/刷写
 - name: Lenovo Bootloader 解锁
   url: https://www.zui.com/iunlock
-  img: /images/lenovo.png
+  img: lenovo.png
   description: 联想手机、平板解锁 Bootloader
 - name: Lenovo Bootloader 解锁
   url: https://lenovobl.neko.ink/
-  img: /images/lenovo.png
+  img: lenovo.png
   description: 离线生成 Lenovo Bootloader 解锁文件
 - name: Flyme Root 授权
   url: https://mroot.flyme.cn/
-  img: /images/flyme.png
+  img: flyme.png
   description: 魅族手机获取 Root 权限
 - name: TWRP Recovery
   foss: true
   url: https://twrp.me/
-  img: /images/twrp.png
+  img: twrp.png
   description: 下载 TWRP Recovery
 - name: OrangeFox Recovery
   foss: true
   url: https://orangefox.download/zh-CN
-  img: /images/orangefox.png
+  img: orangefox.png
   description: 下载橙狐 Recovery

@@ -1,44 +1,44 @@
 - name: Codex
   require_proxy: required
   url: https://openai.com/zh-Hans-CN/codex/
-  img: /images/codex.png
+  img: codex.png
   description: OpenAI Agent 助手
   winget: OpenAI.Codex
 - name: OpenCode
   foss: true
   url: https://opencode.ai/
-  img: /images/opencode.png
+  img: opencode.png
   description: 开源 Agent 编程工具
   winget: SST.OpenCodeDesktop
 - name: Claude Code
   require_proxy: required
   url: https://claude.com/product/claude-code
-  img: /images/claude.png
+  img: claude.png
   description: Anthropic Agent 助手
   winget: Anthropic.ClaudeCode
 - name: Trae
   url: https://www.trae.ai/
-  img: /images/trae.png
+  img: trae.png
   description: 字节跳动 AI IDE + Agent 工作助手
   winget: ByteDance.Trae
 - name: Trae CN
   hot: true
   url: https://www.trae.cn/
-  img: /images/trae.png
+  img: trae.png
   description: 字节跳动 AI IDE + Agent 工作助手
   winget: ByteDance.Trae.CN
 - name: CodeGeeX
   foss: true
   url: https://codegeex.cn/
-  img: /images/codegeex.png
+  img: codegeex.png
   description: 智谱 Agent 编程插件
 - name: Qoder
   url: https://qoder.com/
-  img: /images/qoder.png
+  img: qoder.png
   description: 阿里云 Agent 编程平台
   winget: Alibaba.Lingma
 - name: CodeBuddy
   url: https://copilot.tencent.com/
-  img: /images/codebuddy.png
+  img: codebuddy.png
   description: 腾讯云 Agent 编程平台
   winget: Tencent.CodeBuddy

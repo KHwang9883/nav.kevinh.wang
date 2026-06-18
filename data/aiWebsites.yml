@@ -1,40 +1,40 @@
 - name: ClawHub
   url: https://clawhub.ai/
-  img: /images/openclaw.png
+  img: openclaw.png
   description: OpenClaw skills 平台
 - name: SkillHub
   url: https://skillhub.tencent.com/
-  img: /images/skillhub.png
+  img: skillhub.png
   description: 腾讯的 ClawHub 同步站
 - name: Hugging Face
   url: https://huggingface.co/
-  img: /images/huggingface.png
+  img: huggingface.png
   description: 开源 AI 模型库
 - name: Xiaomi MiMo
   url: https://mimo.xiaomi.com/zh/
-  img: /images/xiaomimimo.png
+  img: xiaomimimo.png
   description: Xiaomi MiMo 大模型
 - name: 即梦 AI
   url: https://jimeng.jianying.com/
-  img: /images/jimeng.png
+  img: jimeng.png
   description: Seedance AI 视频生成
 - name: 智谱开放平台
   url: https://bigmodel.cn/
-  img: /images/zai.png
+  img: zai.png
   description: 智谱 GLM 大模型
 - name: MiniMax
   url: https://minimaxi.com/
-  img: /images/minimax.png
+  img: minimax.png
   description: MiniMax 大模型
 - name: 硅基流动 SiliconCloud
   url: https://siliconflow.cn/zh-cn/siliconcloud
-  img: /images/siliconflow.png
+  img: siliconflow.png
   description: 高性价比的 GenAI 云服务
 - name: 超算互联网
   url: https://www.scnet.cn/ui/mall/
-  img: /images/scnet.png
+  img: scnet.png
   description: 国家超算互联网平台
 - name: 彩云小梦
   url: http://if.caiyunai.com/dream/#/
-  img: /images/caiyun.png
+  img: caiyun.png
   description: AI 续写

@@ -1,68 +1,68 @@
 - name: 网易云音乐
   hot: true
   url: https://music.163.com/#/download
-  img: /images/cloudmusic.png
+  img: cloudmusic.png
   description: 音乐的力量
   winget: NetEase.CloudMusic
 - name: QQ 音乐
   url: https://y.qq.com/download/download.html
-  img: /images/qqmusic.png
+  img: qqmusic.png
   description: 国内用户量第一的音乐软件
   winget: Tencent.QQMusic
 - name: foobar2000
   hot: true
   url: http://www.foobar2000.org/download
-  img: /images/foobar.png
+  img: foobar.png
   description: 可扩展的音乐播放器
   winget: PeterPawlowski.foobar2000
 - name: iTunes
   url: https://www.apple.com.cn/itunes/
-  img: /images/itunes.png
+  img: itunes.png
   description: Apple Music
   winget: Apple.iTunes
 - name: 哔哩哔哩
   url: https://app.bilibili.com/
-  img: /images/bili.png
+  img: bili.png
   description: B 站官方客户端
   winget: Bilibili.Bilibili
 - name: PotPlayer
   url: http://potplayer.daum.net/?lang=zh_CN
-  img: /images/potplayer.png
+  img: potplayer.png
   description: 解码能力强的播放器
   winget: Daum.PotPlayer
 - name: VLC media player
   foss: true
   url: https://www.videolan.org/vlc/
-  img: /images/vlc.png
+  img: vlc.png
   description: 开源多媒体播放器
   winget: VideoLAN.VLC
 - name: YesPlayMusic
   foss: true
   url: https://github.com/qier222/YesPlayMusic
-  img: /images/yesplaymusic.png
+  img: yesplaymusic.png
   description: 第三方网易云音乐用户端
   winget: qier222.YesPlayMusic
 - name: Listen1
   abandoned: true
   foss: true
   url: https://listen1.github.io/listen1/
-  img: /images/listen1.png
+  img: listen1.png
   description: 多平台聚合音乐播放器
   winget: listen1.listen1
 - name: 洛雪音乐助手
   abandoned: true
   foss: true
   url: https://github.com/lyswhut/lx-music-desktop
-  img: /images/lx.png
+  img: lx.png
   description: 下载无损歌曲
 - name: B 站录播姬
   foss: true
   url: https://rec.danmuji.org/
-  img: /images/lubo.png
+  img: lubo.png
   description: 方便好用的 B 站直播录制工具
   winget: Bililive.BililiveRecorder
 - name: 哔哩下载姬
   foss: true
   url: https://github.com/yaobiao131/downkyicore
-  img: /images/downkyi.png
+  img: downkyi.png
   description: 哔哩哔哩视频下载工具

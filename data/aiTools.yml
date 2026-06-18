@@ -2,37 +2,37 @@
   hot: true
   foss: true
   url: https://cherry-ai.com/
-  img: /images/cherrystudio.png
+  img: cherrystudio.png
   description: 一款为创造者而生的 AI 助手
   winget: kangfenmao.CherryStudio
 - name: OpenClaw
   foss: true
   url: https://openclaw.ai/
-  img: /images/openclaw.png
+  img: openclaw.png
   description: 开源 Agent AI 助手
 - name: Hermes Agent
   foss: true
   url: https://hermes-agent.nousresearch.com/
-  img: /images/hermesagent.png
+  img: hermesagent.png
   description: 开源 Agent AI 助手
 - name: Ollama
   abandoned: true
   foss: true
   url: https://ollama.com/
-  img: /images/ollama.png
+  img: ollama.png
   description: 在本地便捷部署 AI 语言模型
   winget: Ollama.Ollama
 - name: LM Studio
   abandoned: true
   url: https://lmstudio.ai/
-  img: /images/lmstudio.png
+  img: lmstudio.png
   description: 在本地便捷部署 AI 语言模型
   winget: ElementLabs.LMStudio
 - name: Stable Diffusion
   url: https://www.bilibili.com/video/BV1iM4y1y7oA/
-  img: /images/stabilityai.png
+  img: stabilityai.png
   description: "@秋葉aaaki 制作的整合包，解压即用"
 - name: GPT-SoVITS
   url: https://github.com/RVC-Boss/GPT-SoVITS
-  img: /images/sovits.png
+  img: sovits.png
   description: 少样本语音转换与语音合成
