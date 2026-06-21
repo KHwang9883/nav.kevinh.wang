@@ -22,6 +22,10 @@
   url: https://bigmodel.cn/
   img: zai.png
   description: 智谱 GLM 大模型
+- name: 火山方舟
+  url: https://www.volcengine.com/product/ark
+  img: volcengine.png
+  description: 字节跳动一站式大模型服务平台
 - name: MiniMax
   url: https://minimaxi.com/
   img: minimax.png
