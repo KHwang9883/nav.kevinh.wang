@@ -1,6 +1,6 @@
 import fs from 'fs'
 import path from 'path'
-import * as yaml from 'js-yaml'
+import { load as yamlLoad } from 'js-yaml'
 import { marked } from 'marked'
 
 const dataDir = path.join(process.cwd(), 'data')
@@ -34,7 +34,7 @@ function loadYaml(filename: string): any {
   const filePath = path.join(dataDir, filename)
   if (fs.existsSync(filePath)) {
     const content = fs.readFileSync(filePath, 'utf-8')
-    return yaml.load(content)
+    return yamlLoad(content)
   }
   return []
 }
