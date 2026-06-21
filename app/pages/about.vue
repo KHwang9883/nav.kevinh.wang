@@ -71,7 +71,7 @@ function openWebmasterLink() {
   flex: 1;
   max-width: 960px;
   margin: 0 auto;
-  padding: 40px 24px 60px;
+  padding: 84px 24px 60px;
 }
 
 /* Section */
