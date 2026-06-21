@@ -1,6 +1,6 @@
 import fs from 'fs'
 import path from 'path'
-import yaml from 'js-yaml'
+import * as yaml from 'js-yaml'
 import { marked } from 'marked'
 
 const dataDir = path.join(process.cwd(), 'data')
