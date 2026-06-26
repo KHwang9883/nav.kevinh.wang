@@ -2,6 +2,7 @@
   url: https://developer.android.google.cn/studio/releases/platform-tools
   img: android.png
   description: adb/fastboot 等工具官方下载
+  winget: Google.PlatformTools
 - name: Magisk
   foss: true
   url: https://github.com/topjohnwu/Magisk
@@ -61,6 +62,7 @@
   url: https://github.com/Genymobile/scrcpy
   img: scrcpy.png
   description: 将 Android 设备画面投屏到电脑
+  winget: Genymobile.scrcpy
 - name: 甲壳虫 ADB 助手
   url: https://github.com/didjdk/adbhelper
   img: adbhelper.png
