@@ -4,7 +4,7 @@
 
 本站现提供 winget 一键命令，用户只需将复制的命令粘贴到 Windows 终端即可快速安装。
 
-- 标有 <i class="fab fa-osi"></i> 图标的均为自由/开源软件（FREE 表示「自由」而非「免费」）
+- 标有 <i class="fab fa-osi"></i> 图标的均为自由/开源软件
 - 标有 <i class="fas fa-fire"></i> 的软件为本人常用（「主力」级别）且特别推荐的软件
 - 标有 <i class="fas fa-dollar-sign"></i> 的均为买断制收费软件（Adobe Creative Cloud 为例外，其不是买断制但有此标注）
 - 标有 <i class="fas fa-stop-circle"></i> 的软件为我有段时间未使用且可能已被卸载，但仍作为推荐列出
