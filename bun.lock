@@ -13,9 +13,8 @@
       "devDependencies": {
         "@nuxtjs/tailwindcss": "^6.14.0",
         "@types/js-yaml": "^4.0.9",
-        "@types/node": "^26.0.1",
-        "js-yaml": "^5.1.0",
-        "marked": "^18.0.5",
+        "js-yaml": "^5.2.1",
+        "marked": "^18.0.6",
         "typescript": "^6.0.3",
       },
     },
@@ -931,7 +930,7 @@
 
     "js-tokens": ["js-tokens@9.0.1", "https://registry.npmmirror.com/js-tokens/-/js-tokens-9.0.1.tgz", {}, "sha512-mxa9E9ITFOt0ban3j6L5MpjwegGz6lBQmM1IJkWeBZGcMxto50+eWdjC/52xDbS2vy0k7vIMK0Fe2wfL9OQSpQ=="],
 
-    "js-yaml": ["js-yaml@5.1.0", "https://registry.npmmirror.com/js-yaml/-/js-yaml-5.1.0.tgz", { "dependencies": { "argparse": "^2.0.1" }, "bin": { "js-yaml": "bin/js-yaml.mjs" } }, "sha512-s8VA5jkR8f22S3NAXmhKPFqGUduqZGlsufabVOgN14iTdw/RXcym7bKkbwjxLK9Yw2lEvvmJjFp119+KPeo8Kg=="],
+    "js-yaml": ["js-yaml@5.2.1", "https://registry.npmmirror.com/js-yaml/-/js-yaml-5.2.1.tgz", { "dependencies": { "argparse": "^2.0.1" }, "bin": { "js-yaml": "bin/js-yaml.mjs" } }, "sha512-zfLtNfQqxVqq3uaTqSkh4x4hZw3KHobGUA0fJUj4wawW8bsQLTVqpHdXSIzidh7o+4lEW36tANuAGdaFx6Zgnw=="],
 
     "jsesc": ["jsesc@3.1.0", "https://registry.npmmirror.com/jsesc/-/jsesc-3.1.0.tgz", { "bin": { "jsesc": "bin/jsesc" } }, "sha512-/sM3dO2FOzXjKQhJuo0Q173wf2KOo8t4I8vHy6lF9poUp7bKT0/NHE8fPX23PwfhnykfqnC2xRxOnVw5XuGIaA=="],
 
@@ -981,7 +980,7 @@
 
     "magicast": ["magicast@0.5.3", "https://registry.npmmirror.com/magicast/-/magicast-0.5.3.tgz", { "dependencies": { "@babel/parser": "^7.29.3", "@babel/types": "^7.29.0", "source-map-js": "^1.2.1" } }, "sha512-pVKE4UdSQ7DvHzivsCIFx2BJn1mHG6KsyrFcaxFx6tONdneEuThrDx0Cj3AMg58KyN4pzYT+LHOotxDQDjNvkw=="],
 
-    "marked": ["marked@18.0.5", "https://registry.npmmirror.com/marked/-/marked-18.0.5.tgz", { "bin": { "marked": "bin/marked.js" } }, "sha512-S6GcvALHg6K4ohtu4E7x0a1AqhAjp6cV8KhLSyN9qVapnzJkusVBxZRcIU9AeYsbe6P1hKDusSbEOzGyyuce6w=="],
+    "marked": ["marked@18.0.6", "https://registry.npmmirror.com/marked/-/marked-18.0.6.tgz", { "bin": { "marked": "bin/marked.js" } }, "sha512-MrV5puXBfuiy6wl6DLaq3BtIJQAJToAd5zt/ZKhRfGRAuFPALE7/4Y7jnxRQoEgK/pBgurGqLyAuRgZ2xOjr6w=="],
 
     "math-intrinsics": ["math-intrinsics@1.1.0", "https://registry.npmmirror.com/math-intrinsics/-/math-intrinsics-1.1.0.tgz", {}, "sha512-/IXtbwEk5HTPyEwyKX6hGkYXxM9nbj64B+ilVJnC/R6B0pH5G4V3b0pVbL7DBj4tkhBAppbQUlf6F6Xl9LHu1g=="],
 
