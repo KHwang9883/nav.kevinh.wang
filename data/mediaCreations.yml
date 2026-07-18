@@ -20,6 +20,12 @@
   img: pdn.png
   description: 免费画图软件
   winget: dotPDN.PaintDotNet
+- name: Inkscape
+  foss: true
+  url: https://inkscape.org/release/
+  img: inkscape.png
+  description: 开源矢量图编辑软件
+  winget: Inkscape.Inkscape
 - name: PixPin
   url: https://pixpin.cn/
   img: pixpin.png
