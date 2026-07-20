@@ -46,19 +46,5 @@ export default defineNuxtConfig({
     },
   },
 
-  vite: {
-    build: {
-      rollupOptions: {
-        output: {
-          manualChunks(id) {
-            if (id.includes('node_modules/vue/') || id.includes('node_modules/vue-router/')) {
-              return 'vue'
-            }
-          },
-        },
-      },
-    },
-  },
-
   devtools: { enabled: false },
 })
