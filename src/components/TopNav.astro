@@ -1,0 +1,38 @@
+---
+interface Props {
+  showToggle?: boolean
+}
+
+const { showToggle = true } = Astro.props
+---
+
+<nav class="top-nav">
+  <div class="top-nav-inner">
+    <!-- Left: sidebar toggle + logo -->
+    <div class="top-nav-left">
+      {showToggle && (
+        <button id="top-nav-toggle" class="top-nav-toggle md:hidden" title="打开菜单" aria-label="打开菜单">
+          <i class="fas fa-bars"></i>
+        </button>
+      )}
+      <!-- Text logo -->
+      <a href="/" class="top-nav-logo">
+        Kevin Huang 的导航站
+      </a>
+    </div>
+
+    <!-- Right: actions -->
+    <div class="top-nav-right">
+      <!-- Dark mode toggle -->
+      <button id="dark-mode-toggle" class="top-nav-action" title="切换主题" aria-label="切换主题">
+        <i class="fas fa-moon dark-mode-icon-moon"></i>
+        <i class="fas fa-sun dark-mode-icon-sun" style="display:none"></i>
+      </button>
+
+      <!-- GitHub link -->
+      <a href="https://github.com/KHwang9883/nav.kevinh.wang" class="top-nav-action" target="_blank" title="GitHub" aria-label="GitHub">
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+  </div>
+</nav>

@@ -1,4 +1,4 @@
-interface NavItem {
+export interface NavItem {
   name: string
   url: string
   img: string
@@ -12,14 +12,14 @@ interface NavItem {
   winget?: string
 }
 
-interface MenuSubItem {
+export interface MenuSubItem {
   name: string
   icon: string
   config: string
   items: NavItem[]
 }
 
-interface MenuItem {
+export interface MenuItem {
   name: string
   icon: string
   config?: string
@@ -27,7 +27,7 @@ interface MenuItem {
   submenu?: MenuSubItem[]
 }
 
-interface NavData {
+export interface NavData {
   title: string
   subtitle: string
   favicon: string
@@ -61,25 +61,4 @@ interface NavData {
   }
   since: number
   lastUpdate?: string
-}
-
-export const useNavData = () => {
-  return useFetch<NavData>('/api/data', {
-    key: 'nav-data',
-    default: () => ({
-      title: '',
-      subtitle: '',
-      favicon: '',
-      banner: '',
-      logo: { expanded: '', collapsed: '', dark: '' },
-      menu: [],
-      about: { url: '', icon: '', name: '' },
-      aboutPage: {
-        website: { head: '', html: '' },
-        webmaster: { head: '', name: '', url: '', img: '', description: '', html: '' },
-      },
-      since: 2020,
-      lastUpdate: '',
-    }),
-  })
 }

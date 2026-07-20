@@ -1,4 +1,4 @@
-本站是 Kevin Huang 的个人导航站，使用 [Nuxt.js](https://nuxt.com/) 框架 + [Tailwind CSS](https://tailwindcss.com/) 构建。
+本站是 Kevin Huang 的个人导航站，使用 [Astro](https://astro.build/) 框架 + [Tailwind CSS](https://tailwindcss.com/) 构建。
 
 本站列出的全部软件和操作系统本人都正在使用或曾体验过，表示本人的一种认可。
 

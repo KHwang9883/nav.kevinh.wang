@@ -2,23 +2,10 @@ import fs from 'fs'
 import path from 'path'
 import { load as yamlLoad } from 'js-yaml'
 import { marked } from 'marked'
+import type { NavItem, NavData } from './types'
 
 const dataDir = path.join(process.cwd(), 'data')
 const IMG_BASE_URL = '/images/'
-
-interface NavItem {
-  name: string
-  url: string
-  img: string
-  description: string
-  foss?: boolean
-  paid?: boolean
-  affiliate?: boolean
-  require_proxy?: 'required' | 'optional'
-  hot?: boolean
-  abandoned?: boolean
-  winget?: string
-}
 
 function processImgUrl(img: string | undefined): string | undefined {
   if (!img) return img
@@ -55,7 +42,7 @@ function formatDate(date: Date): string {
   return `${year}-${month}-${day}`
 }
 
-export default defineEventHandler(() => {
+export function getNavData(): NavData {
   // Load menu configuration
   const webstackConfig = loadYaml('webstack.yml') as any
 
@@ -118,4 +105,4 @@ export default defineEventHandler(() => {
     since: webstackConfig.since,
     lastUpdate: buildDate,
   }
-})
+}

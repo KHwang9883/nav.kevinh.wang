@@ -1,0 +1,30 @@
+---
+import Layout from '../layouts/Layout.astro'
+import CategorySection from '../components/CategorySection.astro'
+import { getNavData } from '../data/load'
+
+const data = getNavData()
+---
+
+<Layout data={data}>
+  <div class="content-area">
+    {data.menu.map((item) => (
+      <>
+        {item.submenu ? (
+          item.submenu.map((sub) => (
+            <CategorySection name={sub.name} icon={sub.icon} items={sub.items} />
+          ))
+        ) : item.items ? (
+          <CategorySection name={item.name} icon={item.icon} items={item.items} />
+        ) : null}
+      </>
+    ))}
+  </div>
+</Layout>
+
+<style>
+  .content-area {
+    max-width: 1200px;
+    margin: 16px auto;
+  }
+</style>

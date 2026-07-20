@@ -1,0 +1,73 @@
+---
+import type { NavData } from '../data/types'
+
+interface Props {
+  menu: NavData['menu']
+  about: NavData['about']
+  lastUpdate?: string
+}
+
+const { menu, about, lastUpdate } = Astro.props
+
+// 将名称转换为可用的锚点 ID（与原 Vue 逻辑一致）
+function toAnchor(name: string): string {
+  return name.replace(/[\s]+/g, '-')
+}
+---
+
+<div id="sidebar-menu" class="sidebar-menu" data-mobile-open="false">
+  <div class="sidebar-inner">
+    <!-- Menu -->
+    <ul class="sidebar-nav">
+      {menu.map((item) => (
+        <li class="sidebar-nav-item">
+          {item.submenu ? (
+            <>
+              <a class="sidebar-nav-link" data-submenu-toggle={item.name}>
+                <i class={`${item.icon} sidebar-nav-icon`}></i>
+                <span class="menu-title">{item.name}</span>
+                <i class={`fas fa-angle-down sidebar-nav-arrow menu-title`} data-arrow={item.name}></i>
+              </a>
+              <ul class="sidebar-submenu" data-submenu={item.name}>
+                {item.submenu.map((sub) => (
+                  <li>
+                    <a href={`#${toAnchor(sub.name)}`} class="sidebar-submenu-link" data-anchor={toAnchor(sub.name)}>
+                      <i class={`${sub.icon} sidebar-nav-icon`}></i>
+                      <span class="menu-title">{sub.name}</span>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </>
+          ) : item.config ? (
+            <a href={`#${toAnchor(item.name)}`} class="sidebar-nav-link" data-anchor={toAnchor(item.name)}>
+              <i class={`${item.icon} sidebar-nav-icon`}></i>
+              <span class="menu-title">{item.name}</span>
+            </a>
+          ) : (
+            <a class="sidebar-nav-link sidebar-nav-link--info">
+              <i class={`${item.icon} sidebar-nav-icon`}></i>
+              <span class="menu-title">{item.name}</span>
+            </a>
+          )}
+        </li>
+      ))}
+    </ul>
+
+    <!-- About link at bottom -->
+    {about && (
+      <div class="sidebar-bottom">
+        {lastUpdate && (
+          <div class="sidebar-last-update">
+            <i class="far fa-calendar sidebar-nav-icon"></i>
+            <span class="menu-title">最后更新：{lastUpdate}</span>
+          </div>
+        )}
+        <a href={about.url} class="sidebar-about-link">
+          <i class={`${about.icon} sidebar-nav-icon`}></i>
+          <span class="menu-title">{about.name}</span>
+        </a>
+      </div>
+    )}
+  </div>
+</div>

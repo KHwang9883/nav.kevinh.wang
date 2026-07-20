@@ -1,10 +1,13 @@
-# Nuxt dev/build outputs
+# Astro dev/build outputs
+.astro
+dist
+
+# Legacy Nuxt outputs (kept for safety during migration)
+.nuxt
 .output
 .data
-.nuxt
 .nitro
 .cache
-dist
 
 # Node dependencies
 node_modules
@@ -19,6 +22,7 @@ logs
 .fleet
 .idea
 .vscode
+.trae
 
 # Local env files
 .env

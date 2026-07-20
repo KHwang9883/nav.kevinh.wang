@@ -3,12 +3,7 @@ import type { Config } from 'tailwindcss'
 export default <Config>{
   darkMode: 'class',
   content: [
-    './app/components/**/*.{vue,js,ts}',
-    './app/layouts/**/*.{vue,js,ts}',
-    './app/pages/**/*.{vue,js,ts}',
-    './app/composables/**/*.{vue,js,ts}',
-    './app/app.vue',
-    './app/error.vue',
+    './src/**/*.{astro,html,js,ts,jsx,tsx}',
   ],
   theme: {
     extend: {
@@ -35,7 +30,7 @@ export default <Config>{
         },
       },
       fontFamily: {
-        arimo: ['Arimo', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif'],
+        sans: ['system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', 'Noto Sans', 'sans-serif'],
       },
       maxWidth: {
         'main-content': '1200px',
