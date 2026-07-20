@@ -36,10 +36,8 @@ function loadMarkdown(filename: string): string {
 }
 
 function formatDate(date: Date): string {
-  const year = date.getFullYear()
-  const month = String(date.getMonth() + 1).padStart(2, '0')
-  const day = String(date.getDate()).padStart(2, '0')
-  return `${year}-${month}-${day}`
+  // 显式使用 Asia/Shanghai 时区（GMT+8），避免 CI 环境时区差异导致日期偏差
+  return date.toLocaleDateString('en-CA', { timeZone: 'Asia/Shanghai' })
 }
 
 export function getNavData(): NavData {
