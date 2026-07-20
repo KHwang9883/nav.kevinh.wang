@@ -112,6 +112,6 @@ Markdown 内容从 `data/about.md` 通过 `marked` 库加载。`webstack.yml` �
 - 添加新分类需要两步操作：创建 YAML 数据文件，并在 `webstack.yml` 菜单中添加 `config` 条目。
 - `bun.lock` 文件已提交；`bun.lockb` 被 gitignore。使用 `bun install` 从 lockfile 恢复依赖。
 - Nuxt devtools 已禁用（`devtools: { enabled: false }`）。
-- 预渲染仅爬取 `/` 及其链接（`nitro.prerender` 中 `crawlLinks: true`）。
+- Cloudflare Pages 构建命令应使用 `bun run generate`（即 `nuxt generate`），而非 `bun run build`（即 `nuxt build`）。`nuxt build` 会打包 Nitro server，`unhead/dist/stream/iife.mjs` 中的超长字符串会导致 Rollup 解析失败。静态站点只需 `nuxt generate` 输出静态文件即可。
 - 颜色样式必须在全局 CSS（`main.css`）中定义，而非组件的 scoped 样式，以确保深色模式兼容性。
 - LinkCard 最小宽度为 320px；布局使用 CSS Grid 的 `repeat(auto-fill, minmax(320px, 1fr))`。
