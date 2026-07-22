@@ -4,7 +4,7 @@ Kevin Huang 的导航站收录了我本人常用的一些软件和游戏的官�
 
 导航站地址：https://nav.kevinh.wang/
 
-导航站灵感/部分应用图标来源于 [狼导 - 音速装机](https://sonic.volf.club/)，新版导航站使用 [Nuxt.js](https://nuxt.com/) 框架 + [Tailwind CSS](https://tailwindcss.com/) 构建。
+导航站灵感/部分应用图标来源于 [狼导 - 音速装机](https://sonic.volf.club/)，新版导航站使用 [Astro](https://astro.build/) 框架 + [Tailwind CSS](https://tailwindcss.com/) 构建。
 
 本站现提供 winget 一键命令，用户只需将复制的命令粘贴到 Windows 终端即可快速安装。
 
