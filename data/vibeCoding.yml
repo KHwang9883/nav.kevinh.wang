@@ -16,17 +16,22 @@
   img: claude.png
   description: Anthropic Agent 助手
   winget: Anthropic.ClaudeCode
-- name: Trae
-  url: https://www.trae.ai/
-  img: trae.png
-  description: 字节跳动 AI IDE + Agent 工作助手
-  winget: ByteDance.Trae
 - name: Trae CN
   hot: true
   url: https://www.trae.cn/
   img: trae.png
   description: 字节跳动 AI IDE + Agent 工作助手
   winget: ByteDance.Trae.CN
+- name: Trae
+  url: https://www.trae.ai/
+  img: trae.png
+  description: 字节跳动 AI IDE + Agent 工作助手
+  winget: ByteDance.Trae
+- name: Kimi Code
+  url: https://www.kimi.com/code
+  img: kimi.png
+  description: 月之暗面 Agent 编程助手
+  winget: MoonshotAI.KimiCodeCLI
 - name: Qoder
   url: https://qoder.com/
   img: qoder.png
@@ -47,8 +52,3 @@
   url: https://github.com/jlcodes99/cockpit-tools
   img: cockpittools.png
   description: AI IDE 账号管理工具
-- name: CodeGeeX
-  foss: true
-  url: https://codegeex.cn/
-  img: codegeex.png
-  description: 智谱 Agent 编程插件

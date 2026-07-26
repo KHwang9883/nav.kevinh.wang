@@ -9,11 +9,11 @@
 - name: Hugging Face
   url: https://huggingface.co/
   img: huggingface.png
-  description: 开源 AI 模型库
+  description: 开源 AI 模型汇总平台
 - name: Xiaomi MiMo
   url: https://mimo.xiaomi.com/zh/
   img: xiaomimimo.png
-  description: Xiaomi MiMo 大模型
+  description: Xiaomi MiMo 模型
 - name: 即梦 AI
   url: https://jimeng.jianying.com/
   img: jimeng.png
@@ -21,15 +21,11 @@
 - name: 智谱开放平台
   url: https://bigmodel.cn/
   img: zai.png
-  description: 智谱 GLM 大模型
+  description: 智谱 GLM 模型
 - name: 火山方舟
   url: https://www.volcengine.com/product/ark
   img: volcengine.png
   description: 字节跳动一站式大模型服务平台
-- name: MiniMax
-  url: https://minimaxi.com/
-  img: minimax.png
-  description: MiniMax 大模型
 - name: 硅基流动 SiliconCloud
   url: https://siliconflow.cn/zh-cn/siliconcloud
   img: siliconflow.png

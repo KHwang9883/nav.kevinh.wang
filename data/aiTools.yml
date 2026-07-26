@@ -15,6 +15,11 @@
   url: https://hermes-agent.nousresearch.com/
   img: hermesagent.png
   description: 开源 Agent AI 助手
+- name: WorkBuddy
+  url: https://copilot.tencent.com/work/
+  img: workbuddy.png
+  description: 腾讯云 Agent 工作助手
+  winget: Tencent.WorkBuddy
 - name: Ollama
   abandoned: true
   foss: true
