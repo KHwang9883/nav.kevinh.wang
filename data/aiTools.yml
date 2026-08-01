@@ -25,13 +25,13 @@
   foss: true
   url: https://ollama.com/
   img: ollama.png
-  description: 在本地便捷部署 AI 语言模型
+  description: 在本地便捷部署 AI 模型
   winget: Ollama.Ollama
 - name: LM Studio
   abandoned: true
   url: https://lmstudio.ai/
   img: lmstudio.png
-  description: 在本地便捷部署 AI 语言模型
+  description: 在本地便捷部署 AI 模型
   winget: ElementLabs.LMStudio
 - name: Stable Diffusion
   url: https://www.bilibili.com/video/BV1iM4y1y7oA/
