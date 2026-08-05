@@ -22,6 +22,10 @@
   url: https://github.com/mzlogin/awesome-adb
   img: awesomeadb.png
   description: ADB 用法大全
+- name: LinuxCabin Handbook
+  url: https://hb.091209.xyz/
+  img: linuxcabin.png
+  description: 专为中国用户编写的 GNU/Linux 入门指南
 - name: archlinux 简明指南
   url: https://arch.icekylin.online/
   img: archlinux2.png
