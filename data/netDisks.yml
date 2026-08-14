@@ -50,11 +50,13 @@
   description: 多种云存储同步工具
   winget: Rclone.Rclone
 - name: Cloudreve
+  foss: true
   url: https://cloudreve.org/
   img: cloudreve.png
   description: 自建云存储
   winget: Cloudreve.Cloudreve
 - name: Nextcloud
+  foss: true
   url: https://nextcloud.com/
   img: nextcloud.png
   description: 自建云存储
