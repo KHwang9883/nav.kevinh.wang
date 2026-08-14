@@ -9,7 +9,7 @@
 - name: Cloudflare
   url: https://www.cloudflare.com/zh-cn/
   img: cloudflare.png
-  description: 域名、抗攻击与 Cloudflare Pages
+  description: 抗攻击、Pages/Workers、R2 对象存储
 - name: Vercel
   url: https://vercel.com/
   img: vercel.png
