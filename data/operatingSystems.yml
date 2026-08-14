@@ -77,3 +77,7 @@
   url: http://mirrors.ustc.edu.cn/
   img: ustc.png
   description: USTC open source software mirror
+- name: 校园网联合镜像站
+  url: https://mirrors.cernet.edu.cn/
+  img: mirrorz.png
+  description: 各校园网镜像站聚合
