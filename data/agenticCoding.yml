@@ -22,11 +22,6 @@
   img: trae.png
   description: 字节跳动 AI IDE
   winget: ByteDance.Trae.CN
-- name: TraeWork
-  url: https://www.trae.cn/work
-  img: traework.png
-  description: 字节跳动 Agent 办公助手
-  winget: ByteDance.TraeWork.CN
 - name: ZCode
   url: https://zcode.z.ai/cn
   img: zai.png
