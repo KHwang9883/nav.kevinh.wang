@@ -46,7 +46,7 @@ menu:
       - name: AI 生产力
         icon: fas fa-toolbox
         config: aiTools
-      - name: 相关网站
+      - name: AI 相关网站
         icon: fas fa-dice-d6
         config: aiWebsites
   - name: 游戏相关

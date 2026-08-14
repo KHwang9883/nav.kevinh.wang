@@ -116,3 +116,8 @@
   img: rust.png
   description: Rust 编程语言
   winget: Rustlang.Rust.MSVC
+- name: Tauri
+  foss: true
+  url: https://v2.tauri.app/zh-cn/
+  img: tauri.png
+  description: Rust 跨平台应用框架

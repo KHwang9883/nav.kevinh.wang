@@ -26,6 +26,7 @@
   url: https://zcode.z.ai/cn
   img: zai.png
   description: 智谱 GLM 官方 Harness
+  winget: ZhipuAI.ZCode
 - name: Kimi Code
   url: https://www.kimi.com/code
   img: kimi.png
@@ -40,11 +41,11 @@
   url: https://copilot.tencent.com/
   img: codebuddy.png
   description: 腾讯云 Agent 编程平台
+  winget: Tencent.CodeBuddy
 - name: DeepSeek Harness
   url: https://www.deepseek.com/harness/
   img: deepseek.png
   description: 一切皆插件的 Agent Harness
-  winget: Tencent.CodeBuddy
 - name: CC Switch
   foss: true
   url: https://ccswitch.io/zh/

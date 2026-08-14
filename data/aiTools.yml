@@ -1,5 +1,4 @@
 - name: Cherry Studio
-  hot: true
   foss: true
   url: https://cherry-ai.com/
   img: cherrystudio.png
