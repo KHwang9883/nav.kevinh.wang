@@ -44,13 +44,6 @@
   img: motrix.png
   description: 全能下载工具
   winget: agalwood.Motrix
-- name: qBittorrent
-  abandoned: true
-  foss: true
-  url: https://www.qbittorrent.org/download
-  img: qbittorrent.png
-  description: BT 下载工具
-  winget: qBittorrent.qBittorrent
 - name: Wallpaper Engine
   paid: true
   url: https://store.steampowered.com/app/431960/
@@ -121,6 +114,12 @@
   img: twinkletray.png
   description: 快捷调节显示器亮度
   winget: xanderfrangos.twinkletray
+- name: QuickLook
+  foss: true
+  url: https://github.com/QL-Win/QuickLook
+  img: quicklook.png
+  description: 按下空格键快速预览文件
+  winget: QL-Win.QuickLook
 - name: WizTree
   url: https://diskanalyzer.com/download
   img: wiztree.png
