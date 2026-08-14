@@ -2,35 +2,39 @@
   require_proxy: required
   url: https://openai.com/zh-Hans-CN/codex/
   img: codex.png
-  description: OpenAI Agent 助手
+  description: OpenAI Agent Harness
   winget: OpenAI.Codex
 - name: OpenCode
   foss: true
   url: https://opencode.ai/
   img: opencode.png
-  description: 开源 Agent 编程工具
+  description: 开源 Agent Harness
   winget: SST.OpenCodeDesktop
 - name: Claude Code
   require_proxy: required
   url: https://claude.com/product/claude-code
   img: claude.png
-  description: Anthropic Agent 助手
+  description: Anthropic Agent Harness
   winget: Anthropic.ClaudeCode
-- name: Trae CN
+- name: TraeCode
   hot: true
-  url: https://www.trae.cn/
+  url: https://www.trae.cn/ide
   img: trae.png
-  description: 字节跳动 AI IDE + Agent 工作助手
+  description: 字节跳动 AI IDE
   winget: ByteDance.Trae.CN
-- name: Trae
-  url: https://www.trae.ai/
-  img: trae.png
-  description: 字节跳动 AI IDE + Agent 工作助手
+- name: TraeWork
+  url: https://www.trae.cn/work
+  img: traework.png
+  description: 字节跳动 Agent 办公助手
   winget: ByteDance.Trae
+- name: ZCode
+  url: https://zcode.z.ai/cn
+  img: zai.png
+  description: 智谱 GLM 官方 Harness
 - name: Kimi Code
   url: https://www.kimi.com/code
   img: kimi.png
-  description: 月之暗面 Agent 编程助手
+  description: 月之暗面 Agent Harness
   winget: MoonshotAI.KimiCodeCLI
 - name: Qoder
   url: https://qoder.com/
@@ -41,6 +45,10 @@
   url: https://copilot.tencent.com/
   img: codebuddy.png
   description: 腾讯云 Agent 编程平台
+- name: DeepSeek Harness
+  url: https://www.deepseek.com/harness/
+  img: deepseek.png
+  description: 一切皆插件的 Agent Harness
   winget: Tencent.CodeBuddy
 - name: CC Switch
   foss: true
