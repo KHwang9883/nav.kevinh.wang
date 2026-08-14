@@ -7,7 +7,7 @@
 - name: 小米互联服务 Windows 版
   url: https://hyperos.mi.com/continuity/abilities/ab0019
   img: miconnect.png
-  description: Xiaomi HyperOS 3 设备与 PC 互联
+  description: Xiaomi HyperOS 设备与 PC 互联
 - name: OPPO 互联
   abandoned: true
   url: https://connect.oppo.com/

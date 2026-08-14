@@ -10,26 +10,14 @@
   url: https://miuiver.com/
   img: xiaomihyperos.png
   description: 各机型 MIUI/Xiaomi HyperOS 版本分类索引，需注册
-- name: Xiaomi.EU
-  url: https://xiaomi.eu/community/
-  img: xiaomihyperos.png
-  description: 小米 ROM 官改
 - name: Xiaomi Firmware Updater
   url: https://xmfirmwareupdater.com/
   img: xfu.png
   description: 小米手机 ROM & 底包下载
-- name: 一加手机官方 ROM 下载
+- name: 一加真我 OPPO 官方 ROM 下载
   url: https://oplusrom.com/
   img: oneplus.png
-  description: 大侠阿木的一加 ROM 汇总站
-- name: ColorOS 升级工具
-  url: https://www.coloros.com/rom
-  img: coloros.png
-  description: OPPO 设备升级工具
-- name: realme UI 升级工具
-  url: https://www.realme.com/support/software-update
-  img: realme.png
-  description: 真我手机升级工具
+  description: 大侠阿木的欧加 ROM 汇总站
 - name: Flyme 官网下载
   url: https://www.flyme.com/firmware.html
   img: flyme.png
