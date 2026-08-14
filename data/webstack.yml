@@ -40,9 +40,9 @@ menu:
       - name: 聊天助手
         icon: far fa-comments
         config: aiChat
-      - name: 氛围编程
+      - name: 智能体编程
         icon: fas fa-code
-        config: vibeCoding
+        config: agenticCoding
       - name: AI 生产力
         icon: fas fa-toolbox
         config: aiTools

@@ -26,7 +26,7 @@
   url: https://www.trae.cn/work
   img: traework.png
   description: 字节跳动 Agent 办公助手
-  winget: ByteDance.Trae
+  winget: ByteDance.TraeWork.CN
 - name: ZCode
   url: https://zcode.z.ai/cn
   img: zai.png

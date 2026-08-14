@@ -5,6 +5,16 @@
   img: cherrystudio.png
   description: 全能 AI 工作站
   winget: kangfenmao.CherryStudio
+- name: TraeWork
+  url: https://www.trae.cn/work
+  img: traework.png
+  description: 字节跳动 Agent 办公助手
+  winget: ByteDance.TraeWork.CN
+- name: WorkBuddy
+  url: https://copilot.tencent.com/work/
+  img: workbuddy.png
+  description: 腾讯云 Agent 办公助手
+  winget: Tencent.WorkBuddy
 - name: OpenClaw
   foss: true
   url: https://openclaw.ai/
@@ -15,11 +25,6 @@
   url: https://hermes-agent.nousresearch.com/
   img: hermesagent.png
   description: 开源 Agent Harness
-- name: WorkBuddy
-  url: https://copilot.tencent.com/work/
-  img: workbuddy.png
-  description: 腾讯云 Agent 办公助手
-  winget: Tencent.WorkBuddy
 - name: Ollama
   abandoned: true
   foss: true
