@@ -47,6 +47,11 @@
   url: https://www.deepseek.com/harness/
   img: deepseek.png
   description: 一切皆插件的 Agent Harness
+- name: Pi Coding Agent
+  foss: true
+  url: https://pi.dev/
+  img: pi.png
+  description: 极简可扩展的 Agent Harness
 - name: CC Switch
   foss: true
   url: https://ccswitch.io/zh/
