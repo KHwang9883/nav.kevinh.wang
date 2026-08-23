@@ -22,13 +22,13 @@
   img: androidstudio.png
   description: 官方 Android IDE
   winget: Google.AndroidStudio
-- name: GitHub Desktop
+- name: Desktop Plus
   hot: true
   foss: true
-  url: https://desktop.github.com/
-  img: githubdesktop.png
-  description: 官方 GitHub 桌面用户端
-  winget: GitHub.GitHubDesktop
+  url: https://github.com/desktop-plus/desktop-plus
+  img: desktopplus.png
+  description: 社区增强版 GitHub Desktop
+  winget: DesktopPlus.DesktopPlus
 - name: Git
   foss: true
   url: https://git-scm.com/
