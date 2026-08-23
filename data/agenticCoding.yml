@@ -43,6 +43,7 @@
   description: 腾讯云 Agent 编程平台
   winget: Tencent.CodeBuddy
 - name: DeepSeek Harness
+  foss: true
   url: https://www.deepseek.com/harness/
   img: deepseek.png
   description: 一切皆插件的 Agent Harness
