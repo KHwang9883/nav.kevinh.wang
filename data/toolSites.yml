@@ -106,15 +106,19 @@
   url: https://excel2wiki.toolforge.org/
   img: excel2wiki.png
   description: Excel 转 Wikitext 格式
+- name: npmmirror.com
+  url: https://npmmirror.com/
+  img: cnpm.png
+  description: npmjs 国内镜像站
 - name: Font Awesome
   url: https://fontawesome.com/
   img: fontawesome.png
   description: 字体图标库
-- name: Lospec
-  url: https://lospec.com/
-  img: lospec.png
-  description: 像素画/调色板分享站
 - name: UI Colors
   url: https://uicolors.app/
   img: uicolors.png
   description: Tailwind CSS 调色盘生成器
+- name: Lospec
+  url: https://lospec.com/
+  img: lospec.png
+  description: 像素画/调色板分享站
