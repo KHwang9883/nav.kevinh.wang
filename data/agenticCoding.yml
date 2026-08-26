@@ -2,25 +2,25 @@
   require_proxy: required
   url: https://openai.com/zh-Hans-CN/codex/
   img: codex.png
-  description: OpenAI Agent Harness
+  description: OpenAI Coding Agent
   winget: OpenAI.Codex
 - name: OpenCode
   foss: true
   url: https://opencode.ai/
   img: opencode.png
-  description: 开源 Agent Harness
+  description: 开源 Coding Agent
   winget: SST.OpenCodeDesktop
 - name: Claude Code
   require_proxy: required
   url: https://claude.com/product/claude-code
   img: claude.png
-  description: Anthropic Agent Harness
+  description: Anthropic Coding Agent
   winget: Anthropic.ClaudeCode
 - name: TraeCode
   hot: true
   url: https://www.trae.cn/ide
   img: trae.png
-  description: 字节跳动 AI IDE
+  description: 字节跳动智能体编程 IDE
   winget: ByteDance.Trae.CN
 - name: ZCode
   url: https://zcode.z.ai/cn
@@ -30,28 +30,28 @@
 - name: Kimi Code
   url: https://www.kimi.com/code
   img: kimi.png
-  description: 月之暗面 Agent Harness
+  description: 月之暗面 Coding Agent
   winget: MoonshotAI.KimiCodeCLI
 - name: Qoder
   url: https://qoder.com/
   img: qoder.png
-  description: 阿里云 Agent 编程平台
+  description: 阿里云智能体编程平台
   winget: Alibaba.Lingma
 - name: CodeBuddy
   url: https://copilot.tencent.com/
   img: codebuddy.png
-  description: 腾讯云 Agent 编程平台
+  description: 腾讯云智能体编程平台
   winget: Tencent.CodeBuddy
 - name: DeepSeek Harness
   foss: true
   url: https://www.deepseek.com/harness/
   img: deepseek.png
-  description: 一切皆插件的 Agent Harness
-- name: Pi Coding Agent
+  description: 一切皆插件的 Agentic Harness
+- name: Oh My Pi
   foss: true
-  url: https://pi.dev/
-  img: pi.png
-  description: 极简可扩展的 Agent Harness
+  url: https://omp.sh/
+  img: omp.png
+  description: 基于 Pi 的智能体编程 Harness
 - name: CC Switch
   foss: true
   url: https://ccswitch.io/zh/

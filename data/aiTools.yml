@@ -7,23 +7,23 @@
 - name: TraeWork
   url: https://www.trae.cn/work
   img: traework.png
-  description: 字节跳动 Agent 办公助手
+  description: 字节跳动智能体办公助手
   winget: ByteDance.TraeWork.CN
 - name: WorkBuddy
   url: https://copilot.tencent.com/work/
   img: workbuddy.png
-  description: 腾讯云 Agent 办公助手
+  description: 腾讯云智能体办公助手
   winget: Tencent.WorkBuddy
 - name: OpenClaw
   foss: true
   url: https://openclaw.ai/
   img: openclaw.png
-  description: 开源 Agent AI 助手
+  description: 开源智能体 AI 助手
 - name: Hermes Agent
   foss: true
   url: https://hermes-agent.nousresearch.com/
   img: hermesagent.png
-  description: 开源 Agent Harness
+  description: 开源 Agentic Harness
 - name: Ollama
   abandoned: true
   foss: true
