@@ -22,11 +22,6 @@
   img: trae.png
   description: 字节跳动智能体编程 IDE
   winget: ByteDance.Trae.CN
-- name: ZCode
-  url: https://zcode.z.ai/cn
-  img: zai.png
-  description: 智谱 GLM 官方 Harness
-  winget: ZhipuAI.ZCode
 - name: Kimi Code
   url: https://www.kimi.com/code
   img: kimi.png
