@@ -16,11 +16,11 @@
   img: claude.png
   description: Anthropic Coding Agent
   winget: Anthropic.ClaudeCode
-- name: TraeCode
+- name: TRAE
   hot: true
   url: https://www.trae.cn/ide
-  img: trae.png
-  description: 字节跳动智能体编程 IDE
+  img: traework.png
+  description: 字节跳动智能体编程办公助手
   winget: ByteDance.Trae.CN
 - name: Kimi Code
   url: https://www.kimi.com/code

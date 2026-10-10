@@ -4,11 +4,6 @@
   img: cherrystudio.png
   description: 全能 AI 工作站
   winget: kangfenmao.CherryStudio
-- name: TraeWork
-  url: https://www.trae.cn/work
-  img: traework.png
-  description: 字节跳动智能体办公助手
-  winget: ByteDance.TraeWork.CN
 - name: WorkBuddy
   url: https://copilot.tencent.com/work/
   img: workbuddy.png
