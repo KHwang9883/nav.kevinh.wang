@@ -14,11 +14,11 @@
   },
   "devDependencies": {
     "@types/js-yaml": "^4.0.9",
-    "js-yaml": "^5.4.2",
-    "marked": "^18.0.13",
+    "js-yaml": "^5.5.0",
+    "marked": "^18.1.1",
     "typescript": "^6.0.3",
-    "astro": "^7.3.2",
-    "@astrojs/check": "^0.9.10",
+    "astro": "^7.4.1",
+    "@astrojs/check": "^0.9.11",
     "tailwindcss": "^4.3.3",
     "@tailwindcss/vite": "^4.3.3"
   }
