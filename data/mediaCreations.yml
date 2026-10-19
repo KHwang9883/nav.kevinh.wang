@@ -3,6 +3,11 @@
   url: https://www.adobe.com/cn/creativecloud/catalog/desktop.html
   img: adobe.png
   description: Adobe 生产力软件
+- name: Crafting Apps
+  foss: true
+  url: https://getartcraft.com/apps
+  img: artcraft.png
+  description: Rust 构建的开源创作工具集
 - name: GIMP
   foss: true
   url: https://www.gimp.org/
