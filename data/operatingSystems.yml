@@ -26,11 +26,21 @@
   url: https://www.archlinux.org
   img: archlinux.png
   description: 大道至简的 GNU/Linux 发行版
+- name: CachyOS
+  foss: true
+  url: https://cachyos.org/download/
+  img: cachyos.png
+  description: 开箱即用、性能优化的 Arch 系 GNU/Linux 发行版
+- name: Omarchy
+  foss: true
+  url: https://zh.omarchy.org/
+  img: omarchy.png
+  description: Agent 原生 GNU/Linux 发行版，基于 Arch + Hyprland
 - name: EndeavourOS
   foss: true
   url: https://endeavouros.com/
   img: endeavour.webp
-  description: 基于 Arch Linux 的 GNU/Linux 发行版
+  description: 基于 Arch 的 GNU/Linux 发行版
 - name: deepin
   foss: true
   url: https://www.deepin.org/zh/download/
