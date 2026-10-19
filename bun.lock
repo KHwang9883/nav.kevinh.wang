@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "kevinhuang-nav",
+      "name": "nav-template",
       "dependencies": {
         "@fortawesome/fontawesome-free": "^7.3.1",
       },

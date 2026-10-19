@@ -1,24 +1,21 @@
-本站是 Kevin Huang 的个人导航站，使用 [Astro](https://astro.build/) 框架 + [Tailwind CSS](https://tailwindcss.com/) 构建。
+本站是一个基于 [Astro](https://astro.build/) 框架 + [Tailwind CSS](https://tailwindcss.com/) 构建的静态导航站模板，所有栏目与条目均由 `data/` 目录下的 YAML 文件驱动，无需改动代码即可增删内容。
 
-本站列出的全部软件和操作系统本人都正在使用或曾体验过，表示本人的一种认可。
+站内的条目与分类均为演示数据，请在 `data/` 目录中替换为你自己的内容。
 
-本站现提供 winget 一键命令，用户只需将复制的命令粘贴到 Windows 终端即可快速安装。
+## 标签说明
 
-- 标有 <i class="fab fa-osi"></i> 图标的均为自由/开源软件
-- 标有 <i class="fas fa-fire"></i> 的软件为本人常用（「主力」级别）且特别推荐的软件
-- 标有 <i class="fas fa-dollar-sign"></i> 的均为买断制收费软件（Adobe Creative Cloud 为例外，其不是买断制但有此标注）
-- 标有 <i class="fas fa-stop-circle"></i> 的软件为我有段时间未使用且可能已被卸载，但仍作为推荐列出
-- 标有 <i class="fas fa-user"></i> 的均为本人参与或有直接关联的项目/网站
-- 标有 <i class="fas fa-plane"></i> 的表示需借助代理等手段访问，<span class="proxy-optional"><i class="fas fa-plane"></i></span> 表示可能需借助代理也可能直连即可访问
+- 标有 <i class="fab fa-osi"></i> 的条目为自由/开源软件（`foss: true`）
+- 标有 <i class="fas fa-fire"></i> 的条目为特别推荐的热门条目（`hot: true`）
+- 标有 <i class="fas fa-dollar-sign"></i> 的条目为买断制收费软件（`paid: true`）
+- 标有 <i class="fas fa-user"></i> 的条目为与站长有直接关联的项目/网站（`affiliate: true`）
+- 标有 <i class="fas fa-stop-circle"></i> 的条目为近期未使用但仍作推荐（`abandoned: true`）
+- 标有 <i class="fas fa-plane"></i> 的条目需借助代理等手段访问（`require_proxy: required`），<span class="proxy-optional"><i class="fas fa-plane"></i></span> 表示可能需借助代理也可能直连即可访问（`require_proxy: optional`）
+- 条目卡片上的「安装」按钮（`winget` 字段）可将 `winget install` 命令一键复制到剪贴板
 
-如你在本站未找到某款软件，可能是因为：
+以上标签均由 YAML 字段开关，字段说明见 README.md 的「数据字段」章节。
 
-- 站长不知道/没有使用过该软件；
-- 站长使用过该软件，但由于某些原因，软件已经被卸载了；
-- 出于某些原因，站长不推荐/不认可该软件；
-- 软件已停止维护或不再可用；
-- ……
+## 如何贡献内容
 
-本站灵感/部分应用图标来源于 [狼导 - 音速装机](https://sonic.volf.club/)。
-
-如有任何问题，请 [提交 Issue](https://github.com/KHwang9883/nav.kevinh.wang/issues)。
+1. 在 `data/` 目录下新建或编辑分类 YAML 文件，按 `NavItem` 结构添加条目；
+2. 若为新增分类，在 `data/webstack.yml` 的 `menu` 中补充对应的 `config` 项；
+3. 将条目图标放入 `public/images/`，`img` 字段只需填写文件名。

@@ -1,9 +1,10 @@
 ---
 interface Props {
   showToggle?: boolean
+  title: string
 }
 
-const { showToggle = true } = Astro.props
+const { showToggle = true, title } = Astro.props
 ---
 
 <nav class="top-nav">
@@ -17,7 +18,7 @@ const { showToggle = true } = Astro.props
       )}
       <!-- Text logo -->
       <a href="/" class="top-nav-logo">
-        Kevin Huang 的导航站
+        {title}
       </a>
     </div>
 

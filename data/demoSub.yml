@@ -1,0 +1,13 @@
+# 二级分组示例：文件结构与本目录下其他分类文件完全一致
+# 在 webstack.yml 中把该文件名（不含 .yml）填入某个 submenu 项的 config 字段即可
+
+- name: 子分组条目
+  url: https://example.com/
+  img: missing.png
+  description: 归属于二级分组的条目
+
+- name: 子分组开源条目
+  foss: true
+  url: https://example.com/
+  img: missing.png
+  description: 二级分组内同样支持所有字段

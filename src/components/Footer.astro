@@ -1,9 +1,10 @@
 ---
 interface Props {
   since: number
+  title: string
 }
 
-const { since } = Astro.props
+const { since, title } = Astro.props
 const currentYear = new Date().getFullYear()
 const sinceRange = since === currentYear ? String(since) : `${since} - ${currentYear}`
 ---
@@ -12,7 +13,7 @@ const sinceRange = since === currentYear ? String(since) : `${since} - ${current
   <div class="footer-inner">
     <div class="footer-left">
       <span class="footer-copyright">&copy; {sinceRange}</span>
-      <a href="https://kevinh.wang/" class="footer-author" target="_blank">Kevin Huang</a>
+      <a href="/" class="footer-author">{title}</a>
       <span class="footer-divider">|</span>
       <span class="footer-credit">Powered by <a href="https://astro.build/" target="_blank">Astro</a></span>
     </div>

@@ -1,0 +1,76 @@
+# 示例数据：逐条演示 NavItem 支持的全部字段
+# 字段含义见 README.md「数据字段」章节，标签图标含义见 data/about.md
+#
+# img 字段写法：
+#   - missing.png              → 构建时自动补全为 /images/missing.png
+#   - /images/missing.png      → 以 / 开头时按完整路径处理
+#   - https://example.com/a.png → 以 http 开头时按外链处理
+# 模板内置的 public/images/missing.png 为通用的加载失败占位图，示例条目统一复用它
+
+- name: 基础条目
+  url: https://example.com/
+  img: missing.png
+  description: 只填写必填字段的普通条目
+
+- name: 开源条目
+  foss: true
+  url: https://example.com/
+  img: missing.png
+  description: foss 为 true 时显示 OSI 开源图标
+
+- name: 热门条目
+  hot: true
+  url: https://example.com/
+  img: missing.png
+  description: hot 为 true 时在名称后显示红色火焰徽章
+
+- name: 付费条目
+  paid: true
+  url: https://example.com/
+  img: missing.png
+  description: paid 为 true 时显示美元图标，表示买断制收费
+
+- name: 关联条目
+  affiliate: true
+  url: https://example.com/
+  img: missing.png
+  description: affiliate 为 true 时显示用户图标，表示与站长有直接关联
+
+- name: 必须代理访问
+  require_proxy: required
+  url: https://example.com/
+  img: missing.png
+  description: require_proxy 为 required 时显示实心飞机图标
+
+- name: 可能需要代理访问
+  require_proxy: optional
+  url: https://example.com/
+  img: missing.png
+  description: require_proxy 为 optional 时显示空心飞机图标
+
+- name: 已弃用条目
+  abandoned: true
+  url: https://example.com/
+  img: missing.png
+  description: abandoned 为 true 时在名称后显示橙色停止圆圈徽章
+
+- name: 支持 winget 安装
+  winget: Microsoft.PowerToys
+  url: https://example.com/
+  img: missing.png
+  description: 填写 winget 包 ID 后，卡片上出现可一键复制命令的「安装」按钮
+
+- name: 多标签组合条目
+  foss: true
+  affiliate: true
+  require_proxy: required
+  hot: true
+  winget: Microsoft.PowerToys
+  url: https://example.com/
+  img: missing.png
+  description: 演示多个标签与 winget 按钮同时出现时的排列顺序
+
+- name: 完整路径图片
+  url: https://example.com/
+  img: /images/missing.png
+  description: img 以 / 开头时不会被补全 /images/ 前缀

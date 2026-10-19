@@ -2,7 +2,7 @@
 
 ## 项目
 
-基于 Astro 7 + Tailwind CSS v4 构建的导航/书签站点。通过 Astro 静态生成（`output: 'static'`）产出纯静态文件。部署地址：https://nav.kevinh.wang/
+基于 Astro 7 + Tailwind CSS v4 构建的导航/书签站点模板。通过 Astro 静态生成（`output: 'static'`）产出纯静态文件。站点域名在 `astro.config.mjs` 的 `site` 字段中配置（模板默认 `https://example.com`）。
 
 ## 命令
 
@@ -44,12 +44,12 @@ Bun 1.3.14（在 `packageManager` 字段中声明）。请勿使用 npm/pnpm/yar
 │   └── styles/             # 全局样式
 │       └── global.css
 ├── data/                   # YAML 数据文件
-│   ├── webstack.yml        # 菜单配置与元数据
+│   ├── webstack.yml        # 站点元数据、菜单配置与关于页配置
 │   ├── about.md            # 关于页面内容
-│   └── *.yml               # 分类数据文件
+│   └── *.yml               # 分类数据文件（demo.yml、demoSub.yml 为示例）
 ├── public/                 # 静态资源
-│   ├── images/             # 条目图片
-│   └── favicon.ico
+│   ├── images/             # 条目图片（仅保留 missing.png 兜底占位图）
+│   └── favicon.svg
 ├── astro.config.mjs        # Astro 配置（集成 @tailwindcss/vite）
 ├── tailwind.config.ts      # Tailwind 配置（自定义颜色令牌）
 └── tsconfig.json           # TypeScript 配置（继承 astro/tsconfigs/strict）
@@ -59,8 +59,8 @@ Bun 1.3.14（在 `packageManager` 字段中声明）。请勿使用 npm/pnpm/yar
 
 所有站点内容来自 `data/` 目录下的 YAML 文件。构建时数据加载模块（`src/data/load.ts`）在 Astro 构建时读取这些文件并组装完整的导航树：
 
-1. `data/webstack.yml` — 定义菜单结构、站点元数据（favicon、banner、logos）和关于页面配置。每个菜单项有一个 `config` 键，引用 YAML 文件名（不含 `.yml` 后缀）。
-2. 其他 `data/*.yml` 文件 — 分类数据（如 `aiChat.yml`、`gamePlatforms.yml`）。每个文件是 `NavItem` 对象数组。
+1. `data/webstack.yml` — 定义站点元数据（`title`、`subtitle`、`favicon`）、菜单结构和关于页面配置。每个菜单项有一个 `config` 键，引用 YAML 文件名（不含 `.yml` 后缀）。
+2. 其他 `data/*.yml` 文件 — 分类数据（如 `demo.yml`、`demoSub.yml`）。每个文件是 `NavItem` 对象数组。
 3. `data/about.md` — 关于页面的 Markdown 内容，通过 `marked` 库渲染为 HTML。
 
 `getNavData()` 函数通过匹配 `config` 键与 YAML 文件来组装完整的导航树。要添加/重命名/重排序分类，编辑 `webstack.yml`。要添加/删除条目，编辑对应的分类 YAML 文件。

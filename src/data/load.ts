@@ -92,9 +92,9 @@ export function getNavData(): NavData {
   }
 
   return {
-    title: 'Kevin Huang 的导航站',
-    subtitle: '亲选软件与资源',
-    favicon: webstackConfig.favicon,
+    title: webstackConfig.title ?? '我的导航站',
+    subtitle: webstackConfig.subtitle ?? '',
+    favicon: webstackConfig.favicon ?? '/favicon.svg',
     banner: webstackConfig.banner,
     logo: webstackConfig.logo,
     menu,
