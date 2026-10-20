@@ -14,6 +14,7 @@
   url: https://openclaw.ai/
   img: openclaw.png
   description: 开源智能体 AI 助手
+  winget: OpenClaw.OpenClawCompanion
 - name: Hermes Agent
   foss: true
   url: https://hermes-agent.nousresearch.com/
