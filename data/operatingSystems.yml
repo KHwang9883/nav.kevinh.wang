@@ -46,6 +46,11 @@
   url: https://www.deepin.org/zh/download/
   img: deepin.png
   description: 国产 GNU/Linux 发行版
+- name: Fedora
+  foss: true
+  url: https://fedoraproject.org/
+  img: fedora.png
+  description: 社区驱动的 GNU/Linux 发行版
 - name: Bazzite
   foss: true
   url: https://bazzite.gg/
