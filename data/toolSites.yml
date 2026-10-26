@@ -46,6 +46,10 @@
   url: https://limestart.cn/
   img: limestart.png
   description: 简洁、美观、实用的浏览器起始页
+- name: Weibo-archiver
+  url: https://github.com/Chilfish/Weibo-archiver
+  img: weibo-archiver.webp
+  description: 微博归档工具，保存微博内容
 - name: VirusTotal
   url: https://www.virustotal.com/
   img: virustotal.png
