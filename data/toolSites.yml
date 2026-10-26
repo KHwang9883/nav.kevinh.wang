@@ -58,10 +58,6 @@
   url: http://www.lsjgcx.com/
   img: price.png
   description: 查询商品历史价格走势
-- name: IP 查询 (ipw.cn)
-  url: https://ipw.cn/
-  img: ipw.png
-  description: IPv6 检测
 - name: 1024tools.com
   url: https://1024tools.com/
   img: 1024tools.png
