@@ -14,6 +14,7 @@ const data = getNavData()
           item.submenu.map((sub) => (
             <CategorySection
               name={sub.name}
+              nameAlt={sub.nameAlt}
               icon={sub.icon}
               items={sub.items}
               description={sub.description}
@@ -22,6 +23,7 @@ const data = getNavData()
         ) : item.items ? (
           <CategorySection
             name={item.name}
+            nameAlt={item.nameAlt}
             icon={item.icon}
             items={item.items}
             description={item.description}

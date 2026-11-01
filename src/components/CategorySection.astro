@@ -4,20 +4,22 @@ import type { NavItem } from '../data/types'
 
 interface Props {
   name: string
+  nameAlt?: string
   icon: string
   items: NavItem[]
   description?: string
 }
 
-const { name, icon, items, description } = Astro.props
+const { name, nameAlt, icon, items, description } = Astro.props
 const anchorId = name.replace(/\s+/g, '-')
+const displayName = nameAlt || name
 ---
 
 <div id={anchorId} class="category-anchor">
   <div class="category-header">
     <i class={`${icon} category-icon`}></i>
     <div class="category-header-body">
-      <h4 class="category-title">{name}</h4>
+      <h4 class="category-title">{displayName}</h4>
       {description && <p class="category-description">{description}</p>}
     </div>
   </div>
