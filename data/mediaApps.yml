@@ -36,12 +36,6 @@
   img: vlc.png
   description: 开源多媒体播放器
   winget: VideoLAN.VLC
-- name: YesPlayMusic
-  foss: true
-  url: https://github.com/qier222/YesPlayMusic
-  img: yesplaymusic.png
-  description: 第三方网易云音乐用户端
-  winget: qier222.YesPlayMusic
 - name: Listen1
   abandoned: true
   foss: true
