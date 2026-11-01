@@ -3,16 +3,6 @@
   img: baidupan.png
   description: 用户量大的网盘
   winget: Baidu.BaiduNetdisk
-- name: 123 云盘
-  url: https://www.123pan.com/Downloadclient?type=Pc
-  img: 123pan.png
-  description: 免费大容量高速云盘
-  winget: 123.123pan
-- name: 阿里云盘
-  url: https://www.aliyundrive.com/
-  img: aliyundrive.png
-  description: 大容量网盘
-  winget: Alibaba.aDrive
 - name: 蓝奏云
   url: https://pc.woozooo.com/
   img: lanzou.png
