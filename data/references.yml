@@ -1,7 +1,8 @@
-- name: 狼导 - 音速装机
-  url: https://sonic.volf.club/
-  img: sonic.png
-  description: 本站灵感来源 (长期未更新，保留仅作致敬用)
+- name: 音速 NEXT
+  affiliate: true
+  url: https://sonic.kevinh.wang/
+  img: sonic-next.png
+  description: 面向大众的 Windows 装机导航站
 - name: 你缺失的那门计算机课
   url: https://www.criwits.top/missing/
   img: missing.png
