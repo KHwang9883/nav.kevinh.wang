@@ -15,6 +15,7 @@ export interface NavItem {
 
 export interface MenuSubItem {
   name: string
+  nameAlt?: string
   icon: string
   config: string
   description?: string
@@ -23,6 +24,7 @@ export interface MenuSubItem {
 
 export interface MenuItem {
   name: string
+  nameAlt?: string
   icon: string
   config?: string
   description?: string
