@@ -79,6 +79,7 @@ interface NavItem {
   require_proxy?: 'required' | 'optional'  // 代理指示器（飞机图标）
   hot?: boolean         // 名称旁的热门徽章（火焰图标，红色）
   abandoned?: boolean   // 名称旁的已弃用徽章（停止圆圈图标，橙色）
+  pup?: boolean         // “可能不必要的程序”标签（喇叭图标，橙色）
   winget?: string       // Windows winget 包 ID（如 "ZhipuAI.ChatGLM"）
 }
 ```
@@ -107,7 +108,7 @@ Markdown 内容从 `data/about.md` 通过 `marked` 库加载。`webstack.yml` �
 - **字体：** 跨平台系统字体栈（`system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif`），在 `global.css` 的 `body` 中声明。不加载外部字体文件。
 - **图标：** Font Awesome 7.x 通过 npm 安装（`@fortawesome/fontawesome-free`），在 `Layout.astro` 中通过 `import '@fortawesome/fontawesome-free/css/all.min.css'` 全局导入。使用 `fab fa-*` / `fas fa-*` / `far fa-*` 类名。
 - **CSS 方案：** 在 `src/styles/global.css` 中使用 `@layer components` 定义大量自定义组件类。浅色/深色模式通过 `.dark` 前缀选择器处理。模板中使用 Tailwind 工具类。Tailwind v4 通过 `@tailwindcss/vite` 插件集成，CSS 中使用 `@import "tailwindcss"` + `@config "../../tailwind.config.ts"` 引用传统配置。
-- **LinkCard 图标显示顺序：** OSI → 付费 → 联盟 → 代理 → winget 按钮。热门/已弃用图标显示在名称之后。
+- **LinkCard 图标显示顺序：** OSI → 付费 → 联盟 → 代理 → PUP → winget 按钮。热门/已弃用图标显示在名称之后。
 - **移动端侧边栏：** 使用 `transform: translateX()` 实现折叠动画，固定宽度 260px。遮罩层 z-index 为 40，菜单 z-index 为 50。
 - **侧边栏子菜单动画：** 使用 `max-height` + `opacity` + `transition` 实现淡入淡出展开/折叠效果（0.25s ease），通过 `classList.toggle('submenu-open')` 控制。
 - **锚点滚动：** 分类锚点容器使用 `scroll-margin-top: 72px` 补偿固定 topnav（56px）高度，避免标题被遮挡。在非首页（如 about 页）点击侧边栏锚点会跳转到 `/#锚点`。

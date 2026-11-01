@@ -12,10 +12,20 @@ const data = getNavData()
       <>
         {item.submenu ? (
           item.submenu.map((sub) => (
-            <CategorySection name={sub.name} icon={sub.icon} items={sub.items} />
+            <CategorySection
+              name={sub.name}
+              icon={sub.icon}
+              items={sub.items}
+              description={sub.description}
+            />
           ))
         ) : item.items ? (
-          <CategorySection name={item.name} icon={item.icon} items={item.items} />
+          <CategorySection
+            name={item.name}
+            icon={item.icon}
+            items={item.items}
+            description={item.description}
+          />
         ) : null}
       </>
     ))}

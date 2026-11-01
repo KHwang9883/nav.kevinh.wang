@@ -9,6 +9,7 @@ export interface NavItem {
   require_proxy?: 'required' | 'optional'
   hot?: boolean
   abandoned?: boolean
+  pup?: boolean
   winget?: string
 }
 
@@ -16,6 +17,7 @@ export interface MenuSubItem {
   name: string
   icon: string
   config: string
+  description?: string
   items: NavItem[]
 }
 
@@ -23,6 +25,7 @@ export interface MenuItem {
   name: string
   icon: string
   config?: string
+  description?: string
   items?: NavItem[]
   submenu?: MenuSubItem[]
 }
