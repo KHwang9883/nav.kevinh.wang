@@ -6,7 +6,7 @@ interface Props {
 }
 
 const { item } = Astro.props
-const hasTags = item.foss || item.paid || item.affiliate || item.require_proxy || item.winget
+const hasTags = item.foss || item.paid || item.affiliate || item.require_proxy || item.pup || item.winget
 ---
 
 <a href={item.url} target="_blank" rel="noopener noreferrer" class="nav-card" data-nav-card data-card-url={item.url}>
@@ -34,6 +34,7 @@ const hasTags = item.foss || item.paid || item.affiliate || item.require_proxy |
         {item.affiliate && <i class="fas fa-user nav-card-tag affiliate" title="本人参与"></i>}
         {item.require_proxy === 'required' && <i class="fas fa-plane nav-card-tag proxy-required" title="国内需借助特殊手段"></i>}
         {item.require_proxy === 'optional' && <i class="fas fa-plane nav-card-tag proxy-optional" title="国内可能需特殊手段"></i>}
+        {item.pup && <i class="fas fa-bullhorn nav-card-tag pup" title="可能包含推广或不必要的附加组件"></i>}
         {item.winget && (
           <button
             class="nav-card-winget"

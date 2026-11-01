@@ -6,17 +6,21 @@ interface Props {
   name: string
   icon: string
   items: NavItem[]
+  description?: string
 }
 
-const { name, icon, items } = Astro.props
+const { name, icon, items, description } = Astro.props
 const anchorId = name.replace(/\s+/g, '-')
 ---
 
 <div id={anchorId} class="category-anchor">
-  <h4 class="category-title">
-    <i class={icon} style="margin-right: 7px;"></i>
-    <span>{name}</span>
-  </h4>
+  <div class="category-header">
+    <i class={`${icon} category-icon`}></i>
+    <div class="category-header-body">
+      <h4 class="category-title">{name}</h4>
+      {description && <p class="category-description">{description}</p>}
+    </div>
+  </div>
   <div class="nav-grid">
     {items.map((item) => (
       <LinkCard item={item} />

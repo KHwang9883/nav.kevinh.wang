@@ -184,8 +184,27 @@
   }
 
   /* Category title */
+  .category-header {
+    display: flex;
+    align-items: baseline;
+    gap: 7px;
+    margin-bottom: 1rem;
+  }
+
+  .category-icon {
+    flex-shrink: 0;
+  }
+
   .category-title {
-    @apply text-lg font-semibold text-gray-600 mt-8 mb-4 first:mt-0;
+    @apply text-lg font-semibold text-gray-600;
+  }
+
+  /* 分类描述：与标题文字左对齐（图标列由 flex 布局独立），小字显示 */
+  .category-description {
+    @apply text-xs text-gray-500;
+    margin-top: 4px;
+    line-height: 1.5;
+    word-break: break-word;
   }
 
   /* 锚点滚动补偿：避免固定 topnav（56px）遮挡分类标题 */
@@ -193,12 +212,12 @@
     scroll-margin-top: 72px;
   }
 
-  .category-title i {
-    margin-right: 7px;
-  }
-
   .dark .category-title {
     color: #d4d4d8;
+  }
+
+  .dark .category-description {
+    color: #8b9299;
   }
 
   /* Footer - base styles */
@@ -305,6 +324,10 @@
     color: #a3a3a3;
   }
 
+  .nav-card-tag.pup {
+    color: #f97316;
+  }
+
   /* Name tag colors */
   .nav-card-name-tag.hot {
     color: #ef4444;
@@ -354,6 +377,10 @@
 
   .dark .nav-card-tag.proxy-optional {
     color: #d4d4d8;
+  }
+
+  .dark .nav-card-tag.pup {
+    color: #fb923c;
   }
 
   /* Name tag colors - dark mode */
