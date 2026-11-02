@@ -1,0 +1,10 @@
+- name: 音速 NEXT
+  affiliate: true
+  url: https://sonic.kevinh.wang/
+  img: sonic-next.png
+  description: 面向大众的 Windows 装机导航站
+- name: MobileModels 在线版
+  affiliate: true
+  url: https://mobilemodels.kevinh.wang/
+  img: mobilemodels.png
+  description: 在线浏览手机品牌型号汇总数据库

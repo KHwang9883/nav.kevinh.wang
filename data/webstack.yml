@@ -1,6 +1,9 @@
 favicon: /favicon.ico
 
 menu:
+  - name: 最新推荐
+    icon: fas fa-star
+    config: featured
   - name: 操作系统
     icon: fab fa-microsoft
     config: operatingSystems

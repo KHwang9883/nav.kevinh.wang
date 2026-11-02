@@ -1,8 +1,3 @@
-- name: 音速 NEXT
-  affiliate: true
-  url: https://sonic.kevinh.wang/
-  img: sonic-next.png
-  description: 面向大众的 Windows 装机导航站
 - name: 你缺失的那门计算机课
   url: https://www.criwits.top/missing/
   img: missing.png
