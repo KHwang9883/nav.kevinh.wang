@@ -68,6 +68,10 @@
   url: https://hubweb.cn/
   img: hubweb.png
   description: Apple 设备、芯片参数对比一览
+- name: AppleDB
+  url: https://appledb.dev/
+  img: appledb.png
+  description: Apple 设备数据库
 - name: TVLABS
   url: https://tvlabs.cn/
   img: tvlabs.png
